@@ -1,0 +1,99 @@
+{
+  "package": "audio-extras",
+  "revision": 3,
+  "updated": "2026-08-01T21:04:29Z",
+  "folder": "audio/apk",
+  "count": 9,
+  "slides": [
+    {
+      "id": "0684208d9309d586",
+      "file": "audio/apk/0684208d9309d586.mp3",
+      "sha256": "0684208d9309d586530cf8804db038b7dcd8b2a5e9da1572ddee0f3dab96dc3b",
+      "bytes": 1036004,
+      "order": 1,
+      "source_name": "0684208d9309d586.mp3",
+      "role": "",
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/audio-extras-v3/0684208d9309d586.mp3"
+    },
+    {
+      "id": "67bf61d28900a67a",
+      "file": "audio/apk/67bf61d28900a67a.mp3",
+      "sha256": "67bf61d28900a67a243b2759c6389e84ee857d12313f70ad83d09033b1b8c26c",
+      "bytes": 1344159,
+      "order": 2,
+      "source_name": "67bf61d28900a67a.mp3",
+      "role": "",
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/audio-extras-v3/67bf61d28900a67a.mp3"
+    },
+    {
+      "id": "82d74c005e25cc98",
+      "file": "audio/apk/82d74c005e25cc98.mp3",
+      "sha256": "82d74c005e25cc9848640691c2d2c273f808554323cc8c3871eb2b1cdc62cbdb",
+      "bytes": 343343,
+      "order": 3,
+      "source_name": "82d74c005e25cc98.mp3",
+      "role": "",
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/audio-extras-v3/82d74c005e25cc98.mp3"
+    },
+    {
+      "id": "33d29bca895bfa4f",
+      "file": "audio/apk/33d29bca895bfa4f.mp3",
+      "sha256": "33d29bca895bfa4fc3048b639d0c57e7ba26336b5030d791674a55cb89df1f89",
+      "bytes": 32852,
+      "order": 4,
+      "source_name": "Alert_ar.mp3",
+      "role": "",
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/audio-extras-v3/33d29bca895bfa4f.mp3"
+    },
+    {
+      "id": "4895eecb325e001e",
+      "file": "audio/apk/4895eecb325e001e.mp3",
+      "sha256": "4895eecb325e001e26d532db3b9c3d70abe6c9fc561d6a55b930fd15f91eaf16",
+      "bytes": 23030,
+      "order": 5,
+      "source_name": "Alert_de.mp3",
+      "role": "",
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/audio-extras-v3/4895eecb325e001e.mp3"
+    },
+    {
+      "id": "6ad24ccd2798b733",
+      "file": "audio/apk/6ad24ccd2798b733.mp3",
+      "sha256": "6ad24ccd2798b733b77d0e707dab6f975e17aa31c8cc5ad5311582abe3e2e58d",
+      "bytes": 29509,
+      "order": 6,
+      "source_name": "Alert_tr.mp3",
+      "role": "",
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/audio-extras-v3/6ad24ccd2798b733.mp3"
+    },
+    {
+      "id": "5df85ff1873ca234",
+      "file": "audio/apk/5df85ff1873ca234.mp3",
+      "sha256": "5df85ff1873ca2340854bff68bd276dea77062d0869e59ed610f65380d530087",
+      "bytes": 24284,
+      "order": 7,
+      "source_name": "Alert_us.mp3",
+      "role": "",
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/audio-extras-v3/5df85ff1873ca234.mp3"
+    },
+    {
+      "id": "d3b2291b956d3bad",
+      "file": "audio/apk/d3b2291b956d3bad.mp3",
+      "sha256": "d3b2291b956d3badd84dd8d4260563972075a6be0e26f91ecc1804ee3e41ec41",
+      "bytes": 376928,
+      "order": 8,
+      "source_name": "d3b2291b956d3bad.mp3",
+      "role": "",
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/audio-extras-v3/d3b2291b956d3bad.mp3"
+    },
+    {
+      "id": "ef87b1cee518f5f8",
+      "file": "audio/apk/ef87b1cee518f5f8.mp3",
+      "sha256": "ef87b1cee518f5f8d357c8a11948ef9247bc3e2d8dd238b11639adc8fa7c0704",
+      "bytes": 4334489,
+      "order": 9,
+      "source_name": "ef87b1cee518f5f8.mp3",
+      "role": "",
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/audio-extras-v3/ef87b1cee518f5f8.mp3"
+    }
+  ]
+}
