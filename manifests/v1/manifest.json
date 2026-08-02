@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "updated": "2026-08-02T00:18:19Z",
+  "github_repo": "mihrapnidaapp/tefekkur-assets",
+  "download_url_template": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/{tag}/{file}",
+  "packages": {
+    "screensaver-tr": {
+      "revision": 2,
+      "count": 583,
+      "manifest": "manifests/packages/screensaver-tr.json",
+      "release_tag": "screensaver-tr-v2"
+    },
+    "screensaver-en": {
+      "revision": 2,
+      "count": 583,
+      "manifest": "manifests/packages/screensaver-en.json",
+      "release_tag": "screensaver-en-v2"
+    },
+    "pictures-tr": {
+      "revision": 2,
+      "count": 6,
+      "manifest": "manifests/packages/pictures-tr.json",
+      "release_tag": "pictures-tr-v2"
+    },
+    "pictures-en": {
+      "revision": 2,
+      "count": 6,
+      "manifest": "manifests/packages/pictures-en.json",
+      "release_tag": "pictures-en-v2"
+    },
+    "azan-turkey": {
+      "revision": 2,
+      "count": 19,
+      "manifest": "manifests/packages/azan-turkey.json",
+      "release_tag": "azan-turkey-v2"
+    },
+    "azan-mecca": {
+      "revision": 2,
+      "count": 7,
+      "manifest": "manifests/packages/azan-mecca.json",
+      "release_tag": "azan-mecca-v2"
+    },
+    "azan-egypt": {
+      "revision": 2,
+      "count": 10,
+      "manifest": "manifests/packages/azan-egypt.json",
+      "release_tag": "azan-egypt-v2"
+    },
+    "audio-extras": {
+      "revision": 3,
+      "count": 9,
+      "manifest": "manifests/packages/audio-extras.json",
+      "release_tag": "audio-extras-v3"
+    },
+    "adhan-visuals": {
+      "revision": 1,
+      "count": 24,
+      "manifest": "manifests/packages/adhan-visuals.json",
+      "release_tag": "adhan-visuals-v1"
+    }
+  }
+}
