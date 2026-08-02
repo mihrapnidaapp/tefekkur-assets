@@ -1,0 +1,225 @@
+{
+  "package": "adhan-visuals",
+  "revision": 1,
+  "updated": "2026-08-02T00:18:19Z",
+  "folder": "backgrounds/adhan_mosques_world",
+  "count": 24,
+  "slides": [
+    {
+      "id": "08e2b4ad6592322f",
+      "file": "backgrounds/adhan_mosques_world/08e2b4ad6592322f.jpg",
+      "sha256": "08e2b4ad6592322f0fd46b6ce102cabfa86752a7e66b974a5920f40a70b7eb52",
+      "bytes": 316224,
+      "order": 1,
+      "source_name": "adhan_mosque_001.jpg",
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v1/08e2b4ad6592322f.jpg"
+    },
+    {
+      "id": "a4f3333fce372666",
+      "file": "backgrounds/adhan_mosques_world/a4f3333fce372666.jpg",
+      "sha256": "a4f3333fce3726669a11b17f5090d3128e7f6f73bd037fec92368b1f4baceb39",
+      "bytes": 648755,
+      "order": 2,
+      "source_name": "adhan_mosque_002.jpg",
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v1/a4f3333fce372666.jpg"
+    },
+    {
+      "id": "23e1e1162b9b47bd",
+      "file": "backgrounds/adhan_mosques_world/23e1e1162b9b47bd.jpg",
+      "sha256": "23e1e1162b9b47bd2a3a85cb828d7e7f8f7741e9fd79d607ce676c385b6eaa58",
+      "bytes": 356382,
+      "order": 3,
+      "source_name": "adhan_mosque_003.jpg",
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v1/23e1e1162b9b47bd.jpg"
+    },
+    {
+      "id": "a9ca3088982126d1",
+      "file": "backgrounds/adhan_mosques_world/a9ca3088982126d1.jpg",
+      "sha256": "a9ca3088982126d1e7e1b025fbae5ddb4de29725f35209d96467c44e032f7fe9",
+      "bytes": 400130,
+      "order": 4,
+      "source_name": "adhan_mosque_004.jpg",
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v1/a9ca3088982126d1.jpg"
+    },
+    {
+      "id": "d3d31f22f07d139c",
+      "file": "backgrounds/adhan_mosques_world/d3d31f22f07d139c.jpg",
+      "sha256": "d3d31f22f07d139ce07eca8b75be51b5beeae86ad67eb112055acf91896c907d",
+      "bytes": 272133,
+      "order": 5,
+      "source_name": "adhan_mosque_005.jpg",
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v1/d3d31f22f07d139c.jpg"
+    },
+    {
+      "id": "3d1fe60d333986b7",
+      "file": "backgrounds/adhan_mosques_world/3d1fe60d333986b7.jpg",
+      "sha256": "3d1fe60d333986b7a416b5ca7f0c549256fa69503de7c68dc36d4a5bd4222359",
+      "bytes": 409000,
+      "order": 6,
+      "source_name": "adhan_mosque_006.jpg",
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v1/3d1fe60d333986b7.jpg"
+    },
+    {
+      "id": "051954a6a373e005",
+      "file": "backgrounds/adhan_mosques_world/051954a6a373e005.jpg",
+      "sha256": "051954a6a373e005fd565f474311163c39f372f5f80541b6687dc2b90e6d9439",
+      "bytes": 218839,
+      "order": 7,
+      "source_name": "adhan_mosque_007.jpg",
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v1/051954a6a373e005.jpg"
+    },
+    {
+      "id": "d12582ff91e7c33b",
+      "file": "backgrounds/adhan_mosques_world/d12582ff91e7c33b.jpg",
+      "sha256": "d12582ff91e7c33b82fe0a60b2e19e6c92ab35185cf2f4288836cd0f313f8026",
+      "bytes": 249465,
+      "order": 8,
+      "source_name": "adhan_mosque_008.jpg",
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v1/d12582ff91e7c33b.jpg"
+    },
+    {
+      "id": "f37e295bc74cd523",
+      "file": "backgrounds/adhan_mosques_world/f37e295bc74cd523.jpg",
+      "sha256": "f37e295bc74cd523db1b0e587910efeacb41cfb08d4cf5e2da698ced9937c85e",
+      "bytes": 331312,
+      "order": 9,
+      "source_name": "adhan_mosque_009.jpg",
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v1/f37e295bc74cd523.jpg"
+    },
+    {
+      "id": "f65c6a324c9c9901",
+      "file": "backgrounds/adhan_mosques_world/f65c6a324c9c9901.jpg",
+      "sha256": "f65c6a324c9c9901f17484c23b7dfb2b4568c562a4061ced96de20ea131d0e2d",
+      "bytes": 404780,
+      "order": 10,
+      "source_name": "adhan_mosque_012.jpg",
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v1/f65c6a324c9c9901.jpg"
+    },
+    {
+      "id": "b9524daa0525939d",
+      "file": "backgrounds/adhan_mosques_world/b9524daa0525939d.jpg",
+      "sha256": "b9524daa0525939dcb0243e635b9d1d13915412479571c4d6876f37469ffd331",
+      "bytes": 334803,
+      "order": 11,
+      "source_name": "adhan_mosque_013.jpg",
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v1/b9524daa0525939d.jpg"
+    },
+    {
+      "id": "07b7ce61a05614db",
+      "file": "backgrounds/adhan_mosques_world/07b7ce61a05614db.jpg",
+      "sha256": "07b7ce61a05614db8e80e02c0152d3932083bf1aed9055406421125a7c54686e",
+      "bytes": 751173,
+      "order": 12,
+      "source_name": "adhan_mosque_015.jpg",
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v1/07b7ce61a05614db.jpg"
+    },
+    {
+      "id": "65b4037170cf8da6",
+      "file": "backgrounds/adhan_mosques_world/65b4037170cf8da6.jpg",
+      "sha256": "65b4037170cf8da67b98a6036ac5cc96bbb4b7ec91b2081ebb086e2449416925",
+      "bytes": 267025,
+      "order": 13,
+      "source_name": "adhan_mosque_017.jpg",
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v1/65b4037170cf8da6.jpg"
+    },
+    {
+      "id": "37808d5b3207a12b",
+      "file": "backgrounds/adhan_mosques_world/37808d5b3207a12b.jpg",
+      "sha256": "37808d5b3207a12bf8b6bdbcca820e9192321396f6e3c7353515c79419628ae9",
+      "bytes": 699527,
+      "order": 14,
+      "source_name": "adhan_mosque_018.jpg",
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v1/37808d5b3207a12b.jpg"
+    },
+    {
+      "id": "584ece694af4f689",
+      "file": "backgrounds/adhan_mosques_world/584ece694af4f689.jpg",
+      "sha256": "584ece694af4f689736bfb6851490e5d27de61b23813a93d2120aa0a9b341f90",
+      "bytes": 606086,
+      "order": 15,
+      "source_name": "adhan_mosque_020.jpg",
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v1/584ece694af4f689.jpg"
+    },
+    {
+      "id": "3485acfbb574f603",
+      "file": "backgrounds/adhan_mosques_world/3485acfbb574f603.jpg",
+      "sha256": "3485acfbb574f603920ae3bce712641e8e14ea714e0e47086dc1f48025cb60e9",
+      "bytes": 292276,
+      "order": 16,
+      "source_name": "adhan_mosque_021.jpg",
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v1/3485acfbb574f603.jpg"
+    },
+    {
+      "id": "fa56eb7685bbcdd3",
+      "file": "backgrounds/adhan_mosques_world/fa56eb7685bbcdd3.jpg",
+      "sha256": "fa56eb7685bbcdd3598497db9051286656dd53b32cc459942071bddccd3c5296",
+      "bytes": 146169,
+      "order": 17,
+      "source_name": "adhan_mosque_022.jpg",
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v1/fa56eb7685bbcdd3.jpg"
+    },
+    {
+      "id": "c634d2af79e947fd",
+      "file": "backgrounds/adhan_mosques_world/c634d2af79e947fd.jpg",
+      "sha256": "c634d2af79e947fd68287768472c4ebec5d8fbbcaf571f08c0f1efcba037c797",
+      "bytes": 360414,
+      "order": 18,
+      "source_name": "adhan_mosque_023.jpg",
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v1/c634d2af79e947fd.jpg"
+    },
+    {
+      "id": "349fd96c5e309b56",
+      "file": "backgrounds/adhan_mosques_world/349fd96c5e309b56.jpg",
+      "sha256": "349fd96c5e309b5685b1b593afc8fe3a8a571e4329b4fd035adf4ac07e27b034",
+      "bytes": 444614,
+      "order": 19,
+      "source_name": "adhan_mosque_024.jpg",
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v1/349fd96c5e309b56.jpg"
+    },
+    {
+      "id": "ec8b2cd52d8ed317",
+      "file": "backgrounds/adhan_mosques_world/ec8b2cd52d8ed317.jpg",
+      "sha256": "ec8b2cd52d8ed3175d2930c388683ab109c1ea273d003cee2dadb1bb201d8ee5",
+      "bytes": 457274,
+      "order": 20,
+      "source_name": "adhan_mosque_025.jpg",
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v1/ec8b2cd52d8ed317.jpg"
+    },
+    {
+      "id": "5f5a39a6573f30c3",
+      "file": "backgrounds/adhan_mosques_world/5f5a39a6573f30c3.jpg",
+      "sha256": "5f5a39a6573f30c346f161580c1a01adb41df796189f16ebbcf088130fd29b98",
+      "bytes": 605610,
+      "order": 21,
+      "source_name": "adhan_mosque_026.jpg",
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v1/5f5a39a6573f30c3.jpg"
+    },
+    {
+      "id": "2914e2cc1f584f1b",
+      "file": "backgrounds/adhan_mosques_world/2914e2cc1f584f1b.jpg",
+      "sha256": "2914e2cc1f584f1bfe6d505af43f735dc9c51bbe2679bd471ca0dd13e75ec130",
+      "bytes": 426298,
+      "order": 22,
+      "source_name": "adhan_mosque_027.jpg",
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v1/2914e2cc1f584f1b.jpg"
+    },
+    {
+      "id": "9b733c0000df1b73",
+      "file": "backgrounds/adhan_mosques_world/9b733c0000df1b73.jpg",
+      "sha256": "9b733c0000df1b7378159416c01af838846eee586926bfdf14148b36b2fb2c39",
+      "bytes": 501804,
+      "order": 23,
+      "source_name": "adhan_mosque_028.jpg",
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v1/9b733c0000df1b73.jpg"
+    },
+    {
+      "id": "4dfcaeba7fefecfd",
+      "file": "backgrounds/adhan_mosques_world/4dfcaeba7fefecfd.jpg",
+      "sha256": "4dfcaeba7fefecfd4a4801d8bbfc3b3b538ebc4b3ee117e58d2d36a6d22cd1ed",
+      "bytes": 392938,
+      "order": 24,
+      "source_name": "adhan_mosque_029.jpg",
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v1/4dfcaeba7fefecfd.jpg"
+    }
+  ]
+}
