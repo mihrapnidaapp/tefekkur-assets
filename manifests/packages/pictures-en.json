@@ -1,0 +1,63 @@
+{
+  "package": "pictures-en",
+  "revision": 2,
+  "updated": "2026-08-01T20:16:18Z",
+  "folder": "backgrounds/apk_pictures_eng",
+  "count": 6,
+  "slides": [
+    {
+      "id": "44c862aaaaee7dbd",
+      "file": "backgrounds/apk_pictures_eng/44c862aaaaee7dbd.jpg",
+      "sha256": "44c862aaaaee7dbd7f651f39a4bdf316dd38964e2adabfe505deed3ff51ddfc8",
+      "bytes": 3038395,
+      "order": 1,
+      "source_name": "44c862aaaaee7dbd.jpg",
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/pictures-en-v2/44c862aaaaee7dbd.jpg"
+    },
+    {
+      "id": "75a09df971a883ad",
+      "file": "backgrounds/apk_pictures_eng/75a09df971a883ad.jpg",
+      "sha256": "75a09df971a883ada97ffbb9b7b5fffd9fd5af48ab9778fbd3ad8b0ac8baad19",
+      "bytes": 769818,
+      "order": 2,
+      "source_name": "75a09df971a883ad.jpg",
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/pictures-en-v2/75a09df971a883ad.jpg"
+    },
+    {
+      "id": "7e24d82410d5a2b7",
+      "file": "backgrounds/apk_pictures_eng/7e24d82410d5a2b7.jpg",
+      "sha256": "7e24d82410d5a2b73a247ca389fa445940bc3e36e8e1c2ad9f47e10fd3ca3b5b",
+      "bytes": 1457750,
+      "order": 3,
+      "source_name": "7e24d82410d5a2b7.jpg",
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/pictures-en-v2/7e24d82410d5a2b7.jpg"
+    },
+    {
+      "id": "8a4cad1a6a1ff87b",
+      "file": "backgrounds/apk_pictures_eng/8a4cad1a6a1ff87b.jpg",
+      "sha256": "8a4cad1a6a1ff87bd63087842dfc41ccad968dfc71bdb5b61213a76b30308ca1",
+      "bytes": 4188410,
+      "order": 4,
+      "source_name": "8a4cad1a6a1ff87b.jpg",
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/pictures-en-v2/8a4cad1a6a1ff87b.jpg"
+    },
+    {
+      "id": "9b90603f0426107e",
+      "file": "backgrounds/apk_pictures_eng/9b90603f0426107e.jpg",
+      "sha256": "9b90603f0426107e3af382d05efb43b1888d61816c765f4de761db452f143215",
+      "bytes": 1914543,
+      "order": 5,
+      "source_name": "9b90603f0426107e.jpg",
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/pictures-en-v2/9b90603f0426107e.jpg"
+    },
+    {
+      "id": "fe523c654b4aaa74",
+      "file": "backgrounds/apk_pictures_eng/fe523c654b4aaa74.jpg",
+      "sha256": "fe523c654b4aaa74b261971aa516493adfe172ac55a20b0aabd9a0b4052ec99a",
+      "bytes": 1144748,
+      "order": 6,
+      "source_name": "fe523c654b4aaa74.jpg",
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/pictures-en-v2/fe523c654b4aaa74.jpg"
+    }
+  ]
+}
