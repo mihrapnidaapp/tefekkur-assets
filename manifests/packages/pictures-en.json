@@ -1,63 +1,63 @@
 {
   "package": "pictures-en",
-  "revision": 3,
-  "updated": "2026-08-03T13:32:22Z",
+  "revision": 4,
+  "updated": "2026-08-03T17:46:29Z",
   "folder": "backgrounds/apk_pictures_eng",
   "count": 6,
   "slides": [
     {
-      "id": "b1cc6605345a1c86",
-      "file": "backgrounds/apk_pictures_eng/b1cc6605345a1c86.jpg",
-      "sha256": "b1cc6605345a1c86b8a88daaebd85877f3edfda158afeeea3722ecf8f732bdb1",
-      "bytes": 362755,
+      "id": "3198f0ac8871eef0",
+      "file": "backgrounds/apk_pictures_eng/3198f0ac8871eef0.jpg",
+      "sha256": "3198f0ac8871eef02870281d35c0cb861d24aa0dfce9b39eb2d29f8f556c39ce",
+      "bytes": 191821,
       "order": 1,
-      "source_name": "01_reference_kaaba_night.jpg",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/pictures-en-v3/b1cc6605345a1c86.jpg"
+      "source_name": "01_mihrap_home.jpg",
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/pictures-en-v4/3198f0ac8871eef0.jpg"
     },
     {
-      "id": "49c53e51b6f3e282",
-      "file": "backgrounds/apk_pictures_eng/49c53e51b6f3e282.jpg",
-      "sha256": "49c53e51b6f3e282a694632a1b032a529f221eeef673b255c52f9529c1183382",
-      "bytes": 317976,
+      "id": "b32d2e7336333bf3",
+      "file": "backgrounds/apk_pictures_eng/b32d2e7336333bf3.jpg",
+      "sha256": "b32d2e7336333bf32fccd9345933720c15c97cf6f679ad23910e15a7fb8c386c",
+      "bytes": 219727,
       "order": 2,
-      "source_name": "02_holy_site_night.jpg",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/pictures-en-v3/49c53e51b6f3e282.jpg"
+      "source_name": "02_mihrap_home.jpg",
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/pictures-en-v4/b32d2e7336333bf3.jpg"
     },
     {
-      "id": "7351ac1e818d5105",
-      "file": "backgrounds/apk_pictures_eng/7351ac1e818d5105.jpg",
-      "sha256": "7351ac1e818d5105d7d7f8fbf813a048b9daed291492381e21a31caca6926745",
-      "bytes": 448769,
+      "id": "57bb8fbf21f135a7",
+      "file": "backgrounds/apk_pictures_eng/57bb8fbf21f135a7.jpg",
+      "sha256": "57bb8fbf21f135a74cc0e38f3d8ec65554f127c345af89ead92b63781beba0aa",
+      "bytes": 287117,
       "order": 3,
-      "source_name": "03_holy_site_night.jpg",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/pictures-en-v3/7351ac1e818d5105.jpg"
+      "source_name": "03_mihrap_home.jpg",
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/pictures-en-v4/57bb8fbf21f135a7.jpg"
     },
     {
-      "id": "b99f5ff564704a5c",
-      "file": "backgrounds/apk_pictures_eng/b99f5ff564704a5c.jpg",
-      "sha256": "b99f5ff564704a5c0837fcc307b00dad0915f3a1049b44f589d851a15e68660b",
-      "bytes": 291572,
+      "id": "b7dddeae5d7922af",
+      "file": "backgrounds/apk_pictures_eng/b7dddeae5d7922af.jpg",
+      "sha256": "b7dddeae5d7922afcaf24a51670208fc0c5a4fb2ed57e6900edd6f190fffe0d9",
+      "bytes": 175703,
       "order": 4,
-      "source_name": "04_holy_site_night.jpg",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/pictures-en-v3/b99f5ff564704a5c.jpg"
+      "source_name": "04_mihrap_home.jpg",
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/pictures-en-v4/b7dddeae5d7922af.jpg"
     },
     {
-      "id": "68bd2d03607b0a5b",
-      "file": "backgrounds/apk_pictures_eng/68bd2d03607b0a5b.jpg",
-      "sha256": "68bd2d03607b0a5bc3b006c588f64e4aad3e3a2e6fb0d372a5eaad5e21526383",
-      "bytes": 406477,
+      "id": "7959d61404702bc6",
+      "file": "backgrounds/apk_pictures_eng/7959d61404702bc6.jpg",
+      "sha256": "7959d61404702bc6d65da129866c27218058e18a9692906c08ea36ab0becfb22",
+      "bytes": 218220,
       "order": 5,
-      "source_name": "05_holy_site_night.jpg",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/pictures-en-v3/68bd2d03607b0a5b.jpg"
+      "source_name": "05_mihrap_home.jpg",
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/pictures-en-v4/7959d61404702bc6.jpg"
     },
     {
-      "id": "11ac8edac4b2cf59",
-      "file": "backgrounds/apk_pictures_eng/11ac8edac4b2cf59.jpg",
-      "sha256": "11ac8edac4b2cf593d952c9c3131f6fe83ae49d6d092e4773d2d90011300c2e0",
-      "bytes": 243261,
+      "id": "93f4647a42158d38",
+      "file": "backgrounds/apk_pictures_eng/93f4647a42158d38.jpg",
+      "sha256": "93f4647a42158d381a93e377d1fd198c774ee32da4a03c425957757568c3d4df",
+      "bytes": 213865,
       "order": 6,
-      "source_name": "06_holy_site_night.jpg",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/pictures-en-v3/11ac8edac4b2cf59.jpg"
+      "source_name": "06_mihrap_home.jpg",
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/pictures-en-v4/93f4647a42158d38.jpg"
     }
   ]
 }
