@@ -53,10 +53,10 @@
       "release_tag": "audio-extras-v3"
     },
     "adhan-visuals": {
-      "revision": 4,
-      "count": 30,
+      "revision": 5,
+      "count": 34,
       "manifest": "manifests/packages/adhan-visuals.json",
-      "release_tag": "adhan-visuals-v4"
+      "release_tag": "adhan-visuals-v5"
     }
   }
 }
