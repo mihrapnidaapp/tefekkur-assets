@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-03T23:48:25Z",
+  "updated": "2026-08-03T23:58:54Z",
   "github_repo": "mihrapnidaapp/tefekkur-assets",
   "download_url_template": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/{tag}/{file}",
   "packages": {
@@ -29,10 +29,10 @@
       "release_tag": "pictures-en-v4"
     },
     "azan-turkey": {
-      "revision": 3,
-      "count": 5,
+      "revision": 4,
+      "count": 6,
       "manifest": "manifests/packages/azan-turkey.json",
-      "release_tag": "azan-turkey-v3"
+      "release_tag": "azan-turkey-v4"
     },
     "azan-mecca": {
       "revision": 2,
