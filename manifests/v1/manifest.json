@@ -1,20 +1,20 @@
 {
   "version": 1,
-  "updated": "2026-08-02T16:17:56Z",
+  "updated": "2026-08-03T00:35:22Z",
   "github_repo": "mihrapnidaapp/tefekkur-assets",
   "download_url_template": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/{tag}/{file}",
   "packages": {
     "screensaver-tr": {
-      "revision": 4,
+      "revision": 5,
       "count": 583,
       "manifest": "manifests/packages/screensaver-tr.json",
-      "release_tag": "screensaver-tr-v4"
+      "release_tag": "screensaver-tr-v5"
     },
     "screensaver-en": {
-      "revision": 3,
+      "revision": 4,
       "count": 583,
       "manifest": "manifests/packages/screensaver-en.json",
-      "release_tag": "screensaver-en-v3"
+      "release_tag": "screensaver-en-v4"
     },
     "pictures-tr": {
       "revision": 2,
@@ -53,10 +53,10 @@
       "release_tag": "audio-extras-v3"
     },
     "adhan-visuals": {
-      "revision": 2,
-      "count": 10,
+      "revision": 3,
+      "count": 20,
       "manifest": "manifests/packages/adhan-visuals.json",
-      "release_tag": "adhan-visuals-v2"
+      "release_tag": "adhan-visuals-v3"
     }
   }
 }
