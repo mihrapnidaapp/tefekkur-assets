@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-03T17:46:29Z",
+  "updated": "2026-08-03T21:47:28Z",
   "github_repo": "mihrapnidaapp/tefekkur-assets",
   "download_url_template": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/{tag}/{file}",
   "packages": {
@@ -53,10 +53,10 @@
       "release_tag": "audio-extras-v3"
     },
     "adhan-visuals": {
-      "revision": 3,
-      "count": 20,
+      "revision": 4,
+      "count": 30,
       "manifest": "manifests/packages/adhan-visuals.json",
-      "release_tag": "adhan-visuals-v3"
+      "release_tag": "adhan-visuals-v4"
     }
   }
 }
