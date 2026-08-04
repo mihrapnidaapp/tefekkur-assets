@@ -1,63 +1,63 @@
 {
   "package": "pictures-en",
-  "revision": 5,
-  "updated": "2026-08-04T08:16:42Z",
+  "revision": 6,
+  "updated": "2026-08-04T13:10:48Z",
   "folder": "backgrounds/apk_pictures_eng",
   "count": 6,
   "slides": [
     {
-      "id": "38ec6de4ab8e5278",
-      "file": "backgrounds/apk_pictures_eng/38ec6de4ab8e5278.jpg",
-      "sha256": "38ec6de4ab8e527896e5996ac81560a6e4d10c3e77d0d7bb26be643639c855e4",
-      "bytes": 461725,
+      "id": "3139d78e946fa20f",
+      "file": "backgrounds/apk_pictures_eng/azan_bg1.jpg",
+      "sha256": "3139d78e946fa20f81fad33bef72814b465ae732764dc2159ffca1485b4c6965",
+      "bytes": 2467635,
       "order": 1,
-      "source_name": "01_mihrap_home.jpg",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/pictures-en-v5/38ec6de4ab8e5278.jpg"
+      "source_name": "azan_bg1.jpg",
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/pictures-en-v6/azan_bg1.jpg"
     },
     {
-      "id": "50fb4a217da5fc17",
-      "file": "backgrounds/apk_pictures_eng/50fb4a217da5fc17.jpg",
-      "sha256": "50fb4a217da5fc17bd65955b70eb44a0ecf4fe918e4569520349577cb7631403",
-      "bytes": 489552,
+      "id": "75a09df971a883ad",
+      "file": "backgrounds/apk_pictures_eng/azan_bg2.jpg",
+      "sha256": "75a09df971a883ada97ffbb9b7b5fffd9fd5af48ab9778fbd3ad8b0ac8baad19",
+      "bytes": 769818,
       "order": 2,
-      "source_name": "02_mihrap_home.jpg",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/pictures-en-v5/50fb4a217da5fc17.jpg"
+      "source_name": "azan_bg2.jpg",
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/pictures-en-v6/azan_bg2.jpg"
     },
     {
-      "id": "ce5ce2b22d313843",
-      "file": "backgrounds/apk_pictures_eng/ce5ce2b22d313843.jpg",
-      "sha256": "ce5ce2b22d313843e3d79e5f9fdc4c455498dce0c9984fe081ff1f2b84a22b14",
-      "bytes": 1046308,
+      "id": "8a4cad1a6a1ff87b",
+      "file": "backgrounds/apk_pictures_eng/azan_bg3.jpg",
+      "sha256": "8a4cad1a6a1ff87bd63087842dfc41ccad968dfc71bdb5b61213a76b30308ca1",
+      "bytes": 4188410,
       "order": 3,
-      "source_name": "03_mihrap_home.jpg",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/pictures-en-v5/ce5ce2b22d313843.jpg"
+      "source_name": "azan_bg3.jpg",
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/pictures-en-v6/azan_bg3.jpg"
     },
     {
-      "id": "d2f61f371d06c3a3",
-      "file": "backgrounds/apk_pictures_eng/d2f61f371d06c3a3.jpg",
-      "sha256": "d2f61f371d06c3a374baf6f1f00aa0d59edfa59a713e864c240fcf81160c1926",
-      "bytes": 460113,
+      "id": "778bcd5de6d43d2b",
+      "file": "backgrounds/apk_pictures_eng/azan_bg4.jpg",
+      "sha256": "778bcd5de6d43d2b00931cb304602170db601b799d59e514c421fb7ca081dd0b",
+      "bytes": 1281782,
       "order": 4,
-      "source_name": "04_mihrap_home.jpg",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/pictures-en-v5/d2f61f371d06c3a3.jpg"
+      "source_name": "azan_bg4.jpg",
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/pictures-en-v6/azan_bg4.jpg"
     },
     {
-      "id": "515bbed1a1456d59",
-      "file": "backgrounds/apk_pictures_eng/515bbed1a1456d59.jpg",
-      "sha256": "515bbed1a1456d5980215615eba8ddfee557f1fda0de720008a0499f047fadf4",
-      "bytes": 693599,
+      "id": "fe523c654b4aaa74",
+      "file": "backgrounds/apk_pictures_eng/azan_bg5.jpg",
+      "sha256": "fe523c654b4aaa74b261971aa516493adfe172ac55a20b0aabd9a0b4052ec99a",
+      "bytes": 1144748,
       "order": 5,
-      "source_name": "05_mihrap_home.jpg",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/pictures-en-v5/515bbed1a1456d59.jpg"
+      "source_name": "azan_bg5.jpg",
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/pictures-en-v6/azan_bg5.jpg"
     },
     {
-      "id": "660b76f9d552f68f",
-      "file": "backgrounds/apk_pictures_eng/660b76f9d552f68f.jpg",
-      "sha256": "660b76f9d552f68f0ba3df92119d4e80d7402420d400dfabe69d82d903487f0a",
-      "bytes": 595669,
+      "id": "9b90603f0426107e",
+      "file": "backgrounds/apk_pictures_eng/azan_bg6.jpg",
+      "sha256": "9b90603f0426107e3af382d05efb43b1888d61816c765f4de761db452f143215",
+      "bytes": 1914543,
       "order": 6,
-      "source_name": "06_mihrap_home.jpg",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/pictures-en-v5/660b76f9d552f68f.jpg"
+      "source_name": "azan_bg6.jpg",
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/pictures-en-v6/azan_bg6.jpg"
     }
   ]
 }
