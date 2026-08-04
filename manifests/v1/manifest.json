@@ -1,32 +1,32 @@
 {
   "version": 1,
-  "updated": "2026-08-04T08:16:42Z",
+  "updated": "2026-08-04T14:14:52Z",
   "github_repo": "mihrapnidaapp/tefekkur-assets",
   "download_url_template": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/{tag}/{file}",
   "packages": {
     "screensaver-tr": {
-      "revision": 5,
-      "count": 583,
+      "revision": 7,
+      "count": 543,
       "manifest": "manifests/packages/screensaver-tr.json",
-      "release_tag": "screensaver-tr-v5"
+      "release_tag": "screensaver-tr-v7"
     },
     "screensaver-en": {
-      "revision": 4,
-      "count": 583,
+      "revision": 6,
+      "count": 543,
       "manifest": "manifests/packages/screensaver-en.json",
-      "release_tag": "screensaver-en-v4"
+      "release_tag": "screensaver-en-v6"
     },
     "pictures-tr": {
-      "revision": 5,
+      "revision": 6,
       "count": 6,
       "manifest": "manifests/packages/pictures-tr.json",
-      "release_tag": "pictures-tr-v5"
+      "release_tag": "pictures-tr-v6"
     },
     "pictures-en": {
-      "revision": 5,
+      "revision": 6,
       "count": 6,
       "manifest": "manifests/packages/pictures-en.json",
-      "release_tag": "pictures-en-v5"
+      "release_tag": "pictures-en-v6"
     },
     "azan-turkey": {
       "revision": 4,
