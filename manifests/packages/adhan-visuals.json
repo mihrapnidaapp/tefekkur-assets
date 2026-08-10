@@ -1,9 +1,9 @@
 {
   "package": "adhan-visuals",
-  "revision": 4,
-  "updated": "2026-08-03T21:45:05Z",
+  "revision": 5,
+  "updated": "2026-08-10T18:33:42Z",
   "folder": "backgrounds/adhan_mosques_world",
-  "count": 30,
+  "count": 34,
   "slides": [
     {
       "id": "23e1e1162b9b47bd",
@@ -25,7 +25,7 @@
       "country_en": "Türkiye",
       "country_de": "Türkei",
       "country_ar": "تركيا",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v4/23e1e1162b9b47bd.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v5/23e1e1162b9b47bd.jpg"
     },
     {
       "id": "d3d31f22f07d139c",
@@ -47,7 +47,7 @@
       "country_en": "Malaysia",
       "country_de": "Malaysia",
       "country_ar": "ماليزيا",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v4/d3d31f22f07d139c.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v5/d3d31f22f07d139c.jpg"
     },
     {
       "id": "07b7ce61a05614db",
@@ -69,7 +69,7 @@
       "country_en": "Pakistan",
       "country_de": "Pakistan",
       "country_ar": "باكستان",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v4/07b7ce61a05614db.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v5/07b7ce61a05614db.jpg"
     },
     {
       "id": "3485acfbb574f603",
@@ -91,7 +91,7 @@
       "country_en": "Kazakhstan",
       "country_de": "Kasachstan",
       "country_ar": "كازاخستان",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v4/3485acfbb574f603.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v5/3485acfbb574f603.jpg"
     },
     {
       "id": "349fd96c5e309b56",
@@ -113,7 +113,7 @@
       "country_en": "Kyrgyzstan",
       "country_de": "Kirgisistan",
       "country_ar": "قيرغيزستان",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v4/349fd96c5e309b56.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v5/349fd96c5e309b56.jpg"
     },
     {
       "id": "d9b9a5f00262ec52",
@@ -135,7 +135,7 @@
       "country_en": "Türkiye",
       "country_de": "Türkei",
       "country_ar": "تركيا",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v4/d9b9a5f00262ec52.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v5/d9b9a5f00262ec52.jpg"
     },
     {
       "id": "ed0378238722997f",
@@ -157,7 +157,7 @@
       "country_en": "Pakistan",
       "country_de": "Pakistan",
       "country_ar": "باكستان",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v4/ed0378238722997f.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v5/ed0378238722997f.jpg"
     },
     {
       "id": "3b4f9e89201d7b73",
@@ -179,7 +179,7 @@
       "country_en": "Bosnia and Herzegovina",
       "country_de": "Bosnien und Herzegowina",
       "country_ar": "البوسنة والهرسك",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v4/3b4f9e89201d7b73.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v5/3b4f9e89201d7b73.jpg"
     },
     {
       "id": "f42941105493df21",
@@ -201,7 +201,7 @@
       "country_en": "Russia",
       "country_de": "Russland",
       "country_ar": "روسيا",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v4/f42941105493df21.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v5/f42941105493df21.jpg"
     },
     {
       "id": "747a4d224003fa67",
@@ -223,7 +223,7 @@
       "country_en": "Morocco",
       "country_de": "Marokko",
       "country_ar": "المغرب",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v4/747a4d224003fa67.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v5/747a4d224003fa67.jpg"
     },
     {
       "id": "0396f8ecab88114c",
@@ -245,7 +245,7 @@
       "country_en": "United Arab Emirates",
       "country_de": "Vereinigte Arabische Emirate",
       "country_ar": "الإمارات العربية المتحدة",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v4/0396f8ecab88114c.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v5/0396f8ecab88114c.jpg"
     },
     {
       "id": "a00c77a742e465f1",
@@ -267,7 +267,7 @@
       "country_en": "Oman",
       "country_de": "Oman",
       "country_ar": "عُمان",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v4/a00c77a742e465f1.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v5/a00c77a742e465f1.jpg"
     },
     {
       "id": "78c98ae2f9733a89",
@@ -289,7 +289,7 @@
       "country_en": "Afghanistan",
       "country_de": "Afghanistan",
       "country_ar": "أفغانستان",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v4/78c98ae2f9733a89.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v5/78c98ae2f9733a89.jpg"
     },
     {
       "id": "e0218acf94a810cf",
@@ -311,7 +311,7 @@
       "country_en": "Brunei",
       "country_de": "Brunei",
       "country_ar": "بروناي",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v4/e0218acf94a810cf.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v5/e0218acf94a810cf.jpg"
     },
     {
       "id": "9a5e745b80ac4db5",
@@ -333,7 +333,7 @@
       "country_en": "Egypt",
       "country_de": "Ägypten",
       "country_ar": "مصر",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v4/9a5e745b80ac4db5.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v5/9a5e745b80ac4db5.jpg"
     },
     {
       "id": "2ace032c9878aea7",
@@ -355,7 +355,7 @@
       "country_en": "Malaysia",
       "country_de": "Malaysia",
       "country_ar": "ماليزيا",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v4/2ace032c9878aea7.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v5/2ace032c9878aea7.jpg"
     },
     {
       "id": "6a86e77d8c99ef54",
@@ -377,7 +377,7 @@
       "country_en": "Indonesia",
       "country_de": "Indonesien",
       "country_ar": "إندونيسيا",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v4/6a86e77d8c99ef54.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v5/6a86e77d8c99ef54.jpg"
     },
     {
       "id": "b4dae641b3825da9",
@@ -399,7 +399,7 @@
       "country_en": "Saudi Arabia",
       "country_de": "Saudi-Arabien",
       "country_ar": "المملكة العربية السعودية",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v4/b4dae641b3825da9.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v5/b4dae641b3825da9.jpg"
     },
     {
       "id": "2d3c6e83b5dfd52c",
@@ -421,7 +421,7 @@
       "country_en": "Malaysia",
       "country_de": "Malaysia",
       "country_ar": "ماليزيا",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v4/2d3c6e83b5dfd52c.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v5/2d3c6e83b5dfd52c.jpg"
     },
     {
       "id": "31fd68d7a774522c",
@@ -443,7 +443,7 @@
       "country_en": "Türkiye",
       "country_de": "Türkei",
       "country_ar": "تركيا",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v4/31fd68d7a774522c.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v5/31fd68d7a774522c.jpg"
     },
     {
       "id": "0a59ef7d3948733b",
@@ -465,7 +465,7 @@
       "country_en": "Japan",
       "country_de": "Japan",
       "country_ar": "اليابان",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v4/0a59ef7d3948733b.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v5/0a59ef7d3948733b.jpg"
     },
     {
       "id": "1f5bb193471b4c4f",
@@ -487,7 +487,7 @@
       "country_en": "United States",
       "country_de": "Vereinigte Staaten",
       "country_ar": "الولايات المتحدة",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v4/1f5bb193471b4c4f.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v5/1f5bb193471b4c4f.jpg"
     },
     {
       "id": "fe29c115c665a663",
@@ -509,7 +509,7 @@
       "country_en": "United States",
       "country_de": "Vereinigte Staaten",
       "country_ar": "الولايات المتحدة",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v4/fe29c115c665a663.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v5/fe29c115c665a663.jpg"
     },
     {
       "id": "20a769e2d0bc1982",
@@ -531,7 +531,7 @@
       "country_en": "United States",
       "country_de": "Vereinigte Staaten",
       "country_ar": "الولايات المتحدة",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v4/20a769e2d0bc1982.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v5/20a769e2d0bc1982.jpg"
     },
     {
       "id": "fa34f1597f35dadc",
@@ -553,7 +553,7 @@
       "country_en": "United Kingdom",
       "country_de": "Vereinigtes Königreich",
       "country_ar": "المملكة المتحدة",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v4/fa34f1597f35dadc.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v5/fa34f1597f35dadc.jpg"
     },
     {
       "id": "b6e40bd14e36c0ec",
@@ -575,7 +575,7 @@
       "country_en": "United Kingdom",
       "country_de": "Vereinigtes Königreich",
       "country_ar": "المملكة المتحدة",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v4/b6e40bd14e36c0ec.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v5/b6e40bd14e36c0ec.jpg"
     },
     {
       "id": "905497fb9462c51e",
@@ -597,7 +597,7 @@
       "country_en": "Germany",
       "country_de": "Deutschland",
       "country_ar": "ألمانيا",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v4/905497fb9462c51e.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v5/905497fb9462c51e.jpg"
     },
     {
       "id": "a78eb9327f9b4ba7",
@@ -619,7 +619,7 @@
       "country_en": "France",
       "country_de": "Frankreich",
       "country_ar": "فرنسا",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v4/a78eb9327f9b4ba7.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v5/a78eb9327f9b4ba7.jpg"
     },
     {
       "id": "c5bcc3452e33630a",
@@ -641,29 +641,117 @@
       "country_en": "Nigeria",
       "country_de": "Nigeria",
       "country_ar": "نيجيريا",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v4/c5bcc3452e33630a.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v5/c5bcc3452e33630a.jpg"
     },
     {
-      "id": "3990f2d0f1c56805",
-      "file": "backgrounds/adhan_mosques_world/3990f2d0f1c56805.jpg",
-      "sha256": "3990f2d0f1c56805d5dbced9b126ab0c8510e44b22419ea4c15afb87015562d6",
-      "bytes": 304076,
-      "order": 30,
-      "source_name": "world_10.jpg",
-      "photo_id": "File:Nizamiye Mosque.jpg",
-      "page_url": "https://commons.wikimedia.org/wiki/File:Nizamiye_Mosque.jpg",
+      "id": "11d78a30fd955139",
+      "file": "backgrounds/adhan_mosques_world/11d78a30fd955139.jpg",
+      "sha256": "11d78a30fd955139445fc799333dd4f93af0b3227303ccdaef0d3249c626a571",
+      "bytes": 686865,
+      "source_name": "11d78a30fd955139.jpg",
+      "photo_id": "File:Islamic Foundation of Toronto.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Islamic_Foundation_of_Toronto.jpg",
       "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "source_author": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:HorizonZA&action=edit&redlink=1\" class=\"new\" title=\"User:HorizonZA (page does not exist)\">HorizonZA</a>",
-      "mosque_name_tr": "Nizamiye Camii",
-      "mosque_name_en": "Nizamiye Mosque",
-      "mosque_name_de": "Nizamiye-Moschee",
-      "mosque_name_ar": "مسجد النظامية",
-      "country_tr": "Güney Afrika",
-      "country_en": "South Africa",
-      "country_de": "Südafrika",
-      "country_ar": "جنوب أفريقيا",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v4/3990f2d0f1c56805.jpg"
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_author": "Wikimedia Commons contributor",
+      "mosque_name_tr": "Toronto İslam Vakfı Camii",
+      "mosque_name_en": "Islamic Foundation of Toronto Mosque",
+      "mosque_name_de": "Moschee der Islamischen Stiftung Toronto",
+      "mosque_name_ar": "مسجد المؤسسة الإسلامية في تورونتو",
+      "country_tr": "Kanada",
+      "country_en": "Canada",
+      "country_de": "Kanada",
+      "country_ar": "كندا",
+      "order": 30,
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v5/11d78a30fd955139.jpg"
+    },
+    {
+      "id": "bb47a340aaaddbba",
+      "file": "backgrounds/adhan_mosques_world/bb47a340aaaddbba.jpg",
+      "sha256": "bb47a340aaaddbbabf2afbd31d8f09dcad32e04a7055b652209eba5ddaf9550a",
+      "bytes": 289364,
+      "source_name": "bb47a340aaaddbba.jpg",
+      "photo_id": "File:The Surrey Jamea Masjid mosque.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:The_Surrey_Jamea_Masjid_mosque.jpg",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "source_author": "F B",
+      "mosque_name_tr": "Surrey Jamea Camii (Metro Vancouver)",
+      "mosque_name_en": "Surrey Jamea Masjid (Metro Vancouver)",
+      "mosque_name_de": "Surrey-Jamea-Moschee (Metro Vancouver)",
+      "mosque_name_ar": "مسجد جامع سَري (فانكوفر الكبرى)",
+      "country_tr": "Kanada",
+      "country_en": "Canada",
+      "country_de": "Kanada",
+      "country_ar": "كندا",
+      "order": 31,
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v5/bb47a340aaaddbba.jpg"
+    },
+    {
+      "id": "3b26017e015f288a",
+      "file": "backgrounds/adhan_mosques_world/3b26017e015f288a.jpg",
+      "sha256": "3b26017e015f288a30ebe1691c3c158e64720e8fe192203358c194b11e78bdb9",
+      "bytes": 382818,
+      "source_name": "3b26017e015f288a.jpg",
+      "photo_id": "File:Auburn Gallipoli Mosque.JPG",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Auburn_Gallipoli_Mosque.JPG",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "source_author": "J Bar",
+      "mosque_name_tr": "Auburn Gelibolu Camii",
+      "mosque_name_en": "Auburn Gallipoli Mosque",
+      "mosque_name_de": "Auburn-Gallipoli-Moschee",
+      "mosque_name_ar": "مسجد أوبورن غاليبولي",
+      "country_tr": "Avustralya",
+      "country_en": "Australia",
+      "country_de": "Australien",
+      "country_ar": "أستراليا",
+      "order": 32,
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v5/3b26017e015f288a.jpg"
+    },
+    {
+      "id": "65e9a93f1d23f1be",
+      "file": "backgrounds/adhan_mosques_world/65e9a93f1d23f1be.jpg",
+      "sha256": "65e9a93f1d23f1be361444ec13b7e73197a47325944c98b6b2777b8a0b5ada84",
+      "bytes": 306916,
+      "source_name": "65e9a93f1d23f1be.jpg",
+      "photo_id": "File:Adelaide Central Mosque, Adelaide, February 2023.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Adelaide_Central_Mosque,_Adelaide,_February_2023.jpg",
+      "license": "Wikimedia Commons license",
+      "license_url": "https://commons.wikimedia.org/wiki/File:Adelaide_Central_Mosque,_Adelaide,_February_2023.jpg",
+      "source_author": "Wikimedia Commons contributor",
+      "mosque_name_tr": "Adelaide Merkez Camii",
+      "mosque_name_en": "Adelaide Central Mosque",
+      "mosque_name_de": "Zentralmoschee Adelaide",
+      "mosque_name_ar": "مسجد أديلايد المركزي",
+      "country_tr": "Avustralya",
+      "country_en": "Australia",
+      "country_de": "Australien",
+      "country_ar": "أستراليا",
+      "order": 33,
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v5/65e9a93f1d23f1be.jpg"
+    },
+    {
+      "id": "6c068e0d67bb1ac1",
+      "file": "backgrounds/adhan_mosques_world/6c068e0d67bb1ac1.jpg",
+      "sha256": "6c068e0d67bb1ac158e6451b9cba09783b73e372075720728d851e8e021a5e50",
+      "bytes": 355445,
+      "source_name": "6c068e0d67bb1ac1.jpg",
+      "photo_id": "File:Christchurch Mosque, New Zealand.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Christchurch_Mosque,_New_Zealand.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_author": "Michal Klajban",
+      "mosque_name_tr": "Christchurch El Nur Camii",
+      "mosque_name_en": "Al Noor Mosque, Christchurch",
+      "mosque_name_de": "Al-Noor-Moschee Christchurch",
+      "mosque_name_ar": "مسجد النور في كرايستشيرش",
+      "country_tr": "Yeni Zelanda",
+      "country_en": "New Zealand",
+      "country_de": "Neuseeland",
+      "country_ar": "نيوزيلندا",
+      "order": 34,
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/adhan-visuals-v5/6c068e0d67bb1ac1.jpg"
     }
   ]
 }
