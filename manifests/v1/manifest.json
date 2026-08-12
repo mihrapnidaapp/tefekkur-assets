@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-12T21:19:41Z",
+  "updated": "2026-08-12T22:00:06Z",
   "github_repo": "mihrapnidaapp/tefekkur-assets",
   "download_url_template": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/{tag}/{file}",
   "packages": {
@@ -17,16 +17,16 @@
       "release_tag": "screensaver-en-v10"
     },
     "pictures-tr": {
-      "revision": 7,
-      "count": 3,
+      "revision": 8,
+      "count": 1,
       "manifest": "manifests/packages/pictures-tr.json",
-      "release_tag": "pictures-tr-v7"
+      "release_tag": "pictures-tr-v8"
     },
     "pictures-en": {
-      "revision": 7,
-      "count": 3,
+      "revision": 8,
+      "count": 1,
       "manifest": "manifests/packages/pictures-en.json",
-      "release_tag": "pictures-en-v7"
+      "release_tag": "pictures-en-v8"
     },
     "azan-turkey": {
       "revision": 6,
