@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-12T20:12:36Z",
+  "updated": "2026-08-12T21:19:41Z",
   "github_repo": "mihrapnidaapp/tefekkur-assets",
   "download_url_template": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/{tag}/{file}",
   "packages": {
@@ -47,10 +47,10 @@
       "release_tag": "azan-egypt-v2"
     },
     "audio-extras": {
-      "revision": 3,
+      "revision": 4,
       "count": 9,
       "manifest": "manifests/packages/audio-extras.json",
-      "release_tag": "audio-extras-v3"
+      "release_tag": "audio-extras-v4"
     },
     "adhan-visuals": {
       "revision": 6,
