@@ -1,7 +1,7 @@
 {
   "package": "screensaver-en",
-  "revision": 14,
-  "updated": "2026-08-16T05:10:35Z",
+  "revision": 15,
+  "updated": "2026-08-16T17:02:52Z",
   "folder": "backgrounds/apk_screensaver_eng",
   "count": 446,
   "slides": [
@@ -796,14 +796,14 @@
       "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-en-v14/4006d254756c9f21.jpg"
     },
     {
-      "id": "f5759d5a6532ff91",
-      "file": "backgrounds/apk_screensaver_eng/f5759d5a6532ff91.jpg",
-      "sha256": "f5759d5a6532ff918c6ef2e2cad4ffb6b4b42275101d36699ade22dd92266a73",
-      "bytes": 583901,
+      "id": "c9c53d86ddf43af0",
+      "file": "backgrounds/apk_screensaver_eng/c9c53d86ddf43af0.jpg",
+      "sha256": "c9c53d86ddf43af091066dd7881afe5a7f611913147ab74f822035f878648fa8",
+      "bytes": 290766,
       "order": 80,
       "source_name": "mihrap_en_080.jpg",
       "source_group": "english_text",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-en-v14/f5759d5a6532ff91.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-en-v15/c9c53d86ddf43af0.jpg"
     },
     {
       "id": "7977f08f0608d63f",
@@ -956,14 +956,14 @@
       "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-en-v14/bcaaf3d3188f9df4.jpg"
     },
     {
-      "id": "dd55c74972670e4a",
-      "file": "backgrounds/apk_screensaver_eng/dd55c74972670e4a.jpg",
-      "sha256": "dd55c74972670e4a0006e86a65609721fa968052921cd235c414768e513eda90",
-      "bytes": 611493,
+      "id": "69c406403db26482",
+      "file": "backgrounds/apk_screensaver_eng/69c406403db26482.jpg",
+      "sha256": "69c406403db264821f2234f903fa4a669cfc33128fccbeeac69e4fc33ac3ee4d",
+      "bytes": 500047,
       "order": 96,
       "source_name": "mihrap_en_096.jpg",
       "source_group": "english_text",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-en-v14/dd55c74972670e4a.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-en-v15/69c406403db26482.jpg"
     },
     {
       "id": "038f1f2f75c75649",
@@ -1496,14 +1496,14 @@
       "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-en-v14/280ef77c6aab911e.jpg"
     },
     {
-      "id": "6fde75b7c598b462",
-      "file": "backgrounds/apk_screensaver_eng/6fde75b7c598b462.jpg",
-      "sha256": "6fde75b7c598b4624c2ae41a5f588deb32e89a514b6cd4b63b840ec3badc072c",
-      "bytes": 383187,
+      "id": "a7901a8d4d347f05",
+      "file": "backgrounds/apk_screensaver_eng/a7901a8d4d347f05.jpg",
+      "sha256": "a7901a8d4d347f05a218b46eda1a0dd81bc11b9b87b99f70a062ffbaf7d00b23",
+      "bytes": 329792,
       "order": 150,
       "source_name": "mihrap_en_150.jpg",
       "source_group": "english_text",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-en-v14/6fde75b7c598b462.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-en-v15/a7901a8d4d347f05.jpg"
     },
     {
       "id": "b6b2b9daddb013f2",
@@ -2186,14 +2186,14 @@
       "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-en-v14/74b5fa76991e8547.jpg"
     },
     {
-      "id": "af8b13b11f55fe7a",
-      "file": "backgrounds/apk_screensaver_eng/af8b13b11f55fe7a.jpg",
-      "sha256": "af8b13b11f55fe7ac2599ff323f76c8a1ebc7ca70ce6c3e42d9ff1e358b0ca3b",
-      "bytes": 716453,
+      "id": "00dcb1f43adfd07d",
+      "file": "backgrounds/apk_screensaver_eng/00dcb1f43adfd07d.jpg",
+      "sha256": "00dcb1f43adfd07d0202ea4dddd3ab91337f1b1104422e5bcba08388b8998812",
+      "bytes": 413863,
       "order": 219,
       "source_name": "mihrap_en_219.jpg",
       "source_group": "english_text",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-en-v14/af8b13b11f55fe7a.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-en-v15/00dcb1f43adfd07d.jpg"
     },
     {
       "id": "0ccd3df47c940891",
