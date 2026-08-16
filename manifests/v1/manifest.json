@@ -1,8 +1,15 @@
 {
   "version": 1,
-  "updated": "2026-08-16T05:10:35Z",
+  "updated": "2026-08-16T16:00:00Z",
   "github_repo": "mihrapnidaapp/tefekkur-assets",
   "download_url_template": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/{tag}/{file}",
+  "apk": {
+    "versionCode": 5536,
+    "versionName": "5.5.36",
+    "file": "mihrap.apk",
+    "release_tag": "apk-v5.5.36",
+    "bytes": 19441450
+  },
   "packages": {
     "screensaver-tr": {
       "revision": 14,
