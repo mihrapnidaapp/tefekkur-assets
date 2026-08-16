@@ -1,7 +1,7 @@
 {
   "package": "screensaver-tr",
-  "revision": 14,
-  "updated": "2026-08-16T05:10:29Z",
+  "revision": 15,
+  "updated": "2026-08-16T17:02:47Z",
   "folder": "backgrounds/apk_screensaver_tr",
   "count": 446,
   "slides": [
@@ -796,14 +796,14 @@
       "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-tr-v14/327650e472290bec.jpg"
     },
     {
-      "id": "70667a16ba0efebd",
-      "file": "backgrounds/apk_screensaver_tr/70667a16ba0efebd.jpg",
-      "sha256": "70667a16ba0efebdbe4f62b0605e53d5ed2154b6254a3217fad7d7cc198b7937",
-      "bytes": 597533,
+      "id": "be4e4bd31e35f54c",
+      "file": "backgrounds/apk_screensaver_tr/be4e4bd31e35f54c.jpg",
+      "sha256": "be4e4bd31e35f54c49abec80e2ad84f04bd6b266115235b7baa15177e211a9eb",
+      "bytes": 297725,
       "order": 80,
       "source_name": "mihrap_tr_080.jpg",
       "source_group": "turkish_text",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-tr-v14/70667a16ba0efebd.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-tr-v15/be4e4bd31e35f54c.jpg"
     },
     {
       "id": "c3870ae524372fe5",
@@ -956,14 +956,14 @@
       "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-tr-v14/345229d2097e5586.jpg"
     },
     {
-      "id": "836fe55e4f32ec8f",
-      "file": "backgrounds/apk_screensaver_tr/836fe55e4f32ec8f.jpg",
-      "sha256": "836fe55e4f32ec8f87fa69e2ca224c2a9fe65fa0100a10594f1647fce29d1fd4",
-      "bytes": 617746,
+      "id": "ef840c51eb76082a",
+      "file": "backgrounds/apk_screensaver_tr/ef840c51eb76082a.jpg",
+      "sha256": "ef840c51eb76082a53f2d41ffc959d62d3a99e8bcbadd64b1470dc83c5ce4aec",
+      "bytes": 510638,
       "order": 96,
       "source_name": "mihrap_tr_096.jpg",
       "source_group": "turkish_text",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-tr-v14/836fe55e4f32ec8f.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-tr-v15/ef840c51eb76082a.jpg"
     },
     {
       "id": "a87fa86e80e89996",
@@ -1496,14 +1496,14 @@
       "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-tr-v14/0e25b2a408426793.jpg"
     },
     {
-      "id": "2eb6fbc10a67a0e1",
-      "file": "backgrounds/apk_screensaver_tr/2eb6fbc10a67a0e1.jpg",
-      "sha256": "2eb6fbc10a67a0e1aec51f83cf634950044b21ef4ef35e9071a56758c917bce6",
-      "bytes": 383797,
+      "id": "601afbbed6586aaf",
+      "file": "backgrounds/apk_screensaver_tr/601afbbed6586aaf.jpg",
+      "sha256": "601afbbed6586aaff551f3584b6b8ed8b4473ce3392ee2d844de0ca4ed712a4f",
+      "bytes": 330088,
       "order": 150,
       "source_name": "mihrap_tr_150.jpg",
       "source_group": "turkish_text",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-tr-v14/2eb6fbc10a67a0e1.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-tr-v15/601afbbed6586aaf.jpg"
     },
     {
       "id": "0d5bd7d31cbbd86b",
@@ -2186,14 +2186,14 @@
       "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-tr-v14/10574e4f7ce194df.jpg"
     },
     {
-      "id": "f3ab95338a60e108",
-      "file": "backgrounds/apk_screensaver_tr/f3ab95338a60e108.jpg",
-      "sha256": "f3ab95338a60e1081747e820c62bc93eee656dc1a010206a558d9b249df0b43f",
-      "bytes": 701466,
+      "id": "fce50483c9a83f02",
+      "file": "backgrounds/apk_screensaver_tr/fce50483c9a83f02.jpg",
+      "sha256": "fce50483c9a83f02dfd1a0092ec07149244d3794186d232daaffb995a7372c50",
+      "bytes": 396833,
       "order": 219,
       "source_name": "mihrap_tr_219.jpg",
       "source_group": "turkish_text",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-tr-v14/f3ab95338a60e108.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-tr-v15/fce50483c9a83f02.jpg"
     },
     {
       "id": "7f0e38b91e251f9e",
