@@ -1,7 +1,7 @@
 {
   "package": "screensaver-tr",
-  "revision": 15,
-  "updated": "2026-08-16T17:02:47Z",
+  "revision": 16,
+  "updated": "2026-08-16T17:46:06Z",
   "folder": "backgrounds/apk_screensaver_tr",
   "count": 446,
   "slides": [
@@ -366,14 +366,14 @@
       "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-tr-v14/57351cd0f2e58698.jpg"
     },
     {
-      "id": "fe085fc342a4e008",
-      "file": "backgrounds/apk_screensaver_tr/fe085fc342a4e008.jpg",
-      "sha256": "fe085fc342a4e0082a7a71328c855ca938e2febf4f3b948df0648ae0895d6c33",
-      "bytes": 335579,
+      "id": "480c322b858d363c",
+      "file": "backgrounds/apk_screensaver_tr/480c322b858d363c.jpg",
+      "sha256": "480c322b858d363ca6a201df8368586d1d4f8d188eea1d406787624915b2b7e5",
+      "bytes": 693521,
       "order": 37,
       "source_name": "mihrap_tr_037.jpg",
       "source_group": "turkish_text",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-tr-v14/fe085fc342a4e008.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-tr-v16/480c322b858d363c.jpg"
     },
     {
       "id": "22fff759defdbb93",
