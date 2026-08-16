@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-16T17:02:52Z",
+  "updated": "2026-08-16T17:46:11Z",
   "github_repo": "mihrapnidaapp/tefekkur-assets",
   "download_url_template": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/{tag}/{file}",
   "apk": {
@@ -12,16 +12,16 @@
   },
   "packages": {
     "screensaver-tr": {
-      "revision": 15,
+      "revision": 16,
       "count": 446,
       "manifest": "manifests/packages/screensaver-tr.json",
-      "release_tag": "screensaver-tr-v15"
+      "release_tag": "screensaver-tr-v16"
     },
     "screensaver-en": {
-      "revision": 15,
+      "revision": 16,
       "count": 446,
       "manifest": "manifests/packages/screensaver-en.json",
-      "release_tag": "screensaver-en-v15"
+      "release_tag": "screensaver-en-v16"
     },
     "pictures-tr": {
       "revision": 8,
