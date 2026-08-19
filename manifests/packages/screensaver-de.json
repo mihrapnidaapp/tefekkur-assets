@@ -1,7 +1,7 @@
 {
   "package": "screensaver-de",
-  "revision": 1,
-  "updated": "2026-08-19T12:50:10Z",
+  "revision": 3,
+  "updated": "2026-08-19T22:08:57Z",
   "folder": "backgrounds/apk_screensaver_de",
   "count": 446,
   "slides": [
@@ -3476,994 +3476,994 @@
       "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/28d37a9c9fa2ade6.jpg"
     },
     {
-      "id": "0d107b73213e2069",
-      "file": "backgrounds/apk_screensaver_de/0d107b73213e2069.jpg",
-      "sha256": "0d107b73213e20695f36ff41e370eeeaf32069d98c6a0fba776f0e2f96eddad8",
-      "bytes": 296906,
+      "id": "1f7837a4691fd897",
+      "file": "backgrounds/apk_screensaver_de/1f7837a4691fd897.jpg",
+      "sha256": "1f7837a4691fd89751be61e4a8b9ae6f516b0c7b56c87499e20c3c83acbf6685",
+      "bytes": 513659,
       "order": 348,
       "source_name": "mihrap_esma_001.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/0d107b73213e2069.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/1f7837a4691fd897.jpg"
     },
     {
-      "id": "1fed9bb862a61fa3",
-      "file": "backgrounds/apk_screensaver_de/1fed9bb862a61fa3.jpg",
-      "sha256": "1fed9bb862a61fa3509681b23378bab85f1a7f97b610308ccdd66f65e4f686a6",
-      "bytes": 293966,
+      "id": "6affd62aef3565f7",
+      "file": "backgrounds/apk_screensaver_de/6affd62aef3565f7.jpg",
+      "sha256": "6affd62aef3565f7bbec851ddfcae882661c4e6994e3ca43d5fc1b38e79f23c3",
+      "bytes": 524008,
       "order": 349,
       "source_name": "mihrap_esma_002.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/1fed9bb862a61fa3.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/6affd62aef3565f7.jpg"
     },
     {
-      "id": "8e1ef618eceb2ce6",
-      "file": "backgrounds/apk_screensaver_de/8e1ef618eceb2ce6.jpg",
-      "sha256": "8e1ef618eceb2ce61f3acc43105722071ca6a3627dfe9d894e15e736335a6e4a",
-      "bytes": 280261,
+      "id": "ee66330458e8a74b",
+      "file": "backgrounds/apk_screensaver_de/ee66330458e8a74b.jpg",
+      "sha256": "ee66330458e8a74b8be27cd39cc17f1104b3ee5703f43012bd11f87e387022f5",
+      "bytes": 520707,
       "order": 350,
       "source_name": "mihrap_esma_003.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/8e1ef618eceb2ce6.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/ee66330458e8a74b.jpg"
     },
     {
-      "id": "06232700071ee5ca",
-      "file": "backgrounds/apk_screensaver_de/06232700071ee5ca.jpg",
-      "sha256": "06232700071ee5ca79d2de6a4efd97a9405c49b9fdd0abeda7c7ce58f1188e88",
-      "bytes": 285580,
+      "id": "2acc18d0dee7b1e7",
+      "file": "backgrounds/apk_screensaver_de/2acc18d0dee7b1e7.jpg",
+      "sha256": "2acc18d0dee7b1e7f4a30ea9bbf4a1170055bcd48eff3bb384bd77b9ce08a14f",
+      "bytes": 516737,
       "order": 351,
       "source_name": "mihrap_esma_004.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/06232700071ee5ca.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/2acc18d0dee7b1e7.jpg"
     },
     {
-      "id": "49ef5a68eb6a9f2a",
-      "file": "backgrounds/apk_screensaver_de/49ef5a68eb6a9f2a.jpg",
-      "sha256": "49ef5a68eb6a9f2a0ad60c522d95ff1fcef775bbd31eda940439b5990a9413ce",
-      "bytes": 379051,
+      "id": "c622ba80fec8e19d",
+      "file": "backgrounds/apk_screensaver_de/c622ba80fec8e19d.jpg",
+      "sha256": "c622ba80fec8e19dbda149464e899d5991e13368dbd8eafc4ab4f8260f2ee325",
+      "bytes": 524241,
       "order": 352,
       "source_name": "mihrap_esma_005.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/49ef5a68eb6a9f2a.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/c622ba80fec8e19d.jpg"
     },
     {
-      "id": "e301fae0b66ec058",
-      "file": "backgrounds/apk_screensaver_de/e301fae0b66ec058.jpg",
-      "sha256": "e301fae0b66ec058dd4e69b3fd6900fab443b3bfbc14772abf02d81ca57bb6ec",
-      "bytes": 236511,
+      "id": "4740f3544e1d0001",
+      "file": "backgrounds/apk_screensaver_de/4740f3544e1d0001.jpg",
+      "sha256": "4740f3544e1d0001aed306395438e21dafaa1635e0515360dcb54af586268c75",
+      "bytes": 519207,
       "order": 353,
       "source_name": "mihrap_esma_006.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/e301fae0b66ec058.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/4740f3544e1d0001.jpg"
     },
     {
-      "id": "25b0a4e8b4f5f8ab",
-      "file": "backgrounds/apk_screensaver_de/25b0a4e8b4f5f8ab.jpg",
-      "sha256": "25b0a4e8b4f5f8abb003da33d34c59eb2b8e361cae7a39201bfe4f77e9343276",
-      "bytes": 370461,
+      "id": "b465474a13da9b40",
+      "file": "backgrounds/apk_screensaver_de/b465474a13da9b40.jpg",
+      "sha256": "b465474a13da9b40845a3a35cefac34d596107aee3f106b969e32c4672c9398a",
+      "bytes": 529183,
       "order": 354,
       "source_name": "mihrap_esma_007.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/25b0a4e8b4f5f8ab.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/b465474a13da9b40.jpg"
     },
     {
-      "id": "b91da9c7f231a2c8",
-      "file": "backgrounds/apk_screensaver_de/b91da9c7f231a2c8.jpg",
-      "sha256": "b91da9c7f231a2c88b6f00c6f45a226bd78160ed1bef14c79d07b5f895f3121e",
-      "bytes": 307384,
+      "id": "0649ff7f85e91856",
+      "file": "backgrounds/apk_screensaver_de/0649ff7f85e91856.jpg",
+      "sha256": "0649ff7f85e91856dffb4fd3cb25e4715f62b3ef0c578e9830a71fd23fc9e8d1",
+      "bytes": 527607,
       "order": 355,
       "source_name": "mihrap_esma_008.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/b91da9c7f231a2c8.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/0649ff7f85e91856.jpg"
     },
     {
-      "id": "aa5f715375de164e",
-      "file": "backgrounds/apk_screensaver_de/aa5f715375de164e.jpg",
-      "sha256": "aa5f715375de164eeffb6e8ddb4485adda779275ba8edfc9f4b58bb04d821682",
-      "bytes": 317210,
+      "id": "0ffe0b8280532fd3",
+      "file": "backgrounds/apk_screensaver_de/0ffe0b8280532fd3.jpg",
+      "sha256": "0ffe0b8280532fd35b1f351e2721dd9bf40b3737e8873c9147b1269d996839ed",
+      "bytes": 517113,
       "order": 356,
       "source_name": "mihrap_esma_009.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/aa5f715375de164e.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/0ffe0b8280532fd3.jpg"
     },
     {
-      "id": "348fc15e4182214c",
-      "file": "backgrounds/apk_screensaver_de/348fc15e4182214c.jpg",
-      "sha256": "348fc15e4182214ce76f48e729e0827c03d93a5cabd47a2bc37edb53427619bc",
-      "bytes": 321650,
+      "id": "ab50c4b278137e4a",
+      "file": "backgrounds/apk_screensaver_de/ab50c4b278137e4a.jpg",
+      "sha256": "ab50c4b278137e4af059d9610a22f296fd247cba7d89c635701c78e446da668d",
+      "bytes": 519733,
       "order": 357,
       "source_name": "mihrap_esma_010.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/348fc15e4182214c.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/ab50c4b278137e4a.jpg"
     },
     {
-      "id": "b2ee620537c75d49",
-      "file": "backgrounds/apk_screensaver_de/b2ee620537c75d49.jpg",
-      "sha256": "b2ee620537c75d4934507bc954895fb4b573a8163ccc500d1ce43b06e21f710b",
-      "bytes": 259684,
+      "id": "69f3239d81fc820f",
+      "file": "backgrounds/apk_screensaver_de/69f3239d81fc820f.jpg",
+      "sha256": "69f3239d81fc820ffcaa4c8b83417944200bcfdd353a889ca648a7440e419346",
+      "bytes": 531935,
       "order": 358,
       "source_name": "mihrap_esma_011.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/b2ee620537c75d49.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/69f3239d81fc820f.jpg"
     },
     {
-      "id": "3e7f0239112cfa20",
-      "file": "backgrounds/apk_screensaver_de/3e7f0239112cfa20.jpg",
-      "sha256": "3e7f0239112cfa205ce764005fd8ba99f90374858b8e420f9ff669ebfdf24c1f",
-      "bytes": 313085,
+      "id": "691569160e41f212",
+      "file": "backgrounds/apk_screensaver_de/691569160e41f212.jpg",
+      "sha256": "691569160e41f212158f1fed52b505805674fbb32ffaaed88ba24159f9d2a13b",
+      "bytes": 520782,
       "order": 359,
       "source_name": "mihrap_esma_012.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/3e7f0239112cfa20.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/691569160e41f212.jpg"
     },
     {
-      "id": "4a23ca91e579b1fe",
-      "file": "backgrounds/apk_screensaver_de/4a23ca91e579b1fe.jpg",
-      "sha256": "4a23ca91e579b1fe2ba0968f93206330d91b2937e3817cbc89133819bc88418e",
-      "bytes": 339995,
+      "id": "7e35d2df9c470fc1",
+      "file": "backgrounds/apk_screensaver_de/7e35d2df9c470fc1.jpg",
+      "sha256": "7e35d2df9c470fc1aac618e1b49522039f01a37f9926b2a08a1b416f19f0345b",
+      "bytes": 521734,
       "order": 360,
       "source_name": "mihrap_esma_013.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/4a23ca91e579b1fe.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/7e35d2df9c470fc1.jpg"
     },
     {
-      "id": "6d74f706cbe8f3f3",
-      "file": "backgrounds/apk_screensaver_de/6d74f706cbe8f3f3.jpg",
-      "sha256": "6d74f706cbe8f3f3a0093f5866c518c8e151cf15c2b762d1e7021126aecc2a48",
-      "bytes": 266613,
+      "id": "39589bb461e9beb2",
+      "file": "backgrounds/apk_screensaver_de/39589bb461e9beb2.jpg",
+      "sha256": "39589bb461e9beb20650c3d986b12e6304824c456181dbf118de521bc643ef37",
+      "bytes": 525947,
       "order": 361,
       "source_name": "mihrap_esma_014.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/6d74f706cbe8f3f3.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/39589bb461e9beb2.jpg"
     },
     {
-      "id": "8cdfb5bb10bdacf4",
-      "file": "backgrounds/apk_screensaver_de/8cdfb5bb10bdacf4.jpg",
-      "sha256": "8cdfb5bb10bdacf4f77d912d25bd30ebcb14ea4dc97525bce242671f69ce421f",
-      "bytes": 277399,
+      "id": "177f00e9a6bd6d66",
+      "file": "backgrounds/apk_screensaver_de/177f00e9a6bd6d66.jpg",
+      "sha256": "177f00e9a6bd6d665d1986eb2c0f654e44d38fbb417adf37d878065cec4a5787",
+      "bytes": 524793,
       "order": 362,
       "source_name": "mihrap_esma_015.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/8cdfb5bb10bdacf4.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/177f00e9a6bd6d66.jpg"
     },
     {
-      "id": "58ea195fc7bb83c9",
-      "file": "backgrounds/apk_screensaver_de/58ea195fc7bb83c9.jpg",
-      "sha256": "58ea195fc7bb83c972bf796975368e47c09135990650ba01843c842ab04c2161",
-      "bytes": 268074,
+      "id": "1ae28672212c7ade",
+      "file": "backgrounds/apk_screensaver_de/1ae28672212c7ade.jpg",
+      "sha256": "1ae28672212c7ade8e74dec0a9340ed5a96e9769559b010bbbc69ab0cf6bd7f6",
+      "bytes": 523577,
       "order": 363,
       "source_name": "mihrap_esma_016.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/58ea195fc7bb83c9.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/1ae28672212c7ade.jpg"
     },
     {
-      "id": "7e10021953b18fc3",
-      "file": "backgrounds/apk_screensaver_de/7e10021953b18fc3.jpg",
-      "sha256": "7e10021953b18fc306904c9a0c0d52acd59bbaea3f20c886e87474ad8eeea129",
-      "bytes": 316431,
+      "id": "7f388ab2650e19b6",
+      "file": "backgrounds/apk_screensaver_de/7f388ab2650e19b6.jpg",
+      "sha256": "7f388ab2650e19b6b2000b2ef5bde9cf9eaf630b7128b11dc4f8de066d63c1ef",
+      "bytes": 523572,
       "order": 364,
       "source_name": "mihrap_esma_017.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/7e10021953b18fc3.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/7f388ab2650e19b6.jpg"
     },
     {
-      "id": "7a23dc6e63fd9594",
-      "file": "backgrounds/apk_screensaver_de/7a23dc6e63fd9594.jpg",
-      "sha256": "7a23dc6e63fd9594d7a0dd5cb7a57fc2c3523f298cd33fbba0d76506b2f384b5",
-      "bytes": 353209,
+      "id": "719e6580b8b3c043",
+      "file": "backgrounds/apk_screensaver_de/719e6580b8b3c043.jpg",
+      "sha256": "719e6580b8b3c0431432474f2b69b67d84b38690667fa334e1398dafcd813ce7",
+      "bytes": 522686,
       "order": 365,
       "source_name": "mihrap_esma_018.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/7a23dc6e63fd9594.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/719e6580b8b3c043.jpg"
     },
     {
-      "id": "c656e4fe1a207be7",
-      "file": "backgrounds/apk_screensaver_de/c656e4fe1a207be7.jpg",
-      "sha256": "c656e4fe1a207be7a3bd4fb956010c3d9dc9e9ead69743b45fe1ec769b6d2336",
-      "bytes": 333985,
+      "id": "acbb42672b8be83c",
+      "file": "backgrounds/apk_screensaver_de/acbb42672b8be83c.jpg",
+      "sha256": "acbb42672b8be83c8717c0825eea39c094564165e7f41d19446adca928a08abc",
+      "bytes": 521461,
       "order": 366,
       "source_name": "mihrap_esma_019.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/c656e4fe1a207be7.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/acbb42672b8be83c.jpg"
     },
     {
-      "id": "88a14b4254786abd",
-      "file": "backgrounds/apk_screensaver_de/88a14b4254786abd.jpg",
-      "sha256": "88a14b4254786abd2bae586cd4e7e74ffbb0446e05fac74120bf0cc38363beb2",
-      "bytes": 540238,
+      "id": "29dff8d38a3c1d72",
+      "file": "backgrounds/apk_screensaver_de/29dff8d38a3c1d72.jpg",
+      "sha256": "29dff8d38a3c1d72abe1fa2a99d3f39638ec0b356b5c0d614e34096fe5135270",
+      "bytes": 518272,
       "order": 367,
       "source_name": "mihrap_esma_020.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/88a14b4254786abd.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/29dff8d38a3c1d72.jpg"
     },
     {
-      "id": "bbe2b7fe7c529aac",
-      "file": "backgrounds/apk_screensaver_de/bbe2b7fe7c529aac.jpg",
-      "sha256": "bbe2b7fe7c529aac5b42cf86c012d3ac92e5e827925bfa95abfa8ac39d15d616",
-      "bytes": 304493,
+      "id": "14046ee3d1876a68",
+      "file": "backgrounds/apk_screensaver_de/14046ee3d1876a68.jpg",
+      "sha256": "14046ee3d1876a6820879328196a0a34fe3d8e0ab4a078e3d0e28d07e08dbad3",
+      "bytes": 522936,
       "order": 368,
       "source_name": "mihrap_esma_021.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/bbe2b7fe7c529aac.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/14046ee3d1876a68.jpg"
     },
     {
-      "id": "b1f6ecd6476eb721",
-      "file": "backgrounds/apk_screensaver_de/b1f6ecd6476eb721.jpg",
-      "sha256": "b1f6ecd6476eb7213c7bb4b9a6a30dd02dfe9c25b028f469707ae60dc34cbc7d",
-      "bytes": 269887,
+      "id": "29b0257e8fd20d0e",
+      "file": "backgrounds/apk_screensaver_de/29b0257e8fd20d0e.jpg",
+      "sha256": "29b0257e8fd20d0e7e316573cf8c24d5f4427b232fecc3761d09c16dd868e907",
+      "bytes": 520498,
       "order": 369,
       "source_name": "mihrap_esma_022.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/b1f6ecd6476eb721.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/29b0257e8fd20d0e.jpg"
     },
     {
-      "id": "84a55ecae486b014",
-      "file": "backgrounds/apk_screensaver_de/84a55ecae486b014.jpg",
-      "sha256": "84a55ecae486b0145f29258ac72a573b11929fd9bf3197e2631a1566338f45cd",
-      "bytes": 321433,
+      "id": "96535802f81d5b1d",
+      "file": "backgrounds/apk_screensaver_de/96535802f81d5b1d.jpg",
+      "sha256": "96535802f81d5b1d074501e62acc9ef6bee4f1f7252868d9feb850b609f0047a",
+      "bytes": 526569,
       "order": 370,
       "source_name": "mihrap_esma_023.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/84a55ecae486b014.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/96535802f81d5b1d.jpg"
     },
     {
-      "id": "5acbbf6f1462e1d4",
-      "file": "backgrounds/apk_screensaver_de/5acbbf6f1462e1d4.jpg",
-      "sha256": "5acbbf6f1462e1d40591df36a04437d51a4b5b0845c2128fa4da3a70147559ab",
-      "bytes": 267733,
+      "id": "9ba432e684c43e09",
+      "file": "backgrounds/apk_screensaver_de/9ba432e684c43e09.jpg",
+      "sha256": "9ba432e684c43e09369454dc855acd88d22ce508f1ce1720d4fa8ee2ce3693df",
+      "bytes": 519450,
       "order": 371,
       "source_name": "mihrap_esma_024.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/5acbbf6f1462e1d4.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/9ba432e684c43e09.jpg"
     },
     {
-      "id": "d550f50a79537ad4",
-      "file": "backgrounds/apk_screensaver_de/d550f50a79537ad4.jpg",
-      "sha256": "d550f50a79537ad47c84f9770eb57ff2c43c55f21aaad0af1d24653aa514fa6d",
-      "bytes": 357506,
+      "id": "2e48f2cbb1eaa15f",
+      "file": "backgrounds/apk_screensaver_de/2e48f2cbb1eaa15f.jpg",
+      "sha256": "2e48f2cbb1eaa15f575b3f662c4c4275d17a1c2340803486f994e7d54681b45d",
+      "bytes": 521068,
       "order": 372,
       "source_name": "mihrap_esma_025.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/d550f50a79537ad4.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/2e48f2cbb1eaa15f.jpg"
     },
     {
-      "id": "27abf5e75692e1e1",
-      "file": "backgrounds/apk_screensaver_de/27abf5e75692e1e1.jpg",
-      "sha256": "27abf5e75692e1e1f658b06de251a8ab4ee8fd67155fba5020057b070f72b541",
-      "bytes": 354978,
+      "id": "389ff2040649f827",
+      "file": "backgrounds/apk_screensaver_de/389ff2040649f827.jpg",
+      "sha256": "389ff2040649f827bb0d4677983b19f424079a4030487a2ea9a80a88d652801d",
+      "bytes": 524666,
       "order": 373,
       "source_name": "mihrap_esma_026.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/27abf5e75692e1e1.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/389ff2040649f827.jpg"
     },
     {
-      "id": "9e22361ce141d3c3",
-      "file": "backgrounds/apk_screensaver_de/9e22361ce141d3c3.jpg",
-      "sha256": "9e22361ce141d3c3435d040b69a3cc20a0421cc550deb935c0392753fca97ee9",
-      "bytes": 328331,
+      "id": "af66192c424928bd",
+      "file": "backgrounds/apk_screensaver_de/af66192c424928bd.jpg",
+      "sha256": "af66192c424928bdee41068274c4b00ecfaf26bc7770d4b70f4c7721312f1508",
+      "bytes": 520866,
       "order": 374,
       "source_name": "mihrap_esma_027.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/9e22361ce141d3c3.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/af66192c424928bd.jpg"
     },
     {
-      "id": "15e3a0ce9d2e44bc",
-      "file": "backgrounds/apk_screensaver_de/15e3a0ce9d2e44bc.jpg",
-      "sha256": "15e3a0ce9d2e44bc85ade1127cc536aa16630033c748da8c1e3916a49cf2cfb9",
-      "bytes": 232491,
+      "id": "4f8f1063077a9ab9",
+      "file": "backgrounds/apk_screensaver_de/4f8f1063077a9ab9.jpg",
+      "sha256": "4f8f1063077a9ab9ebf7cbf6bfe970b6aa11757cd0b96c22f3044b58797432ea",
+      "bytes": 519162,
       "order": 375,
       "source_name": "mihrap_esma_028.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/15e3a0ce9d2e44bc.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/4f8f1063077a9ab9.jpg"
     },
     {
-      "id": "e71735a85eebd310",
-      "file": "backgrounds/apk_screensaver_de/e71735a85eebd310.jpg",
-      "sha256": "e71735a85eebd3104b96752af6dfcf5cfce77f8d6534755bae04bfa825c38f0e",
-      "bytes": 325539,
+      "id": "9483d13731fd86eb",
+      "file": "backgrounds/apk_screensaver_de/9483d13731fd86eb.jpg",
+      "sha256": "9483d13731fd86eb172a012116b6a2f70747d4e3b580685d662d2506f79ede63",
+      "bytes": 519016,
       "order": 376,
       "source_name": "mihrap_esma_029.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/e71735a85eebd310.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/9483d13731fd86eb.jpg"
     },
     {
-      "id": "dbdcef3ffd5756a3",
-      "file": "backgrounds/apk_screensaver_de/dbdcef3ffd5756a3.jpg",
-      "sha256": "dbdcef3ffd5756a3badaa3ad99917e107705e1de295506d87e3ffa96fd75624d",
-      "bytes": 227841,
+      "id": "a126ac4f9d7d4b39",
+      "file": "backgrounds/apk_screensaver_de/a126ac4f9d7d4b39.jpg",
+      "sha256": "a126ac4f9d7d4b396c93c00486736fe6f9a583cb9f8c0b7bead66af86ed970e6",
+      "bytes": 515274,
       "order": 377,
       "source_name": "mihrap_esma_030.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/dbdcef3ffd5756a3.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/a126ac4f9d7d4b39.jpg"
     },
     {
-      "id": "47586db86c5c6f08",
-      "file": "backgrounds/apk_screensaver_de/47586db86c5c6f08.jpg",
-      "sha256": "47586db86c5c6f0861b6751d1f2f8f388a29f2837b1a26b31f0dcd04d9205351",
-      "bytes": 253893,
+      "id": "2ed8c340baa81c48",
+      "file": "backgrounds/apk_screensaver_de/2ed8c340baa81c48.jpg",
+      "sha256": "2ed8c340baa81c483bac1b0b9f8d6220c41e2d45ad141444e33063d3670ed2c7",
+      "bytes": 522403,
       "order": 378,
       "source_name": "mihrap_esma_031.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/47586db86c5c6f08.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/2ed8c340baa81c48.jpg"
     },
     {
-      "id": "f224af689eb0a40a",
-      "file": "backgrounds/apk_screensaver_de/f224af689eb0a40a.jpg",
-      "sha256": "f224af689eb0a40afa8c9121af7d47790288934afdeb1a670d2463cb1d64ea06",
-      "bytes": 259824,
+      "id": "bdedd6168dcc6a13",
+      "file": "backgrounds/apk_screensaver_de/bdedd6168dcc6a13.jpg",
+      "sha256": "bdedd6168dcc6a1364354adaf5640f9225492515ab8d138fd086f659b9ff6a86",
+      "bytes": 519572,
       "order": 379,
       "source_name": "mihrap_esma_032.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/f224af689eb0a40a.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/bdedd6168dcc6a13.jpg"
     },
     {
-      "id": "80075b8ef324605a",
-      "file": "backgrounds/apk_screensaver_de/80075b8ef324605a.jpg",
-      "sha256": "80075b8ef324605a1598ccb8809ed37d0cddb1eaa25e52bfd2568df30f9ab365",
-      "bytes": 198511,
+      "id": "73ba6482061b11f9",
+      "file": "backgrounds/apk_screensaver_de/73ba6482061b11f9.jpg",
+      "sha256": "73ba6482061b11f9eae699c1d7360db7116b8886049b9de6470dcac9b084a4f7",
+      "bytes": 521600,
       "order": 380,
       "source_name": "mihrap_esma_033.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/80075b8ef324605a.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/73ba6482061b11f9.jpg"
     },
     {
-      "id": "68f96e370e87bb62",
-      "file": "backgrounds/apk_screensaver_de/68f96e370e87bb62.jpg",
-      "sha256": "68f96e370e87bb629789273657df816f3d1d1585c63a23963a069f96884cae56",
-      "bytes": 259154,
+      "id": "b485278483042f0f",
+      "file": "backgrounds/apk_screensaver_de/b485278483042f0f.jpg",
+      "sha256": "b485278483042f0f25098b9c0741a9982ac051ad7517313aa3342294ae61ea74",
+      "bytes": 516899,
       "order": 381,
       "source_name": "mihrap_esma_034.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/68f96e370e87bb62.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/b485278483042f0f.jpg"
     },
     {
-      "id": "abb0881b22ccc1ef",
-      "file": "backgrounds/apk_screensaver_de/abb0881b22ccc1ef.jpg",
-      "sha256": "abb0881b22ccc1ef0b815742e40c8ba2208b007f436679304335b89478783233",
-      "bytes": 230215,
+      "id": "6787790de025d025",
+      "file": "backgrounds/apk_screensaver_de/6787790de025d025.jpg",
+      "sha256": "6787790de025d02500ce1fddc8031ac40f34956397dafcb835c375456e78a751",
+      "bytes": 522541,
       "order": 382,
       "source_name": "mihrap_esma_035.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/abb0881b22ccc1ef.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/6787790de025d025.jpg"
     },
     {
-      "id": "fdee7a2437466c7e",
-      "file": "backgrounds/apk_screensaver_de/fdee7a2437466c7e.jpg",
-      "sha256": "fdee7a2437466c7eec781ac292b786962a55a17648751836c2fa7da2dc0142f6",
-      "bytes": 228983,
+      "id": "892a69b87b9de010",
+      "file": "backgrounds/apk_screensaver_de/892a69b87b9de010.jpg",
+      "sha256": "892a69b87b9de010da52cf774b8b75cf1d26031cce8e3d6c3dd340b78faf181a",
+      "bytes": 525731,
       "order": 383,
       "source_name": "mihrap_esma_036.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/fdee7a2437466c7e.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/892a69b87b9de010.jpg"
     },
     {
-      "id": "8fd79b5e3a8ba488",
-      "file": "backgrounds/apk_screensaver_de/8fd79b5e3a8ba488.jpg",
-      "sha256": "8fd79b5e3a8ba48807be9dbe9812bd38f8a823793875f8d679bb184553c68e98",
-      "bytes": 252333,
+      "id": "18b18492e9b529f1",
+      "file": "backgrounds/apk_screensaver_de/18b18492e9b529f1.jpg",
+      "sha256": "18b18492e9b529f13b4cbea955558082913ec1b9cdde60890aec5e75d451c2ea",
+      "bytes": 519211,
       "order": 384,
       "source_name": "mihrap_esma_037.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/8fd79b5e3a8ba488.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/18b18492e9b529f1.jpg"
     },
     {
-      "id": "e98014886091d930",
-      "file": "backgrounds/apk_screensaver_de/e98014886091d930.jpg",
-      "sha256": "e98014886091d93026e2705fadbf3697a25029561becd544ad7381095884cb3b",
-      "bytes": 271156,
+      "id": "118124256e677079",
+      "file": "backgrounds/apk_screensaver_de/118124256e677079.jpg",
+      "sha256": "118124256e677079334e5a680a46c56d84e6f521768b2cce2607d80d85022c47",
+      "bytes": 517322,
       "order": 385,
       "source_name": "mihrap_esma_038.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/e98014886091d930.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/118124256e677079.jpg"
     },
     {
-      "id": "6619ccdd5e2cb4df",
-      "file": "backgrounds/apk_screensaver_de/6619ccdd5e2cb4df.jpg",
-      "sha256": "6619ccdd5e2cb4dfcdfe4df49cc8221aebb5b1a250d2a19d21309a785a480c20",
-      "bytes": 244189,
+      "id": "cd2c804b1cd32c3f",
+      "file": "backgrounds/apk_screensaver_de/cd2c804b1cd32c3f.jpg",
+      "sha256": "cd2c804b1cd32c3fa4760b2a6643b4452dcb4351683152b97b95dec82355f9bb",
+      "bytes": 522082,
       "order": 386,
       "source_name": "mihrap_esma_039.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/6619ccdd5e2cb4df.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/cd2c804b1cd32c3f.jpg"
     },
     {
-      "id": "6a6811957fd32530",
-      "file": "backgrounds/apk_screensaver_de/6a6811957fd32530.jpg",
-      "sha256": "6a6811957fd325307d6aa7706fdb2b6829de3392aa858e233aef7cd12416efea",
-      "bytes": 198375,
+      "id": "9d19046d60077af7",
+      "file": "backgrounds/apk_screensaver_de/9d19046d60077af7.jpg",
+      "sha256": "9d19046d60077af758ec16a984db2c6ddbb872e8d2fd5e7b9954a3d8c1d63e1b",
+      "bytes": 521753,
       "order": 387,
       "source_name": "mihrap_esma_040.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/6a6811957fd32530.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/9d19046d60077af7.jpg"
     },
     {
-      "id": "d8486e250e0b214d",
-      "file": "backgrounds/apk_screensaver_de/d8486e250e0b214d.jpg",
-      "sha256": "d8486e250e0b214dea7d4d4ea78e55264c31247aa857ef5607230c9adc2069ef",
-      "bytes": 240930,
+      "id": "c875ec4e9c6be345",
+      "file": "backgrounds/apk_screensaver_de/c875ec4e9c6be345.jpg",
+      "sha256": "c875ec4e9c6be345fcbf3580b54f11b485c9947d0271e4ad1b5e99021fe29b2a",
+      "bytes": 520438,
       "order": 388,
       "source_name": "mihrap_esma_041.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/d8486e250e0b214d.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/c875ec4e9c6be345.jpg"
     },
     {
-      "id": "a2aedb83d4527acb",
-      "file": "backgrounds/apk_screensaver_de/a2aedb83d4527acb.jpg",
-      "sha256": "a2aedb83d4527acbf55079f2f371e7cc51c7ee9583272221ef6dccaafc2b93df",
-      "bytes": 352451,
+      "id": "68aceb4a34073c92",
+      "file": "backgrounds/apk_screensaver_de/68aceb4a34073c92.jpg",
+      "sha256": "68aceb4a34073c92825cd1eee19892cc05e5b86e092f31b97f7dbcd5ef81fb9f",
+      "bytes": 518185,
       "order": 389,
       "source_name": "mihrap_esma_042.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/a2aedb83d4527acb.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/68aceb4a34073c92.jpg"
     },
     {
-      "id": "faad2abcf3343402",
-      "file": "backgrounds/apk_screensaver_de/faad2abcf3343402.jpg",
-      "sha256": "faad2abcf3343402d3381ffae7fa129c0c05e7e5f3f98725828349607e3b423b",
-      "bytes": 349539,
+      "id": "172e7022444d72ee",
+      "file": "backgrounds/apk_screensaver_de/172e7022444d72ee.jpg",
+      "sha256": "172e7022444d72eed453768755b86449bcc3a92d640b917c3e2fe12995bad0fd",
+      "bytes": 523042,
       "order": 390,
       "source_name": "mihrap_esma_043.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/faad2abcf3343402.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/172e7022444d72ee.jpg"
     },
     {
-      "id": "7024c34ba250c4c6",
-      "file": "backgrounds/apk_screensaver_de/7024c34ba250c4c6.jpg",
-      "sha256": "7024c34ba250c4c6ef34991c7f59502d5ff166b894525c55963bddef097c22ea",
-      "bytes": 272583,
+      "id": "a876844e632c84df",
+      "file": "backgrounds/apk_screensaver_de/a876844e632c84df.jpg",
+      "sha256": "a876844e632c84dfc5a7fd4d6d913ceb5ad282eb0ee116e1719fcac4844d7de1",
+      "bytes": 520477,
       "order": 391,
       "source_name": "mihrap_esma_044.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/7024c34ba250c4c6.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/a876844e632c84df.jpg"
     },
     {
-      "id": "5616f4d669cc7c1e",
-      "file": "backgrounds/apk_screensaver_de/5616f4d669cc7c1e.jpg",
-      "sha256": "5616f4d669cc7c1eaf76c4a62342d64ff7462c8d7913da9e013648a433affd68",
-      "bytes": 287552,
+      "id": "e7a30dd4ff7949cd",
+      "file": "backgrounds/apk_screensaver_de/e7a30dd4ff7949cd.jpg",
+      "sha256": "e7a30dd4ff7949cd3e54459fe04e0d9891d67d3e6eb962577a3dc489dc0cd447",
+      "bytes": 521438,
       "order": 392,
       "source_name": "mihrap_esma_045.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/5616f4d669cc7c1e.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/e7a30dd4ff7949cd.jpg"
     },
     {
-      "id": "ad116391ca7702c7",
-      "file": "backgrounds/apk_screensaver_de/ad116391ca7702c7.jpg",
-      "sha256": "ad116391ca7702c74dd2581ef1cfabcd30ab20d7e7a99969a7ba5a9f6d8a805a",
-      "bytes": 315370,
+      "id": "5cf4dd9d92734757",
+      "file": "backgrounds/apk_screensaver_de/5cf4dd9d92734757.jpg",
+      "sha256": "5cf4dd9d927347579a026afadec8faf041d141b3b6c069c536da7b92c5400c54",
+      "bytes": 522538,
       "order": 393,
       "source_name": "mihrap_esma_046.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/ad116391ca7702c7.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/5cf4dd9d92734757.jpg"
     },
     {
-      "id": "1077aeb07e1e4aa6",
-      "file": "backgrounds/apk_screensaver_de/1077aeb07e1e4aa6.jpg",
-      "sha256": "1077aeb07e1e4aa65e823d600a142a5f01437c7d8ff0313cd74316061e202ebf",
-      "bytes": 299096,
+      "id": "084bb6e64b0aa0cc",
+      "file": "backgrounds/apk_screensaver_de/084bb6e64b0aa0cc.jpg",
+      "sha256": "084bb6e64b0aa0cc07730692ce3adf0b666d50b7c16d32e739f4a5ece111380b",
+      "bytes": 519357,
       "order": 394,
       "source_name": "mihrap_esma_047.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/1077aeb07e1e4aa6.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/084bb6e64b0aa0cc.jpg"
     },
     {
-      "id": "fb28335c90591efc",
-      "file": "backgrounds/apk_screensaver_de/fb28335c90591efc.jpg",
-      "sha256": "fb28335c90591efcd40985263232d41650edaa48940b77b7b444e53a894d60ce",
-      "bytes": 280681,
+      "id": "731ba94dd4f58434",
+      "file": "backgrounds/apk_screensaver_de/731ba94dd4f58434.jpg",
+      "sha256": "731ba94dd4f58434f2cae086b5f21fbac24c4023412db8799d8fa2c54042be51",
+      "bytes": 519784,
       "order": 395,
       "source_name": "mihrap_esma_048.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/fb28335c90591efc.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/731ba94dd4f58434.jpg"
     },
     {
-      "id": "450d45d4438d2256",
-      "file": "backgrounds/apk_screensaver_de/450d45d4438d2256.jpg",
-      "sha256": "450d45d4438d22562afb4b16b18b5c640f1371df782ba60cfce65e567a83126c",
-      "bytes": 250450,
+      "id": "b89d5c8b3e72a82f",
+      "file": "backgrounds/apk_screensaver_de/b89d5c8b3e72a82f.jpg",
+      "sha256": "b89d5c8b3e72a82fa19c98b628c030d976f22b62037b309538c6738090a2af9d",
+      "bytes": 521123,
       "order": 396,
       "source_name": "mihrap_esma_049.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/450d45d4438d2256.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/b89d5c8b3e72a82f.jpg"
     },
     {
-      "id": "4067296defa7e4cd",
-      "file": "backgrounds/apk_screensaver_de/4067296defa7e4cd.jpg",
-      "sha256": "4067296defa7e4cd12e9294654ad6396b5a60de480cd75d42ca241c5dfeb354c",
-      "bytes": 379926,
+      "id": "680791d891992eae",
+      "file": "backgrounds/apk_screensaver_de/680791d891992eae.jpg",
+      "sha256": "680791d891992eae028cd036e7004973692db6a9431fdab116f3e151863c4e4e",
+      "bytes": 520415,
       "order": 397,
       "source_name": "mihrap_esma_050.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/4067296defa7e4cd.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/680791d891992eae.jpg"
     },
     {
-      "id": "963ecb4863f7169b",
-      "file": "backgrounds/apk_screensaver_de/963ecb4863f7169b.jpg",
-      "sha256": "963ecb4863f7169b31a564b3241d7d8d396b3cb2e162f825ce2996369b574226",
-      "bytes": 317976,
+      "id": "28ed0198b6f89f8e",
+      "file": "backgrounds/apk_screensaver_de/28ed0198b6f89f8e.jpg",
+      "sha256": "28ed0198b6f89f8e867fe40e9e885a3c51b2a9a3b3fc079c0d42a4ff18e67b81",
+      "bytes": 520980,
       "order": 398,
       "source_name": "mihrap_esma_051.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/963ecb4863f7169b.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/28ed0198b6f89f8e.jpg"
     },
     {
-      "id": "557cc473b94baa23",
-      "file": "backgrounds/apk_screensaver_de/557cc473b94baa23.jpg",
-      "sha256": "557cc473b94baa23143239e370e0b4883654e146c3045d81ab6d1ad5637ec96b",
-      "bytes": 285726,
+      "id": "94cdbada3b167423",
+      "file": "backgrounds/apk_screensaver_de/94cdbada3b167423.jpg",
+      "sha256": "94cdbada3b1674233fac60b555172351bdae6afbdfccd0a7449d845ff2eea01b",
+      "bytes": 516713,
       "order": 399,
       "source_name": "mihrap_esma_052.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/557cc473b94baa23.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/94cdbada3b167423.jpg"
     },
     {
-      "id": "e77795b4883ada00",
-      "file": "backgrounds/apk_screensaver_de/e77795b4883ada00.jpg",
-      "sha256": "e77795b4883ada00957f3be38309579f2c78a624e22bd71ba16167c0e7318b69",
-      "bytes": 432486,
+      "id": "17aed8c6fb0aae83",
+      "file": "backgrounds/apk_screensaver_de/17aed8c6fb0aae83.jpg",
+      "sha256": "17aed8c6fb0aae83890ebad3834da0a396dfd5ffec08c11250c26e085fcf1e3e",
+      "bytes": 519146,
       "order": 400,
       "source_name": "mihrap_esma_053.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/e77795b4883ada00.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/17aed8c6fb0aae83.jpg"
     },
     {
-      "id": "b8673d911136e55e",
-      "file": "backgrounds/apk_screensaver_de/b8673d911136e55e.jpg",
-      "sha256": "b8673d911136e55ee7c80796080fc3d07cab5621c4c6adf944ca4624e5c488a1",
-      "bytes": 320283,
+      "id": "430b8927ff6983c6",
+      "file": "backgrounds/apk_screensaver_de/430b8927ff6983c6.jpg",
+      "sha256": "430b8927ff6983c6cdd0a5cf49ef3b0a4e825f7f528951b89a715514a928211e",
+      "bytes": 521946,
       "order": 401,
       "source_name": "mihrap_esma_054.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/b8673d911136e55e.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/430b8927ff6983c6.jpg"
     },
     {
-      "id": "7e6fcc9533fbefd6",
-      "file": "backgrounds/apk_screensaver_de/7e6fcc9533fbefd6.jpg",
-      "sha256": "7e6fcc9533fbefd695c7d58735ad0e8a25d86acf31ed453a59964be988cc1a0a",
-      "bytes": 251110,
+      "id": "932e76509456acdd",
+      "file": "backgrounds/apk_screensaver_de/932e76509456acdd.jpg",
+      "sha256": "932e76509456acdd245135a53adf671c3d0d484b348c4c5ef2a54dcc4c9e8831",
+      "bytes": 515939,
       "order": 402,
       "source_name": "mihrap_esma_055.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/7e6fcc9533fbefd6.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/932e76509456acdd.jpg"
     },
     {
-      "id": "1e4b12026bc3dcae",
-      "file": "backgrounds/apk_screensaver_de/1e4b12026bc3dcae.jpg",
-      "sha256": "1e4b12026bc3dcae02a1981a4d906d811ce329721c8a75bdbc7ee8da210ff3cb",
-      "bytes": 301179,
+      "id": "4e07cdb56728c704",
+      "file": "backgrounds/apk_screensaver_de/4e07cdb56728c704.jpg",
+      "sha256": "4e07cdb56728c704433595e99c7648a33e4f39fa54a0ff47577e139d050301e5",
+      "bytes": 522206,
       "order": 403,
       "source_name": "mihrap_esma_056.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/1e4b12026bc3dcae.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/4e07cdb56728c704.jpg"
     },
     {
-      "id": "215ff0117363d5ce",
-      "file": "backgrounds/apk_screensaver_de/215ff0117363d5ce.jpg",
-      "sha256": "215ff0117363d5ce7c268a4635242ce3e4997be8e297569de7822e27df1e5fce",
-      "bytes": 335401,
+      "id": "843f5b1b6066a0e9",
+      "file": "backgrounds/apk_screensaver_de/843f5b1b6066a0e9.jpg",
+      "sha256": "843f5b1b6066a0e9effc15805ca63698c863b496f86fa4e501a6e0c3e2f06047",
+      "bytes": 522125,
       "order": 404,
       "source_name": "mihrap_esma_057.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/215ff0117363d5ce.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/843f5b1b6066a0e9.jpg"
     },
     {
-      "id": "92abcb1c8ce7a42f",
-      "file": "backgrounds/apk_screensaver_de/92abcb1c8ce7a42f.jpg",
-      "sha256": "92abcb1c8ce7a42fe5c11f782b8924c4b25528d2b661dbbf1c47048ac60feabd",
-      "bytes": 336720,
+      "id": "f666fc22c392c2cc",
+      "file": "backgrounds/apk_screensaver_de/f666fc22c392c2cc.jpg",
+      "sha256": "f666fc22c392c2cca7e623538d2cbc3ef81aa39d785bd816ee518e59eb6f040b",
+      "bytes": 522659,
       "order": 405,
       "source_name": "mihrap_esma_058.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/92abcb1c8ce7a42f.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/f666fc22c392c2cc.jpg"
     },
     {
-      "id": "2e0387d90110e9ff",
-      "file": "backgrounds/apk_screensaver_de/2e0387d90110e9ff.jpg",
-      "sha256": "2e0387d90110e9ff98dc28bc1b0dc45c59ee6987d7f5430184507bb73d54376c",
-      "bytes": 194550,
+      "id": "bb1ddc7d5eecb9bf",
+      "file": "backgrounds/apk_screensaver_de/bb1ddc7d5eecb9bf.jpg",
+      "sha256": "bb1ddc7d5eecb9bf28ae39e739e67af39a330576eb774ddefb00ded0c832e086",
+      "bytes": 525188,
       "order": 406,
       "source_name": "mihrap_esma_059.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/2e0387d90110e9ff.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/bb1ddc7d5eecb9bf.jpg"
     },
     {
-      "id": "653434dc3773c4a8",
-      "file": "backgrounds/apk_screensaver_de/653434dc3773c4a8.jpg",
-      "sha256": "653434dc3773c4a899002a96b56dc092e0d4bd0c6014fd40df78682d1d88ff68",
-      "bytes": 342182,
+      "id": "1e53bdf6159bc846",
+      "file": "backgrounds/apk_screensaver_de/1e53bdf6159bc846.jpg",
+      "sha256": "1e53bdf6159bc846ab83e26c194699cfc01b0d68f7bc37214b38cccce437626c",
+      "bytes": 522558,
       "order": 407,
       "source_name": "mihrap_esma_060.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/653434dc3773c4a8.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/1e53bdf6159bc846.jpg"
     },
     {
-      "id": "91a0eaa2301dce29",
-      "file": "backgrounds/apk_screensaver_de/91a0eaa2301dce29.jpg",
-      "sha256": "91a0eaa2301dce291d04b2d87c983f2bb94f580130d0047386c1cbf959271b95",
-      "bytes": 286114,
+      "id": "1f00c75352864fe6",
+      "file": "backgrounds/apk_screensaver_de/1f00c75352864fe6.jpg",
+      "sha256": "1f00c75352864fe65561cb122cd20cb1c64924bdac84bddda02e7872ec878d3d",
+      "bytes": 524499,
       "order": 408,
       "source_name": "mihrap_esma_061.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/91a0eaa2301dce29.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/1f00c75352864fe6.jpg"
     },
     {
-      "id": "fee279687883400a",
-      "file": "backgrounds/apk_screensaver_de/fee279687883400a.jpg",
-      "sha256": "fee279687883400a016d0264b6429a8f74e5cf18e7448663f12d07ae96155018",
-      "bytes": 249217,
+      "id": "d7df5acdcfc10a9d",
+      "file": "backgrounds/apk_screensaver_de/d7df5acdcfc10a9d.jpg",
+      "sha256": "d7df5acdcfc10a9d8c62bd9e8508bb913c1ac902b2eff4bc04820e5bd88256ad",
+      "bytes": 521497,
       "order": 409,
       "source_name": "mihrap_esma_062.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/fee279687883400a.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/d7df5acdcfc10a9d.jpg"
     },
     {
-      "id": "1b378ac6a29799ab",
-      "file": "backgrounds/apk_screensaver_de/1b378ac6a29799ab.jpg",
-      "sha256": "1b378ac6a29799abb05d7163db0a147c1d8f06cf671d5361c90b31ad5a630592",
-      "bytes": 216139,
+      "id": "7fbeb40d04ef709b",
+      "file": "backgrounds/apk_screensaver_de/7fbeb40d04ef709b.jpg",
+      "sha256": "7fbeb40d04ef709bb79e452f3c2d284c02d080abd5c386f6e2cc13f2c908eff0",
+      "bytes": 517821,
       "order": 410,
       "source_name": "mihrap_esma_063.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/1b378ac6a29799ab.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/7fbeb40d04ef709b.jpg"
     },
     {
-      "id": "3438e7a0f1cc56ad",
-      "file": "backgrounds/apk_screensaver_de/3438e7a0f1cc56ad.jpg",
-      "sha256": "3438e7a0f1cc56ad60af260375896023fd46a812d9a6133f217e8cc461d97f35",
-      "bytes": 369809,
+      "id": "8c1cb345ac5861a2",
+      "file": "backgrounds/apk_screensaver_de/8c1cb345ac5861a2.jpg",
+      "sha256": "8c1cb345ac5861a22dfc5b47428e9a7e232667c110be1c1eba63323a5b8f8e35",
+      "bytes": 524680,
       "order": 411,
       "source_name": "mihrap_esma_064.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/3438e7a0f1cc56ad.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/8c1cb345ac5861a2.jpg"
     },
     {
-      "id": "7b8ceb21563b4821",
-      "file": "backgrounds/apk_screensaver_de/7b8ceb21563b4821.jpg",
-      "sha256": "7b8ceb21563b482111cb085e04a52e5a6af0ca16ab3f86a5882ebd6d6c167c23",
-      "bytes": 264185,
+      "id": "fac436c13759a047",
+      "file": "backgrounds/apk_screensaver_de/fac436c13759a047.jpg",
+      "sha256": "fac436c13759a047c9d4f2e28274811e4da7e6cd2701eee11d7514b58d5d7fde",
+      "bytes": 519022,
       "order": 412,
       "source_name": "mihrap_esma_065.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/7b8ceb21563b4821.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/fac436c13759a047.jpg"
     },
     {
-      "id": "8dd2c9dd12578afb",
-      "file": "backgrounds/apk_screensaver_de/8dd2c9dd12578afb.jpg",
-      "sha256": "8dd2c9dd12578afbad2152419f5e6910b194a8ab16bc71eb26bd68430d92af29",
-      "bytes": 214475,
+      "id": "ffae7b8654e02848",
+      "file": "backgrounds/apk_screensaver_de/ffae7b8654e02848.jpg",
+      "sha256": "ffae7b8654e02848417f609640f656393c9133c4eda3a8b5ad2c53ef44feefdd",
+      "bytes": 515713,
       "order": 413,
       "source_name": "mihrap_esma_066.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/8dd2c9dd12578afb.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/ffae7b8654e02848.jpg"
     },
     {
-      "id": "4e5d4af5e335acf7",
-      "file": "backgrounds/apk_screensaver_de/4e5d4af5e335acf7.jpg",
-      "sha256": "4e5d4af5e335acf77f239fec2846c354a7f532304fc79fe765baeb215f865ad3",
-      "bytes": 202481,
+      "id": "d33895400b087477",
+      "file": "backgrounds/apk_screensaver_de/d33895400b087477.jpg",
+      "sha256": "d33895400b087477323799e7f802b63eb0cc0b9906b7ba6f0808fb0f63d258bb",
+      "bytes": 516035,
       "order": 414,
       "source_name": "mihrap_esma_067.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/4e5d4af5e335acf7.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/d33895400b087477.jpg"
     },
     {
-      "id": "2c300da9dd6bab55",
-      "file": "backgrounds/apk_screensaver_de/2c300da9dd6bab55.jpg",
-      "sha256": "2c300da9dd6bab55358a0a6f0a5b44de33a5be7d86e642c2e5860141185b0557",
-      "bytes": 264469,
+      "id": "2769dae0418e8393",
+      "file": "backgrounds/apk_screensaver_de/2769dae0418e8393.jpg",
+      "sha256": "2769dae0418e8393cb1413b8a9730ac2ad4e5668e02bdfdc7e3face1351116d3",
+      "bytes": 521712,
       "order": 415,
       "source_name": "mihrap_esma_068.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/2c300da9dd6bab55.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/2769dae0418e8393.jpg"
     },
     {
-      "id": "516b6057f2b20790",
-      "file": "backgrounds/apk_screensaver_de/516b6057f2b20790.jpg",
-      "sha256": "516b6057f2b2079078316553e7a4dfbe8e4e9a400b089b36556d0331e0ca658d",
-      "bytes": 404607,
+      "id": "3cd21c679d76972a",
+      "file": "backgrounds/apk_screensaver_de/3cd21c679d76972a.jpg",
+      "sha256": "3cd21c679d76972afc2e18b4e8db20b2ba46c0dc9198b920eb50edc4a83d1eed",
+      "bytes": 520343,
       "order": 416,
       "source_name": "mihrap_esma_069.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/516b6057f2b20790.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/3cd21c679d76972a.jpg"
     },
     {
-      "id": "27d3f87702f6b3bf",
-      "file": "backgrounds/apk_screensaver_de/27d3f87702f6b3bf.jpg",
-      "sha256": "27d3f87702f6b3bfac4a719386090ef3ae5a20354bf57c63970a5ecdf29f3edf",
-      "bytes": 243614,
+      "id": "3ea5098e835ee7c2",
+      "file": "backgrounds/apk_screensaver_de/3ea5098e835ee7c2.jpg",
+      "sha256": "3ea5098e835ee7c2de312c68672db52ab672ff958dfded8d5c0a9fc412235251",
+      "bytes": 529806,
       "order": 417,
       "source_name": "mihrap_esma_070.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/27d3f87702f6b3bf.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/3ea5098e835ee7c2.jpg"
     },
     {
-      "id": "8b7e8cd6c2dcbdab",
-      "file": "backgrounds/apk_screensaver_de/8b7e8cd6c2dcbdab.jpg",
-      "sha256": "8b7e8cd6c2dcbdab0118337c691abb60ffa894375ce5532d485c420106e629b8",
-      "bytes": 251673,
+      "id": "fe6c99f5ff2997d8",
+      "file": "backgrounds/apk_screensaver_de/fe6c99f5ff2997d8.jpg",
+      "sha256": "fe6c99f5ff2997d8b6a011c39b6547310b83f9c861b55ab1727115730073f5a1",
+      "bytes": 528454,
       "order": 418,
       "source_name": "mihrap_esma_071.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/8b7e8cd6c2dcbdab.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/fe6c99f5ff2997d8.jpg"
     },
     {
-      "id": "e957b0b6feb12399",
-      "file": "backgrounds/apk_screensaver_de/e957b0b6feb12399.jpg",
-      "sha256": "e957b0b6feb123991151d0c4d3f8624de1af9bf95e5662663a9d096b6ab7da8e",
-      "bytes": 458608,
+      "id": "df9a9240af232f9d",
+      "file": "backgrounds/apk_screensaver_de/df9a9240af232f9d.jpg",
+      "sha256": "df9a9240af232f9deeac3e732e8cfb040c0d24541a714cf7fc49ba6953ac9a7d",
+      "bytes": 530625,
       "order": 419,
       "source_name": "mihrap_esma_072.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/e957b0b6feb12399.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/df9a9240af232f9d.jpg"
     },
     {
-      "id": "7267ab50696f43a2",
-      "file": "backgrounds/apk_screensaver_de/7267ab50696f43a2.jpg",
-      "sha256": "7267ab50696f43a24559998f3dd113c47dd42ad6edcd49b82119b73055b2e384",
-      "bytes": 238387,
+      "id": "bfda82500e22b0bc",
+      "file": "backgrounds/apk_screensaver_de/bfda82500e22b0bc.jpg",
+      "sha256": "bfda82500e22b0bc5d72263c34ca6b3688ed199d449f3e24fffb99179e2229eb",
+      "bytes": 518116,
       "order": 420,
       "source_name": "mihrap_esma_073.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/7267ab50696f43a2.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/bfda82500e22b0bc.jpg"
     },
     {
-      "id": "394c2d2a7deab39b",
-      "file": "backgrounds/apk_screensaver_de/394c2d2a7deab39b.jpg",
-      "sha256": "394c2d2a7deab39bda96ce575e27d21f2a325f19fece44a44fd68e427ca81d57",
-      "bytes": 378254,
+      "id": "0fa2e1c1ef10f715",
+      "file": "backgrounds/apk_screensaver_de/0fa2e1c1ef10f715.jpg",
+      "sha256": "0fa2e1c1ef10f7153139413484a5b6a9d5582b26bc2c15325a8e216659235ed2",
+      "bytes": 513216,
       "order": 421,
       "source_name": "mihrap_esma_074.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/394c2d2a7deab39b.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/0fa2e1c1ef10f715.jpg"
     },
     {
-      "id": "fe947a4e939eb3f5",
-      "file": "backgrounds/apk_screensaver_de/fe947a4e939eb3f5.jpg",
-      "sha256": "fe947a4e939eb3f527ff405ce978e2b02c51a1fe8d0ca9b6559a0d745514cc34",
-      "bytes": 424551,
+      "id": "7c91d13d9c911d1c",
+      "file": "backgrounds/apk_screensaver_de/7c91d13d9c911d1c.jpg",
+      "sha256": "7c91d13d9c911d1c8e11794edd21c5b5d6c7c4fe9458489abb2f495e1bb9a920",
+      "bytes": 519994,
       "order": 422,
       "source_name": "mihrap_esma_075.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/fe947a4e939eb3f5.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/7c91d13d9c911d1c.jpg"
     },
     {
-      "id": "1174937a7f7fcf04",
-      "file": "backgrounds/apk_screensaver_de/1174937a7f7fcf04.jpg",
-      "sha256": "1174937a7f7fcf047f7fd8267de95f9388681b67cc6b046afbc631cef56b7cd8",
-      "bytes": 196857,
+      "id": "05a8850f9fbd582e",
+      "file": "backgrounds/apk_screensaver_de/05a8850f9fbd582e.jpg",
+      "sha256": "05a8850f9fbd582e17e44f95b2fb2ddc24cbc36ba5f00f6078675b2853556e55",
+      "bytes": 520201,
       "order": 423,
       "source_name": "mihrap_esma_076.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/1174937a7f7fcf04.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/05a8850f9fbd582e.jpg"
     },
     {
-      "id": "a4064c285c6cc92f",
-      "file": "backgrounds/apk_screensaver_de/a4064c285c6cc92f.jpg",
-      "sha256": "a4064c285c6cc92fc95579b97dab1bc9a2b31f11187a2c94737f31abcd9a1f3c",
-      "bytes": 385794,
+      "id": "54cbfbb695cf3942",
+      "file": "backgrounds/apk_screensaver_de/54cbfbb695cf3942.jpg",
+      "sha256": "54cbfbb695cf3942f00d88a9f5c1610024331c51100e442707b636c3eb357a9d",
+      "bytes": 518814,
       "order": 424,
       "source_name": "mihrap_esma_077.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/a4064c285c6cc92f.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/54cbfbb695cf3942.jpg"
     },
     {
-      "id": "575cb46f8aa51308",
-      "file": "backgrounds/apk_screensaver_de/575cb46f8aa51308.jpg",
-      "sha256": "575cb46f8aa513088721c65f1776fab17792e0638481aa918b04e58811865b9c",
-      "bytes": 313412,
+      "id": "a999a4260d856361",
+      "file": "backgrounds/apk_screensaver_de/a999a4260d856361.jpg",
+      "sha256": "a999a4260d856361540d75b4c0bf8d70448384141179ab7e1baa26b714d1608a",
+      "bytes": 526876,
       "order": 425,
       "source_name": "mihrap_esma_078.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/575cb46f8aa51308.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/a999a4260d856361.jpg"
     },
     {
-      "id": "016a27aca0e088cd",
-      "file": "backgrounds/apk_screensaver_de/016a27aca0e088cd.jpg",
-      "sha256": "016a27aca0e088cdf7f9978a8d576d41fada5e83ce73e2cd94f244fcc67ea407",
-      "bytes": 213178,
+      "id": "5ebcefd289bc0af6",
+      "file": "backgrounds/apk_screensaver_de/5ebcefd289bc0af6.jpg",
+      "sha256": "5ebcefd289bc0af6300f48cee90a199b432c0ef86c07336c0e9054d6154bcb9b",
+      "bytes": 510563,
       "order": 426,
       "source_name": "mihrap_esma_079.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/016a27aca0e088cd.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/5ebcefd289bc0af6.jpg"
     },
     {
-      "id": "7427b14e3934942e",
-      "file": "backgrounds/apk_screensaver_de/7427b14e3934942e.jpg",
-      "sha256": "7427b14e3934942e628f6ba39a67b95c7e757128978cebdc1889061857aa3590",
-      "bytes": 270883,
+      "id": "a5ef3a5b431706fe",
+      "file": "backgrounds/apk_screensaver_de/a5ef3a5b431706fe.jpg",
+      "sha256": "a5ef3a5b431706fedf732aaed58c4f01e91caea4c9b7aebd6846d452577f67dc",
+      "bytes": 527414,
       "order": 427,
       "source_name": "mihrap_esma_080.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/7427b14e3934942e.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/a5ef3a5b431706fe.jpg"
     },
     {
-      "id": "d28af6d8758a37b3",
-      "file": "backgrounds/apk_screensaver_de/d28af6d8758a37b3.jpg",
-      "sha256": "d28af6d8758a37b3627494dd3c4697b9528ac79316a8975d311d969f5e58738e",
-      "bytes": 233610,
+      "id": "90f7d4f60103c51f",
+      "file": "backgrounds/apk_screensaver_de/90f7d4f60103c51f.jpg",
+      "sha256": "90f7d4f60103c51ffd034055eb0c2c64ddbfbca0b767f019fb6a4b6e698bb00c",
+      "bytes": 528477,
       "order": 428,
       "source_name": "mihrap_esma_081.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/d28af6d8758a37b3.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/90f7d4f60103c51f.jpg"
     },
     {
-      "id": "48bee8fad1d5d90f",
-      "file": "backgrounds/apk_screensaver_de/48bee8fad1d5d90f.jpg",
-      "sha256": "48bee8fad1d5d90f465fea8ea08a2064956a94ff32acbb4f1b20a1900be5d838",
-      "bytes": 304391,
+      "id": "aef1c0a98f575667",
+      "file": "backgrounds/apk_screensaver_de/aef1c0a98f575667.jpg",
+      "sha256": "aef1c0a98f575667887a57b784e98a8f2f7319d203384bdfda97392c4b0e796f",
+      "bytes": 521157,
       "order": 429,
       "source_name": "mihrap_esma_082.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/48bee8fad1d5d90f.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/aef1c0a98f575667.jpg"
     },
     {
-      "id": "f2801fa777394d72",
-      "file": "backgrounds/apk_screensaver_de/f2801fa777394d72.jpg",
-      "sha256": "f2801fa777394d7292ded7cb1b4ddeb54c580ef0caf0d4eca257e91e7dc55e23",
-      "bytes": 319877,
+      "id": "fdf0274e60604741",
+      "file": "backgrounds/apk_screensaver_de/fdf0274e60604741.jpg",
+      "sha256": "fdf0274e6060474134758cb0e37357c95d2228ebe38a765158cd79b4eccd6781",
+      "bytes": 525757,
       "order": 430,
       "source_name": "mihrap_esma_083.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/f2801fa777394d72.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/fdf0274e60604741.jpg"
     },
     {
-      "id": "99c643ee9c444567",
-      "file": "backgrounds/apk_screensaver_de/99c643ee9c444567.jpg",
-      "sha256": "99c643ee9c4445674094afaa3b15d06c19889747120372789dd26820c537e4e5",
-      "bytes": 287441,
+      "id": "b01a1e7b4cf3bdc8",
+      "file": "backgrounds/apk_screensaver_de/b01a1e7b4cf3bdc8.jpg",
+      "sha256": "b01a1e7b4cf3bdc89d4b4cfec994600b6a99c3688f21220ba5b7a4d4b9714d7f",
+      "bytes": 540878,
       "order": 431,
       "source_name": "mihrap_esma_084.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/99c643ee9c444567.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/b01a1e7b4cf3bdc8.jpg"
     },
     {
-      "id": "3a38ab5f8be78c67",
-      "file": "backgrounds/apk_screensaver_de/3a38ab5f8be78c67.jpg",
-      "sha256": "3a38ab5f8be78c67274ead1bee4f1205c65b02c64fa0158ce728ba6489043c8a",
-      "bytes": 309914,
+      "id": "f7dfc712c491ccd3",
+      "file": "backgrounds/apk_screensaver_de/f7dfc712c491ccd3.jpg",
+      "sha256": "f7dfc712c491ccd341e57082052372ab6064063995faf0d8d3643f9ca8a0913e",
+      "bytes": 566084,
       "order": 432,
       "source_name": "mihrap_esma_085.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/3a38ab5f8be78c67.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/f7dfc712c491ccd3.jpg"
     },
     {
-      "id": "7ec2d7f3295f0e44",
-      "file": "backgrounds/apk_screensaver_de/7ec2d7f3295f0e44.jpg",
-      "sha256": "7ec2d7f3295f0e4409f92d4097939174e106790e5a669fe90980b12ac02caa46",
-      "bytes": 306604,
+      "id": "a9fbea4289196fe4",
+      "file": "backgrounds/apk_screensaver_de/a9fbea4289196fe4.jpg",
+      "sha256": "a9fbea4289196fe4da017ec7d796f0da0903b209e0fb9e398f2b424961a685b2",
+      "bytes": 523637,
       "order": 433,
       "source_name": "mihrap_esma_086.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/7ec2d7f3295f0e44.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/a9fbea4289196fe4.jpg"
     },
     {
-      "id": "8e06754b3bc36d56",
-      "file": "backgrounds/apk_screensaver_de/8e06754b3bc36d56.jpg",
-      "sha256": "8e06754b3bc36d56cfd0fe75ee0e6321a85e20a77e6043b6ecfb52c694b65b95",
-      "bytes": 232876,
+      "id": "e81006cc04d7a435",
+      "file": "backgrounds/apk_screensaver_de/e81006cc04d7a435.jpg",
+      "sha256": "e81006cc04d7a435a611e346e31e6f449be1d4b506d8fc5043f89734ff77e54a",
+      "bytes": 521930,
       "order": 434,
       "source_name": "mihrap_esma_087.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/8e06754b3bc36d56.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/e81006cc04d7a435.jpg"
     },
     {
-      "id": "49e4b76d178813a0",
-      "file": "backgrounds/apk_screensaver_de/49e4b76d178813a0.jpg",
-      "sha256": "49e4b76d178813a0514e9acbe2f1a861b5a518936790e15bb64af9546a6a39bc",
-      "bytes": 335287,
+      "id": "4b3d8db0fca841a8",
+      "file": "backgrounds/apk_screensaver_de/4b3d8db0fca841a8.jpg",
+      "sha256": "4b3d8db0fca841a84cda71a0af5e6cd0a985870fe9b454a80bddcfcf0f1367f8",
+      "bytes": 518156,
       "order": 435,
       "source_name": "mihrap_esma_088.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/49e4b76d178813a0.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/4b3d8db0fca841a8.jpg"
     },
     {
-      "id": "8371dcc6f88d3653",
-      "file": "backgrounds/apk_screensaver_de/8371dcc6f88d3653.jpg",
-      "sha256": "8371dcc6f88d36533a5b6c4201aacdfcbbd6e15c724a32bc5641a0ad2c6006c6",
-      "bytes": 538459,
+      "id": "23d57331f554eeb7",
+      "file": "backgrounds/apk_screensaver_de/23d57331f554eeb7.jpg",
+      "sha256": "23d57331f554eeb79f6ab3fa396b579ba36fba023dd5fdcae0567d5fee6fc19c",
+      "bytes": 526594,
       "order": 436,
       "source_name": "mihrap_esma_089.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/8371dcc6f88d3653.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/23d57331f554eeb7.jpg"
     },
     {
-      "id": "bdc9e8a085dc6ac2",
-      "file": "backgrounds/apk_screensaver_de/bdc9e8a085dc6ac2.jpg",
-      "sha256": "bdc9e8a085dc6ac2b46bc5090d11f3b96321f82e40f2201c6ee52f5bc1b53794",
-      "bytes": 313461,
+      "id": "339f4bd87b77d81b",
+      "file": "backgrounds/apk_screensaver_de/339f4bd87b77d81b.jpg",
+      "sha256": "339f4bd87b77d81b2910ac6ced9e2657e84580e2701f4e9d722804e61d21fac2",
+      "bytes": 520684,
       "order": 437,
       "source_name": "mihrap_esma_090.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/bdc9e8a085dc6ac2.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/339f4bd87b77d81b.jpg"
     },
     {
-      "id": "6e87982e82435af0",
-      "file": "backgrounds/apk_screensaver_de/6e87982e82435af0.jpg",
-      "sha256": "6e87982e82435af0e4c90d4e827fc4ba04913e19eb05a9f757ddb129ecd25897",
-      "bytes": 300886,
+      "id": "71e1d992eaf29ac9",
+      "file": "backgrounds/apk_screensaver_de/71e1d992eaf29ac9.jpg",
+      "sha256": "71e1d992eaf29ac98044f47c961391b93cb5dcd82591a8b28897e364e57d1e86",
+      "bytes": 523249,
       "order": 438,
       "source_name": "mihrap_esma_091.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/6e87982e82435af0.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/71e1d992eaf29ac9.jpg"
     },
     {
-      "id": "dda86c0ed1a5d9c3",
-      "file": "backgrounds/apk_screensaver_de/dda86c0ed1a5d9c3.jpg",
-      "sha256": "dda86c0ed1a5d9c3923a48dcd6e0d8153b7f758a1b11c89717d5c6492353e1e7",
-      "bytes": 500757,
+      "id": "d2f2b0f9e173d1d8",
+      "file": "backgrounds/apk_screensaver_de/d2f2b0f9e173d1d8.jpg",
+      "sha256": "d2f2b0f9e173d1d853144383d3d8f24270bc6cd499a61941300a4964676c0edd",
+      "bytes": 522710,
       "order": 439,
       "source_name": "mihrap_esma_092.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/dda86c0ed1a5d9c3.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/d2f2b0f9e173d1d8.jpg"
     },
     {
-      "id": "6826d7476bae70bd",
-      "file": "backgrounds/apk_screensaver_de/6826d7476bae70bd.jpg",
-      "sha256": "6826d7476bae70bd037178598378869649f2261014c70263f82b25088b2a1779",
-      "bytes": 425137,
+      "id": "712743461444f970",
+      "file": "backgrounds/apk_screensaver_de/712743461444f970.jpg",
+      "sha256": "712743461444f970dbfd13d9f41fe5f973fbfc17fdbff2a1908ec68b41315d68",
+      "bytes": 511414,
       "order": 440,
       "source_name": "mihrap_esma_093.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/6826d7476bae70bd.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/712743461444f970.jpg"
     },
     {
-      "id": "8693ef433e1bf007",
-      "file": "backgrounds/apk_screensaver_de/8693ef433e1bf007.jpg",
-      "sha256": "8693ef433e1bf007b7203ed078bd2eed47de935a37fb9f35fd173424eb40e71c",
-      "bytes": 495637,
+      "id": "b7caac8681dd30d6",
+      "file": "backgrounds/apk_screensaver_de/b7caac8681dd30d6.jpg",
+      "sha256": "b7caac8681dd30d66d47eaa55a01645c419e9f07dec3cfc914377f9c379b2c87",
+      "bytes": 521738,
       "order": 441,
       "source_name": "mihrap_esma_094.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/8693ef433e1bf007.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/b7caac8681dd30d6.jpg"
     },
     {
-      "id": "936026174087dc6a",
-      "file": "backgrounds/apk_screensaver_de/936026174087dc6a.jpg",
-      "sha256": "936026174087dc6a37556029df53e4ec5dfa1cd570e01959ceb949394350b812",
-      "bytes": 474623,
+      "id": "00e9905659bcdb6b",
+      "file": "backgrounds/apk_screensaver_de/00e9905659bcdb6b.jpg",
+      "sha256": "00e9905659bcdb6b259df31e88c0354522d282994625dd98c2644ea451477dc5",
+      "bytes": 530101,
       "order": 442,
       "source_name": "mihrap_esma_095.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/936026174087dc6a.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/00e9905659bcdb6b.jpg"
     },
     {
-      "id": "1a1bef221289c0be",
-      "file": "backgrounds/apk_screensaver_de/1a1bef221289c0be.jpg",
-      "sha256": "1a1bef221289c0be95823ab614334975c44154fcf919725d6d0ff321546a851e",
-      "bytes": 352599,
+      "id": "c3ca9f993ffafce1",
+      "file": "backgrounds/apk_screensaver_de/c3ca9f993ffafce1.jpg",
+      "sha256": "c3ca9f993ffafce1743b5349569f72ef4ec69a032afaa95d44215838c79a27d4",
+      "bytes": 518432,
       "order": 443,
       "source_name": "mihrap_esma_096.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/1a1bef221289c0be.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/c3ca9f993ffafce1.jpg"
     },
     {
-      "id": "1ee91a868c7aa605",
-      "file": "backgrounds/apk_screensaver_de/1ee91a868c7aa605.jpg",
-      "sha256": "1ee91a868c7aa6050949bdd04973c3b976ddc9089020827942c392bd9c429e72",
-      "bytes": 235875,
+      "id": "895ccdebc3fc939c",
+      "file": "backgrounds/apk_screensaver_de/895ccdebc3fc939c.jpg",
+      "sha256": "895ccdebc3fc939c2bdb7f8d1fcc4d8a451f930f6aacea0d21472224e6f4c1f6",
+      "bytes": 516789,
       "order": 444,
       "source_name": "mihrap_esma_097.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/1ee91a868c7aa605.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/895ccdebc3fc939c.jpg"
     },
     {
-      "id": "465af387d089c6e4",
-      "file": "backgrounds/apk_screensaver_de/465af387d089c6e4.jpg",
-      "sha256": "465af387d089c6e45e916f4329bcaed0a7d6de9c7dfb3a259ecaf9fb18a68c29",
-      "bytes": 336111,
+      "id": "6e5ee7560eb445f9",
+      "file": "backgrounds/apk_screensaver_de/6e5ee7560eb445f9.jpg",
+      "sha256": "6e5ee7560eb445f9f89f39ddeebcbd3804889c7b98dfeb9a72d1296f57ae62ae",
+      "bytes": 524025,
       "order": 445,
       "source_name": "mihrap_esma_098.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/465af387d089c6e4.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/6e5ee7560eb445f9.jpg"
     },
     {
-      "id": "425b733c239be390",
-      "file": "backgrounds/apk_screensaver_de/425b733c239be390.jpg",
-      "sha256": "425b733c239be3900fcdab4ea68351c90406baadd5161e04709cef4dc6365f29",
-      "bytes": 340910,
+      "id": "c32f1303b8f0ee4c",
+      "file": "backgrounds/apk_screensaver_de/c32f1303b8f0ee4c.jpg",
+      "sha256": "c32f1303b8f0ee4c5195f1ca68fb6e4e49057df41a4ed4f406a352def2659856",
+      "bytes": 521481,
       "order": 446,
       "source_name": "mihrap_esma_099.jpg",
       "source_group": "german_esma",
-      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v1/425b733c239be390.jpg"
+      "url": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/screensaver-de-v3/c32f1303b8f0ee4c.jpg"
     }
   ]
 }
