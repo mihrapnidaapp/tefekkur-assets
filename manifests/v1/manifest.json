@@ -1,27 +1,27 @@
 {
   "version": 1,
-  "updated": "2026-08-19T12:50:20Z",
+  "updated": "2026-08-19T22:14:00Z",
   "github_repo": "mihrapnidaapp/tefekkur-assets",
   "download_url_template": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/{tag}/{file}",
   "apk": {
     "versionCode": 101,
-    "versionName": "1.0.1",
+    "versionName": "1.0.01",
     "file": "mihrap.apk",
-    "release_tag": "apk-v1.0.1",
-    "bytes": 19442134
+    "release_tag": "apk-v1.0.01",
+    "bytes": 20358165
   },
   "packages": {
     "screensaver-tr": {
-      "revision": 16,
+      "revision": 17,
       "count": 446,
       "manifest": "manifests/packages/screensaver-tr.json",
-      "release_tag": "screensaver-tr-v16"
+      "release_tag": "screensaver-tr-v17"
     },
     "screensaver-en": {
-      "revision": 16,
+      "revision": 17,
       "count": 446,
       "manifest": "manifests/packages/screensaver-en.json",
-      "release_tag": "screensaver-en-v16"
+      "release_tag": "screensaver-en-v17"
     },
     "pictures-tr": {
       "revision": 8,
@@ -72,16 +72,16 @@
       "release_tag": "azan-turkey2-v1"
     },
     "screensaver-de": {
-      "revision": 1,
+      "revision": 3,
       "count": 446,
       "manifest": "manifests/packages/screensaver-de.json",
-      "release_tag": "screensaver-de-v1"
+      "release_tag": "screensaver-de-v3"
     },
     "screensaver-ar": {
-      "revision": 1,
+      "revision": 3,
       "count": 446,
       "manifest": "manifests/packages/screensaver-ar.json",
-      "release_tag": "screensaver-ar-v1"
+      "release_tag": "screensaver-ar-v3"
     }
   }
 }
