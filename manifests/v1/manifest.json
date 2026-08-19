@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-16T17:46:11Z",
+  "updated": "2026-08-19T12:50:20Z",
   "github_repo": "mihrapnidaapp/tefekkur-assets",
   "download_url_template": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/{tag}/{file}",
   "apk": {
@@ -70,6 +70,18 @@
       "count": 6,
       "manifest": "manifests/packages/azan-turkey2.json",
       "release_tag": "azan-turkey2-v1"
+    },
+    "screensaver-de": {
+      "revision": 1,
+      "count": 446,
+      "manifest": "manifests/packages/screensaver-de.json",
+      "release_tag": "screensaver-de-v1"
+    },
+    "screensaver-ar": {
+      "revision": 1,
+      "count": 446,
+      "manifest": "manifests/packages/screensaver-ar.json",
+      "release_tag": "screensaver-ar-v1"
     }
   }
 }
