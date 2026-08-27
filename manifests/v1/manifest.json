@@ -4,10 +4,10 @@
   "github_repo": "mihrapnidaapp/tefekkur-assets",
   "download_url_template": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/{tag}/{file}",
   "apk": {
-    "versionCode": 102,
-    "versionName": "1.0.02",
+    "versionCode": 103,
+    "versionName": "1.0.03",
     "file": "mihrap.apk",
-    "release_tag": "apk-v1.0.02",
+    "release_tag": "apk-v1.0.03",
     "bytes": 20418655
   },
   "packages": {
