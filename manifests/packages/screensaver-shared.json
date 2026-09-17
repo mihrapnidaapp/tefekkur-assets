@@ -1,0 +1,2791 @@
+﻿{
+    "package":  "screensaver-shared",
+    "revision":  1,
+    "updated":  "2026-09-17T20:13:29.865927+00:00",
+    "folder":  "backgrounds/mihrap_screensaver_shared",
+    "count":  347,
+    "archive":  {
+                    "url":  "https://raw.githubusercontent.com/mihrapnidaapp/tefekkur-assets/main/packages/shared/mihrap_screensavers_347_v1.zip",
+                    "file":  "mihrap_screensavers_347_v1.zip",
+                    "bytes":  63774619,
+                    "sha256":  "9b2c2534943af859ffb58a72ff22102aa6422f9cb19ce9290c10bdf89622cce0"
+                },
+    "slides":  [
+                   {
+                       "id":  "shared-001",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/001.jpg",
+                       "source_name":  "backgrounds/001.jpg",
+                       "sha256":  "044443c1284c50df87d779eee4e591a761f2b2183eccdf6c9bd97df9fc7835f5",
+                       "bytes":  174152,
+                       "order":  1
+                   },
+                   {
+                       "id":  "shared-002",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/002.jpg",
+                       "source_name":  "backgrounds/002.jpg",
+                       "sha256":  "02584f27fc9a9e3f8103c9ffe0f85d9ab906fd7156f9f800fb3629d15a28a851",
+                       "bytes":  202839,
+                       "order":  2
+                   },
+                   {
+                       "id":  "shared-003",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/003.jpg",
+                       "source_name":  "backgrounds/003.jpg",
+                       "sha256":  "c4d65b8fcfb5ad75d18819e5a65c95ceb562afb80d0dc889dc3d2f816e34fa4d",
+                       "bytes":  243390,
+                       "order":  3
+                   },
+                   {
+                       "id":  "shared-004",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/004.jpg",
+                       "source_name":  "backgrounds/004.jpg",
+                       "sha256":  "399b1d2aa2a074ddf655019e59c9c4548ee91f9a3c4d569263e110a8a6a1a4b1",
+                       "bytes":  105148,
+                       "order":  4
+                   },
+                   {
+                       "id":  "shared-005",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/005.jpg",
+                       "source_name":  "backgrounds/005.jpg",
+                       "sha256":  "8cc62b0fe7dfbb663aef51915856c9b1d0f1d629b55bc4a80423d3e02d65152a",
+                       "bytes":  79808,
+                       "order":  5
+                   },
+                   {
+                       "id":  "shared-006",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/006.jpg",
+                       "source_name":  "backgrounds/006.jpg",
+                       "sha256":  "d4029fe9f58602066b61609075d9b0b46d94601f54f18df240c79e01f0288241",
+                       "bytes":  155949,
+                       "order":  6
+                   },
+                   {
+                       "id":  "shared-007",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/007.jpg",
+                       "source_name":  "backgrounds/007.jpg",
+                       "sha256":  "f74f9c5595fc5d664536916b02d9016a0883b7062552063d8a3eec078eb98ff2",
+                       "bytes":  200972,
+                       "order":  7
+                   },
+                   {
+                       "id":  "shared-008",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/008.jpg",
+                       "source_name":  "backgrounds/008.jpg",
+                       "sha256":  "9492496ef25ce2d5db8696cc86dc56799b0506afdfc5a1b48ebee365ddd24c65",
+                       "bytes":  65039,
+                       "order":  8
+                   },
+                   {
+                       "id":  "shared-009",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/009.jpg",
+                       "source_name":  "backgrounds/009.jpg",
+                       "sha256":  "1a59c8bff8ddf3e4c9061c0375a6a8aee9b40f9867741dc6dd7498ad3376f3b7",
+                       "bytes":  73064,
+                       "order":  9
+                   },
+                   {
+                       "id":  "shared-010",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/010.jpg",
+                       "source_name":  "backgrounds/010.jpg",
+                       "sha256":  "3ce5dc71816fcc0a1b6507356eab5129de094d6ae9d4b0376213ba94f43d1454",
+                       "bytes":  89715,
+                       "order":  10
+                   },
+                   {
+                       "id":  "shared-011",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/011.jpg",
+                       "source_name":  "backgrounds/011.jpg",
+                       "sha256":  "b5a3791ba1f3090196f37862f06f32839200096912e2db3cc7f1300e98d16797",
+                       "bytes":  295772,
+                       "order":  11
+                   },
+                   {
+                       "id":  "shared-012",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/012.jpg",
+                       "source_name":  "backgrounds/012.jpg",
+                       "sha256":  "6073fa9009c3c6d81bc1ff98aac3d44f34df4dbfcdc038036ea4bd7d8ef0709b",
+                       "bytes":  103675,
+                       "order":  12
+                   },
+                   {
+                       "id":  "shared-013",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/013.jpg",
+                       "source_name":  "backgrounds/013.jpg",
+                       "sha256":  "b808149cfe5be00fca7ca6824f3b80dc2cb91d034dc5f4fbed9b8eef2fb6c6e9",
+                       "bytes":  333188,
+                       "order":  13
+                   },
+                   {
+                       "id":  "shared-014",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/014.jpg",
+                       "source_name":  "backgrounds/014.jpg",
+                       "sha256":  "f52332cbba359417c656e12d952084bdfcfde6d755f4ce940151418060b7b681",
+                       "bytes":  105061,
+                       "order":  14
+                   },
+                   {
+                       "id":  "shared-015",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/015.jpg",
+                       "source_name":  "backgrounds/015.jpg",
+                       "sha256":  "c62a4297dc5a5ca093f39042c77a1f193af01aeceba562d348adf22a63310ad2",
+                       "bytes":  381962,
+                       "order":  15
+                   },
+                   {
+                       "id":  "shared-016",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/016.jpg",
+                       "source_name":  "backgrounds/016.jpg",
+                       "sha256":  "a475399229272743d4bf8c3efb9eacbd69b7833626af1c7f5b68b58aa89c7ad9",
+                       "bytes":  126154,
+                       "order":  16
+                   },
+                   {
+                       "id":  "shared-017",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/017.jpg",
+                       "source_name":  "backgrounds/017.jpg",
+                       "sha256":  "246651ea57a11f594422b4668090746cda7bda47dfd94d42882670dc7531c1f6",
+                       "bytes":  107336,
+                       "order":  17
+                   },
+                   {
+                       "id":  "shared-018",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/018.jpg",
+                       "source_name":  "backgrounds/018.jpg",
+                       "sha256":  "e115f17163bf7d7b52facf72af34cfae8abfa99ea3da41545ba3b71c722647e5",
+                       "bytes":  162729,
+                       "order":  18
+                   },
+                   {
+                       "id":  "shared-019",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/019.jpg",
+                       "source_name":  "backgrounds/019.jpg",
+                       "sha256":  "0519ad8222e90dc9f3cc80b395fe3713f897ed5d6c1477ab27958a81cf33073f",
+                       "bytes":  350878,
+                       "order":  19
+                   },
+                   {
+                       "id":  "shared-020",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/020.jpg",
+                       "source_name":  "backgrounds/020.jpg",
+                       "sha256":  "0deb1f2b4abc67342f5e5d0a1d86638ec2225e2de3850ac12266f8ac77c29f2e",
+                       "bytes":  82767,
+                       "order":  20
+                   },
+                   {
+                       "id":  "shared-021",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/021.jpg",
+                       "source_name":  "backgrounds/021.jpg",
+                       "sha256":  "1a6be8b694bbbe40f2256a8e3530371e430a866ae1bcf0e1b160e20ce2e92783",
+                       "bytes":  190821,
+                       "order":  21
+                   },
+                   {
+                       "id":  "shared-022",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/022.jpg",
+                       "source_name":  "backgrounds/022.jpg",
+                       "sha256":  "49fcc88ce2b4dede00b6af6fc129cae74a983fbda59082fc1407e55cc2c69433",
+                       "bytes":  107632,
+                       "order":  22
+                   },
+                   {
+                       "id":  "shared-023",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/023.jpg",
+                       "source_name":  "backgrounds/023.jpg",
+                       "sha256":  "c28c9411cd46177f48836dbc85738c436c4dfbf8d7568bda5ed1a0df865ceca0",
+                       "bytes":  193812,
+                       "order":  23
+                   },
+                   {
+                       "id":  "shared-024",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/024.jpg",
+                       "source_name":  "backgrounds/024.jpg",
+                       "sha256":  "de20551f2b95ac9487784dbdaa6200a8f37a9c336d2ed56838a80d359a65a293",
+                       "bytes":  312105,
+                       "order":  24
+                   },
+                   {
+                       "id":  "shared-025",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/025.jpg",
+                       "source_name":  "backgrounds/025.jpg",
+                       "sha256":  "7b651fb42f960f3e7d9f1dfe41324287166a3db33450fb1a7025c22e1525be90",
+                       "bytes":  216057,
+                       "order":  25
+                   },
+                   {
+                       "id":  "shared-026",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/026.jpg",
+                       "source_name":  "backgrounds/026.jpg",
+                       "sha256":  "a5023074035339bc207658b31fe85e9d74549bec3400540520cf799a824f8ebd",
+                       "bytes":  124063,
+                       "order":  26
+                   },
+                   {
+                       "id":  "shared-027",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/027.jpg",
+                       "source_name":  "backgrounds/027.jpg",
+                       "sha256":  "312fef21bd144166385d49ccac399a4835c0b3259b06e20d5e24775010d1d79c",
+                       "bytes":  109476,
+                       "order":  27
+                   },
+                   {
+                       "id":  "shared-028",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/028.jpg",
+                       "source_name":  "backgrounds/028.jpg",
+                       "sha256":  "34d9dd1e83786c574ec90218450d563498f6d1c6600b60d99674c109555482c5",
+                       "bytes":  265881,
+                       "order":  28
+                   },
+                   {
+                       "id":  "shared-029",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/029.jpg",
+                       "source_name":  "backgrounds/029.jpg",
+                       "sha256":  "c4d65b8fcfb5ad75d18819e5a65c95ceb562afb80d0dc889dc3d2f816e34fa4d",
+                       "bytes":  243390,
+                       "order":  29
+                   },
+                   {
+                       "id":  "shared-030",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/030.jpg",
+                       "source_name":  "backgrounds/030.jpg",
+                       "sha256":  "1117574a06020fd45782cc5c02a65e316c10e4768d37c02d11f43745d824932c",
+                       "bytes":  14038,
+                       "order":  30
+                   },
+                   {
+                       "id":  "shared-031",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/031.jpg",
+                       "source_name":  "backgrounds/031.jpg",
+                       "sha256":  "f82ee9aa64ccd0155de55017eca6b477ad17e5f8a3d5cf8e013045aa2b626184",
+                       "bytes":  100776,
+                       "order":  31
+                   },
+                   {
+                       "id":  "shared-032",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/032.jpg",
+                       "source_name":  "backgrounds/032.jpg",
+                       "sha256":  "56e3675fb76deb6fdd64c65734c6a295b2fc91818ef10d71d1fd5bab2ab464b1",
+                       "bytes":  311356,
+                       "order":  32
+                   },
+                   {
+                       "id":  "shared-033",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/033.jpg",
+                       "source_name":  "backgrounds/033.jpg",
+                       "sha256":  "afcf95b1d93c6bd723e21296f89037a75bbfb3601c1d3ad624ea9d2caeab6e44",
+                       "bytes":  273954,
+                       "order":  33
+                   },
+                   {
+                       "id":  "shared-034",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/034.jpg",
+                       "source_name":  "backgrounds/034.jpg",
+                       "sha256":  "d8a4ed71cc25642b333244efa8745479264c585ff36150940abbd6ac4bee1140",
+                       "bytes":  157299,
+                       "order":  34
+                   },
+                   {
+                       "id":  "shared-035",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/035.jpg",
+                       "source_name":  "backgrounds/035.jpg",
+                       "sha256":  "fcc2ce4a5a3b1a1a6a8ad40485f0ad0a3755c26f883f95dab5ec68f2f76f0568",
+                       "bytes":  152568,
+                       "order":  35
+                   },
+                   {
+                       "id":  "shared-036",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/036.jpg",
+                       "source_name":  "backgrounds/036.jpg",
+                       "sha256":  "3d69db3899db8fd224127f83afdf6d7ac6e81601030bf91a31481dcbcdb818a5",
+                       "bytes":  38482,
+                       "order":  36
+                   },
+                   {
+                       "id":  "shared-037",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/037.jpg",
+                       "source_name":  "backgrounds/037.jpg",
+                       "sha256":  "9acf0140463748e9191919d415ea093cccab9526a1d69991540a201969bab9de",
+                       "bytes":  459948,
+                       "order":  37
+                   },
+                   {
+                       "id":  "shared-038",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/038.jpg",
+                       "source_name":  "backgrounds/038.jpg",
+                       "sha256":  "97d379547bfc20e892af89116e69b14d0ef9ce629a73b4495878f69448095eb8",
+                       "bytes":  164415,
+                       "order":  38
+                   },
+                   {
+                       "id":  "shared-039",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/039.jpg",
+                       "source_name":  "backgrounds/039.jpg",
+                       "sha256":  "fcc2ce4a5a3b1a1a6a8ad40485f0ad0a3755c26f883f95dab5ec68f2f76f0568",
+                       "bytes":  152568,
+                       "order":  39
+                   },
+                   {
+                       "id":  "shared-040",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/040.jpg",
+                       "source_name":  "backgrounds/040.jpg",
+                       "sha256":  "0042f522d203aebb64023592c39745c1f2c91d6cd2f052b99d0213bb8003f4fc",
+                       "bytes":  170998,
+                       "order":  40
+                   },
+                   {
+                       "id":  "shared-041",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/041.jpg",
+                       "source_name":  "backgrounds/041.jpg",
+                       "sha256":  "ce99f1896d71bc137fd4d2488b395f345d597ee90bd3501da29d994487031eb1",
+                       "bytes":  670657,
+                       "order":  41
+                   },
+                   {
+                       "id":  "shared-042",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/042.jpg",
+                       "source_name":  "backgrounds/042.jpg",
+                       "sha256":  "56504707bf63284f88350eda21747e48cbda078e4ffc275b28329cdcac6b5fc5",
+                       "bytes":  191387,
+                       "order":  42
+                   },
+                   {
+                       "id":  "shared-043",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/043.jpg",
+                       "source_name":  "backgrounds/043.jpg",
+                       "sha256":  "ffb3a0b32ebc6162148a0fe43965a5dec92ee38e0c727351dbd69460a14a6cf4",
+                       "bytes":  47780,
+                       "order":  43
+                   },
+                   {
+                       "id":  "shared-044",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/044.jpg",
+                       "source_name":  "backgrounds/044.jpg",
+                       "sha256":  "b06a53e1d96030c642cf473e7ce36379cec1a70a7eb7bf532b7d04ad0b3aba01",
+                       "bytes":  170913,
+                       "order":  44
+                   },
+                   {
+                       "id":  "shared-045",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/045.jpg",
+                       "source_name":  "backgrounds/045.jpg",
+                       "sha256":  "c0d2a57bca460055194d0fc826007ebe68fc760a606b4db420a1f406dc4cf556",
+                       "bytes":  122696,
+                       "order":  45
+                   },
+                   {
+                       "id":  "shared-046",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/046.jpg",
+                       "source_name":  "backgrounds/046.jpg",
+                       "sha256":  "a2279e809c05d521bf69dacdebea5bbcafd3c69107cc84d917801d474fe50336",
+                       "bytes":  438046,
+                       "order":  46
+                   },
+                   {
+                       "id":  "shared-047",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/047.jpg",
+                       "source_name":  "backgrounds/047.jpg",
+                       "sha256":  "2dd697787fe34a0e768d3ef21062555dbe3f887a2db34a2020de9520403de696",
+                       "bytes":  164862,
+                       "order":  47
+                   },
+                   {
+                       "id":  "shared-048",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/048.jpg",
+                       "source_name":  "backgrounds/048.jpg",
+                       "sha256":  "ce0329d6736946b185fb9a693a9b7574f9719ef19239c2d4b0fb021dfba93923",
+                       "bytes":  234436,
+                       "order":  48
+                   },
+                   {
+                       "id":  "shared-049",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/049.jpg",
+                       "source_name":  "backgrounds/049.jpg",
+                       "sha256":  "5be360b4845294b6c455efbeebae6b77b4a405ded8efeb2129aa4ed080a4a74d",
+                       "bytes":  75160,
+                       "order":  49
+                   },
+                   {
+                       "id":  "shared-050",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/050.jpg",
+                       "source_name":  "backgrounds/050.jpg",
+                       "sha256":  "7c70d63353268a7cac165db90754a757ed0184518318cffa2e7e3fb82a6857d2",
+                       "bytes":  68517,
+                       "order":  50
+                   },
+                   {
+                       "id":  "shared-051",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/051.jpg",
+                       "source_name":  "backgrounds/051.jpg",
+                       "sha256":  "8b637cc843b1339f6312a34f5d17f52bd0bc34c6ca4c3e8db724b3f0513fb297",
+                       "bytes":  89978,
+                       "order":  51
+                   },
+                   {
+                       "id":  "shared-052",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/052.jpg",
+                       "source_name":  "backgrounds/052.jpg",
+                       "sha256":  "9f9fc8ddeabf2b6f1286d86674338e2e553f4410b29abd4884fb0c16b2d7170e",
+                       "bytes":  120274,
+                       "order":  52
+                   },
+                   {
+                       "id":  "shared-053",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/053.jpg",
+                       "source_name":  "backgrounds/053.jpg",
+                       "sha256":  "f52332cbba359417c656e12d952084bdfcfde6d755f4ce940151418060b7b681",
+                       "bytes":  105061,
+                       "order":  53
+                   },
+                   {
+                       "id":  "shared-054",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/054.jpg",
+                       "source_name":  "backgrounds/054.jpg",
+                       "sha256":  "e0ae09a88d01e6d3be6f5f4a29d85083d5622b38453f501902e0062fe6888150",
+                       "bytes":  41542,
+                       "order":  54
+                   },
+                   {
+                       "id":  "shared-055",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/055.jpg",
+                       "source_name":  "backgrounds/055.jpg",
+                       "sha256":  "e1ffc4100908858784e94955327386b9984c7926b7b649888f2ce1005ab89109",
+                       "bytes":  76645,
+                       "order":  55
+                   },
+                   {
+                       "id":  "shared-056",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/056.jpg",
+                       "source_name":  "backgrounds/056.jpg",
+                       "sha256":  "7596b47d1a72393a80239c4f6f5b7044ca13f43469499f350a8b13c2dc5c5ca2",
+                       "bytes":  129513,
+                       "order":  56
+                   },
+                   {
+                       "id":  "shared-057",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/057.jpg",
+                       "source_name":  "backgrounds/057.jpg",
+                       "sha256":  "54ec130fbe5c56d7a36444567afdd964f5765373e9872006d3284e282d14374c",
+                       "bytes":  242706,
+                       "order":  57
+                   },
+                   {
+                       "id":  "shared-058",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/058.jpg",
+                       "source_name":  "backgrounds/058.jpg",
+                       "sha256":  "a7a0570197a8119f5db268c6e354b3f6281ce13cf919951785a84a3219a3687b",
+                       "bytes":  44281,
+                       "order":  58
+                   },
+                   {
+                       "id":  "shared-059",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/059.jpg",
+                       "source_name":  "backgrounds/059.jpg",
+                       "sha256":  "19c65df732f3840cbbca2286844d9c5f4d8543deebd673873f9b9abdff28f3e6",
+                       "bytes":  49536,
+                       "order":  59
+                   },
+                   {
+                       "id":  "shared-060",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/060.jpg",
+                       "source_name":  "backgrounds/060.jpg",
+                       "sha256":  "a9755cde06fa9f5b8302d77203de9f72d460c03bc320e8d3d23ac6020229df13",
+                       "bytes":  190142,
+                       "order":  60
+                   },
+                   {
+                       "id":  "shared-061",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/061.jpg",
+                       "source_name":  "backgrounds/061.jpg",
+                       "sha256":  "c271c403df1600546832695b5047c8439f003fad82f086575c46de6e923a40ce",
+                       "bytes":  188109,
+                       "order":  61
+                   },
+                   {
+                       "id":  "shared-062",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/062.jpg",
+                       "source_name":  "backgrounds/062.jpg",
+                       "sha256":  "921668c98202adadb995340c1ab568261531c3ae521b89e7cd65745250782828",
+                       "bytes":  224318,
+                       "order":  62
+                   },
+                   {
+                       "id":  "shared-063",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/063.jpg",
+                       "source_name":  "backgrounds/063.jpg",
+                       "sha256":  "c40d84b03f8e23d67b9f62b114c380a47b36ae70da9024067f122225b7741904",
+                       "bytes":  49523,
+                       "order":  63
+                   },
+                   {
+                       "id":  "shared-064",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/064.jpg",
+                       "source_name":  "backgrounds/064.jpg",
+                       "sha256":  "933a3112bfd34fe788e2fa9a1c229de3958481939e147cc4c946d70e31680649",
+                       "bytes":  216531,
+                       "order":  64
+                   },
+                   {
+                       "id":  "shared-065",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/065.jpg",
+                       "source_name":  "backgrounds/065.jpg",
+                       "sha256":  "39d047851a1187501fc4945da3ee078bc65d1c69f95a7f10be3f71cfd37e3454",
+                       "bytes":  106495,
+                       "order":  65
+                   },
+                   {
+                       "id":  "shared-066",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/066.jpg",
+                       "source_name":  "backgrounds/066.jpg",
+                       "sha256":  "bca6a854896662830cebaaa2842a0f55e0fcff9570bd5bbc18146ec7ebf7c9c1",
+                       "bytes":  148097,
+                       "order":  66
+                   },
+                   {
+                       "id":  "shared-067",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/067.jpg",
+                       "source_name":  "backgrounds/067.jpg",
+                       "sha256":  "c31615b50064720adffb9a0dbf0b73b271dadee3957b894051ce97f10c2c1b34",
+                       "bytes":  87777,
+                       "order":  67
+                   },
+                   {
+                       "id":  "shared-068",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/068.jpg",
+                       "source_name":  "backgrounds/068.jpg",
+                       "sha256":  "d44083095e882be95a3483593dd34086488bdaac75bdcc128c156979e8344c91",
+                       "bytes":  297847,
+                       "order":  68
+                   },
+                   {
+                       "id":  "shared-069",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/069.jpg",
+                       "source_name":  "backgrounds/069.jpg",
+                       "sha256":  "7871654bebe8da258508e56c67234f28bf4cb14a7093ecf1e7cdf40b0aa5a263",
+                       "bytes":  197956,
+                       "order":  69
+                   },
+                   {
+                       "id":  "shared-070",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/070.jpg",
+                       "source_name":  "backgrounds/070.jpg",
+                       "sha256":  "212d7d7718f68e86b59b00bd2413cbcef442f3dfcf6b39cb0775f1539efb8d4e",
+                       "bytes":  693773,
+                       "order":  70
+                   },
+                   {
+                       "id":  "shared-071",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/071.jpg",
+                       "source_name":  "backgrounds/071.jpg",
+                       "sha256":  "4edd17841be8dc9871061bdba55e574609ef8d0c330143c192e8a0f71dfc3872",
+                       "bytes":  153065,
+                       "order":  71
+                   },
+                   {
+                       "id":  "shared-072",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/072.jpg",
+                       "source_name":  "backgrounds/072.jpg",
+                       "sha256":  "e4eb31109fa90816c7e008983f7e277ab5fcb1a90a6c7bac180de918e68ac8e9",
+                       "bytes":  57390,
+                       "order":  72
+                   },
+                   {
+                       "id":  "shared-073",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/073.jpg",
+                       "source_name":  "backgrounds/073.jpg",
+                       "sha256":  "b5bab99b0be3fcec597b66c1e7b15645b5fee689d8801a4f907e641fba49c2df",
+                       "bytes":  155774,
+                       "order":  73
+                   },
+                   {
+                       "id":  "shared-074",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/074.jpg",
+                       "source_name":  "backgrounds/074.jpg",
+                       "sha256":  "34bb5f4c1160db96930988ec59ca1344d7fda2369b39c0723ae2bf032b07964a",
+                       "bytes":  91162,
+                       "order":  74
+                   },
+                   {
+                       "id":  "shared-075",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/075.jpg",
+                       "source_name":  "backgrounds/075.jpg",
+                       "sha256":  "26d71b88fcbc9c92666d9b584895d8345117c6bf16d8384c2d0420f70db0e117",
+                       "bytes":  110539,
+                       "order":  75
+                   },
+                   {
+                       "id":  "shared-076",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/076.jpg",
+                       "source_name":  "backgrounds/076.jpg",
+                       "sha256":  "6c5a01ca345153cdad6c80d02f6052b475992f05ea52102ef41de868507b47f6",
+                       "bytes":  30078,
+                       "order":  76
+                   },
+                   {
+                       "id":  "shared-077",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/077.jpg",
+                       "source_name":  "backgrounds/077.jpg",
+                       "sha256":  "edbb843530a77dbe532449d667d50c565ef2bb3ac6ad487664b2d5c5205339cb",
+                       "bytes":  245961,
+                       "order":  77
+                   },
+                   {
+                       "id":  "shared-078",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/078.jpg",
+                       "source_name":  "backgrounds/078.jpg",
+                       "sha256":  "405faa1785b497f9b6e85113afc33f96beb4fd2790b8064c699715ab601ecf63",
+                       "bytes":  123055,
+                       "order":  78
+                   },
+                   {
+                       "id":  "shared-079",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/079.jpg",
+                       "source_name":  "backgrounds/079.jpg",
+                       "sha256":  "ff98a531de2b62f03315e36da924a55200478cf8b24a06a579038f1d9fbd7d69",
+                       "bytes":  265767,
+                       "order":  79
+                   },
+                   {
+                       "id":  "shared-080",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/080.jpg",
+                       "source_name":  "backgrounds/080.jpg",
+                       "sha256":  "00fbe39745e07174e19ef5ff2df92539edd3c96d64160d6b463efa99ed1c7f2a",
+                       "bytes":  274855,
+                       "order":  80
+                   },
+                   {
+                       "id":  "shared-081",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/081.jpg",
+                       "source_name":  "backgrounds/081.jpg",
+                       "sha256":  "b545132e1294c1aecb00cfcc973cb1c7f0bcf95e9641ce2d29a612d93c826a8f",
+                       "bytes":  249933,
+                       "order":  81
+                   },
+                   {
+                       "id":  "shared-082",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/082.jpg",
+                       "source_name":  "backgrounds/082.jpg",
+                       "sha256":  "7c6517283bc80b23edba8fae073ecc2c802258ade95a384e6a348de7b8fc1706",
+                       "bytes":  90725,
+                       "order":  82
+                   },
+                   {
+                       "id":  "shared-083",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/083.jpg",
+                       "source_name":  "backgrounds/083.jpg",
+                       "sha256":  "9041161f5c0ea522540c4bf58c1a6b1634f6ac9a1178c605d686ec04098e844c",
+                       "bytes":  169111,
+                       "order":  83
+                   },
+                   {
+                       "id":  "shared-084",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/084.jpg",
+                       "source_name":  "backgrounds/084.jpg",
+                       "sha256":  "1bc7039864bcd0e074cb11e2df6d871ba6c45ebe6d9b267f0ffd2a238cf87c4b",
+                       "bytes":  72341,
+                       "order":  84
+                   },
+                   {
+                       "id":  "shared-085",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/085.jpg",
+                       "source_name":  "backgrounds/085.jpg",
+                       "sha256":  "c3f054ce1c48bfed72c49795b5393b8c1de9810c8d270de7e3b83cd26c23b786",
+                       "bytes":  111525,
+                       "order":  85
+                   },
+                   {
+                       "id":  "shared-086",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/086.jpg",
+                       "source_name":  "backgrounds/086.jpg",
+                       "sha256":  "fd9277708979c8f7d22d6b1695aa679697c1cb1f4d3a74b1fb6a02e098ebaa9e",
+                       "bytes":  167662,
+                       "order":  86
+                   },
+                   {
+                       "id":  "shared-087",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/087.jpg",
+                       "source_name":  "backgrounds/087.jpg",
+                       "sha256":  "bffce075d9c7b8509a1680ecfd0f1c0e78905354ce7b96ed0da8fd531004146a",
+                       "bytes":  262554,
+                       "order":  87
+                   },
+                   {
+                       "id":  "shared-088",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/088.jpg",
+                       "source_name":  "backgrounds/088.jpg",
+                       "sha256":  "64a2ad7dea49a1016d0521f07e3e82b9097e4386e97fa88cafee2e437680e7ca",
+                       "bytes":  345996,
+                       "order":  88
+                   },
+                   {
+                       "id":  "shared-089",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/089.jpg",
+                       "source_name":  "backgrounds/089.jpg",
+                       "sha256":  "3a6ca03c62da224a6c07383140527778b51ec92e939bcb9d505fd7865854fe64",
+                       "bytes":  109140,
+                       "order":  89
+                   },
+                   {
+                       "id":  "shared-090",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/090.jpg",
+                       "source_name":  "backgrounds/090.jpg",
+                       "sha256":  "8002654c7d8195565b922677522bdb91f376f29c72ae071e6ac804ca473861c1",
+                       "bytes":  107428,
+                       "order":  90
+                   },
+                   {
+                       "id":  "shared-091",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/091.jpg",
+                       "source_name":  "backgrounds/091.jpg",
+                       "sha256":  "9f525a5fc67b32dc1f260659b7b58962066d198b00a4cd0020387a315d3f835b",
+                       "bytes":  122244,
+                       "order":  91
+                   },
+                   {
+                       "id":  "shared-092",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/092.jpg",
+                       "source_name":  "backgrounds/092.jpg",
+                       "sha256":  "a7a0570197a8119f5db268c6e354b3f6281ce13cf919951785a84a3219a3687b",
+                       "bytes":  44281,
+                       "order":  92
+                   },
+                   {
+                       "id":  "shared-093",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/093.jpg",
+                       "source_name":  "backgrounds/093.jpg",
+                       "sha256":  "39a1b6e92beb4b7b6b9f7ab5b5c5ed5afe6fe50a89ce781c085f0eee8fdad27e",
+                       "bytes":  194719,
+                       "order":  93
+                   },
+                   {
+                       "id":  "shared-094",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/094.jpg",
+                       "source_name":  "backgrounds/094.jpg",
+                       "sha256":  "d6d791df4c19a2e9d22cfe5e8a11e5335c17aa1cb1653e55a8cb9479c940d411",
+                       "bytes":  27771,
+                       "order":  94
+                   },
+                   {
+                       "id":  "shared-095",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/095.jpg",
+                       "source_name":  "backgrounds/095.jpg",
+                       "sha256":  "cf58317c858b40009f1eec83a02b465d5902b94ab7adaece7c5ae26caa5f3793",
+                       "bytes":  191480,
+                       "order":  95
+                   },
+                   {
+                       "id":  "shared-096",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/096.jpg",
+                       "source_name":  "backgrounds/096.jpg",
+                       "sha256":  "18f0d62cc90ca103cc820475e52394b041199a9c3f3f72a958d6d36d908d6310",
+                       "bytes":  188662,
+                       "order":  96
+                   },
+                   {
+                       "id":  "shared-097",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/097.jpg",
+                       "source_name":  "backgrounds/097.jpg",
+                       "sha256":  "28170a2ed93fe75941937aef74c9c2abd1c0a0cd87616dc3575ac3a6731d369f",
+                       "bytes":  61847,
+                       "order":  97
+                   },
+                   {
+                       "id":  "shared-098",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/098.jpg",
+                       "source_name":  "backgrounds/098.jpg",
+                       "sha256":  "7c196580bdcc5fdaa5d54f93960f8a7aa65c71166fd5b1ed85a994ce34c9f288",
+                       "bytes":  318706,
+                       "order":  98
+                   },
+                   {
+                       "id":  "shared-099",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/099.jpg",
+                       "source_name":  "backgrounds/099.jpg",
+                       "sha256":  "d125765620086c8c29c37319f2dd32e76bfbfb0358a158dee6ad3a13c6eb2275",
+                       "bytes":  78493,
+                       "order":  99
+                   },
+                   {
+                       "id":  "shared-100",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/100.jpg",
+                       "source_name":  "backgrounds/100.jpg",
+                       "sha256":  "1009bac6788719b70aee8b5fc247955ca112faefe106b96dc37401f3227793e4",
+                       "bytes":  314054,
+                       "order":  100
+                   },
+                   {
+                       "id":  "shared-101",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/101.jpg",
+                       "source_name":  "backgrounds/101.jpg",
+                       "sha256":  "0484f51fd6fe2c3a1cbbfc7139ed0f620329ad58c95d51c19ed061ab59c6da0f",
+                       "bytes":  181681,
+                       "order":  101
+                   },
+                   {
+                       "id":  "shared-102",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/102.jpg",
+                       "source_name":  "backgrounds/102.jpg",
+                       "sha256":  "d1fdc20e3976adf2edcbf73ebe8ea4e5c6e5308f51d438f1b0a040f0edb9010d",
+                       "bytes":  140535,
+                       "order":  102
+                   },
+                   {
+                       "id":  "shared-103",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/103.jpg",
+                       "source_name":  "backgrounds/103.jpg",
+                       "sha256":  "7e78ea9202d3f516a159613f685c6aaee77c08414b19af2e0a91613147e98e59",
+                       "bytes":  228400,
+                       "order":  103
+                   },
+                   {
+                       "id":  "shared-104",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/104.jpg",
+                       "source_name":  "backgrounds/104.jpg",
+                       "sha256":  "5d2bc5058b42c626328a955d07b79c7e6dea0069ee285c4d7ef7981901ef9f33",
+                       "bytes":  111125,
+                       "order":  104
+                   },
+                   {
+                       "id":  "shared-105",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/105.jpg",
+                       "source_name":  "backgrounds/105.jpg",
+                       "sha256":  "4112e612f816801aa03b1cb4a09469bcead6ddeef13a5a05b4ab158d72bda4f9",
+                       "bytes":  81402,
+                       "order":  105
+                   },
+                   {
+                       "id":  "shared-106",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/106.jpg",
+                       "source_name":  "backgrounds/106.jpg",
+                       "sha256":  "e46bd562a06754d4a40c6e6e3dcaec87065d97e19f56ed7e66d8bfcd677bfca1",
+                       "bytes":  51313,
+                       "order":  106
+                   },
+                   {
+                       "id":  "shared-107",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/107.jpg",
+                       "source_name":  "backgrounds/107.jpg",
+                       "sha256":  "6073fa9009c3c6d81bc1ff98aac3d44f34df4dbfcdc038036ea4bd7d8ef0709b",
+                       "bytes":  103675,
+                       "order":  107
+                   },
+                   {
+                       "id":  "shared-108",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/108.jpg",
+                       "source_name":  "backgrounds/108.jpg",
+                       "sha256":  "92b52b7321b33da87e6ee02f3f60a120b8f2b2d2cb57944fd3f8619b26e53161",
+                       "bytes":  229168,
+                       "order":  108
+                   },
+                   {
+                       "id":  "shared-109",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/109.jpg",
+                       "source_name":  "backgrounds/109.jpg",
+                       "sha256":  "57a0d80309b4e03a6e2cffca6895a09bc612aaeef407b9b6cae9d82e74148edf",
+                       "bytes":  395267,
+                       "order":  109
+                   },
+                   {
+                       "id":  "shared-110",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/110.jpg",
+                       "source_name":  "backgrounds/110.jpg",
+                       "sha256":  "592021b4bccd63c0aad67fa35c2359e883c801d423c861318dc813e446c29763",
+                       "bytes":  121248,
+                       "order":  110
+                   },
+                   {
+                       "id":  "shared-111",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/111.jpg",
+                       "source_name":  "backgrounds/111.jpg",
+                       "sha256":  "c77d2970b0e4a5c3d2cdba093a486b5f7311ccc8a8470a68fab5543a378af4d1",
+                       "bytes":  272635,
+                       "order":  111
+                   },
+                   {
+                       "id":  "shared-112",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/112.jpg",
+                       "source_name":  "backgrounds/112.jpg",
+                       "sha256":  "c271c403df1600546832695b5047c8439f003fad82f086575c46de6e923a40ce",
+                       "bytes":  188109,
+                       "order":  112
+                   },
+                   {
+                       "id":  "shared-113",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/113.jpg",
+                       "source_name":  "backgrounds/113.jpg",
+                       "sha256":  "6c39df80000ba7fd28430210c2f0f1c827d39ed3d67422f8ae84252a461a921c",
+                       "bytes":  131615,
+                       "order":  113
+                   },
+                   {
+                       "id":  "shared-114",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/114.jpg",
+                       "source_name":  "backgrounds/114.jpg",
+                       "sha256":  "3efeaa4c22ddc272929a3a548cbbecad13f62e56a743661777f44bef062c857f",
+                       "bytes":  202331,
+                       "order":  114
+                   },
+                   {
+                       "id":  "shared-115",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/115.jpg",
+                       "source_name":  "backgrounds/115.jpg",
+                       "sha256":  "4669b8b2fd375a354e9b87a707814dc1770597214cca24c2b3929eddbf9ebe2b",
+                       "bytes":  165311,
+                       "order":  115
+                   },
+                   {
+                       "id":  "shared-116",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/116.jpg",
+                       "source_name":  "backgrounds/116.jpg",
+                       "sha256":  "a7a0570197a8119f5db268c6e354b3f6281ce13cf919951785a84a3219a3687b",
+                       "bytes":  44281,
+                       "order":  116
+                   },
+                   {
+                       "id":  "shared-117",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/117.jpg",
+                       "source_name":  "backgrounds/117.jpg",
+                       "sha256":  "1a6be8b694bbbe40f2256a8e3530371e430a866ae1bcf0e1b160e20ce2e92783",
+                       "bytes":  190821,
+                       "order":  117
+                   },
+                   {
+                       "id":  "shared-118",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/118.jpg",
+                       "source_name":  "backgrounds/118.jpg",
+                       "sha256":  "ebc483d4f8e678d8973c2340bdef0dc0d38c0ffd67ba72db6ab3a3be7dc5e8fe",
+                       "bytes":  73117,
+                       "order":  118
+                   },
+                   {
+                       "id":  "shared-119",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/119.jpg",
+                       "source_name":  "backgrounds/119.jpg",
+                       "sha256":  "2c91f7ad6a1fe653ae283221b399aa9a650f89945304b6f641560ec16e207568",
+                       "bytes":  368272,
+                       "order":  119
+                   },
+                   {
+                       "id":  "shared-120",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/120.jpg",
+                       "source_name":  "backgrounds/120.jpg",
+                       "sha256":  "7b8d028a16f2a8393b69fab99fe87db3756db0660e2c67eb29ce20ac1147c7b5",
+                       "bytes":  283417,
+                       "order":  120
+                   },
+                   {
+                       "id":  "shared-121",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/121.jpg",
+                       "source_name":  "backgrounds/121.jpg",
+                       "sha256":  "920c7e3705dd146ceaebbdac7004dd28e9c80e04ac260e9c87a31360e1634d43",
+                       "bytes":  162955,
+                       "order":  121
+                   },
+                   {
+                       "id":  "shared-122",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/122.jpg",
+                       "source_name":  "backgrounds/122.jpg",
+                       "sha256":  "ef7fef3b0cbde9cd1de26060759cf148538bb7b1f65edf0e81038a9017316595",
+                       "bytes":  276467,
+                       "order":  122
+                   },
+                   {
+                       "id":  "shared-123",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/123.jpg",
+                       "source_name":  "backgrounds/123.jpg",
+                       "sha256":  "3c411df3045ef710039ab9ba0eafc2e4fd40b62f76638c8a43a48a14377bc1dc",
+                       "bytes":  259478,
+                       "order":  123
+                   },
+                   {
+                       "id":  "shared-124",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/124.jpg",
+                       "source_name":  "backgrounds/124.jpg",
+                       "sha256":  "a7ee11672ba5c31192920429fcfb2f9967c3a0a5f321bae5868b165ea3e59df1",
+                       "bytes":  161221,
+                       "order":  124
+                   },
+                   {
+                       "id":  "shared-125",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/125.jpg",
+                       "source_name":  "backgrounds/125.jpg",
+                       "sha256":  "6073fa9009c3c6d81bc1ff98aac3d44f34df4dbfcdc038036ea4bd7d8ef0709b",
+                       "bytes":  103675,
+                       "order":  125
+                   },
+                   {
+                       "id":  "shared-126",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/126.jpg",
+                       "source_name":  "backgrounds/126.jpg",
+                       "sha256":  "b21c5241bd6474275fae32a2f098e4e59f49ab76652e035fd56a3b859a5c72c3",
+                       "bytes":  102524,
+                       "order":  126
+                   },
+                   {
+                       "id":  "shared-127",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/127.jpg",
+                       "source_name":  "backgrounds/127.jpg",
+                       "sha256":  "a801ee88ebf0ee65fc7d7aef72ad111a20925afb7336da89236631123df59c9e",
+                       "bytes":  163536,
+                       "order":  127
+                   },
+                   {
+                       "id":  "shared-128",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/128.jpg",
+                       "source_name":  "backgrounds/128.jpg",
+                       "sha256":  "0b1d4cf68baf09a7aa24b21c43dbd8c8266abdbe3786c4db73dc36d34bd0827c",
+                       "bytes":  106279,
+                       "order":  128
+                   },
+                   {
+                       "id":  "shared-129",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/129.jpg",
+                       "source_name":  "backgrounds/129.jpg",
+                       "sha256":  "ff60d4f7d79685e3463e91164b9c53ef4697021dd611ab4b8960eb210ef173cc",
+                       "bytes":  232458,
+                       "order":  129
+                   },
+                   {
+                       "id":  "shared-130",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/130.jpg",
+                       "source_name":  "backgrounds/130.jpg",
+                       "sha256":  "07b09a9c5066a97e2f2d7d831bc2f1198486ef212bf37cf81d29c8a755669530",
+                       "bytes":  125024,
+                       "order":  130
+                   },
+                   {
+                       "id":  "shared-131",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/131.jpg",
+                       "source_name":  "backgrounds/131.jpg",
+                       "sha256":  "c3e8608fd363b314bf6a61e73aed0c3af850f7d6ed6198694d8137310c9c140b",
+                       "bytes":  289020,
+                       "order":  131
+                   },
+                   {
+                       "id":  "shared-132",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/132.jpg",
+                       "source_name":  "backgrounds/132.jpg",
+                       "sha256":  "05c5430fc463db5f7deaa0ed1b8dc3171d10147db6f2c0274609cfabaa3025c6",
+                       "bytes":  67887,
+                       "order":  132
+                   },
+                   {
+                       "id":  "shared-133",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/133.jpg",
+                       "source_name":  "backgrounds/133.jpg",
+                       "sha256":  "ffb3a0b32ebc6162148a0fe43965a5dec92ee38e0c727351dbd69460a14a6cf4",
+                       "bytes":  47780,
+                       "order":  133
+                   },
+                   {
+                       "id":  "shared-134",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/134.jpg",
+                       "source_name":  "backgrounds/134.jpg",
+                       "sha256":  "3c773f7f1b4c9a16fedee4b9541303b77d78cd1a83c2de92a59bf880ef88bf4c",
+                       "bytes":  82038,
+                       "order":  134
+                   },
+                   {
+                       "id":  "shared-135",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/135.jpg",
+                       "source_name":  "backgrounds/135.jpg",
+                       "sha256":  "306f9fefe66404b8a00257b0b5b9bb8734c4bd753607c7fa01a537bddfab75a5",
+                       "bytes":  493970,
+                       "order":  135
+                   },
+                   {
+                       "id":  "shared-136",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/136.jpg",
+                       "source_name":  "backgrounds/136.jpg",
+                       "sha256":  "982913faece48fbe014f98bef738434f788093892bf774203cb78f954fe23a13",
+                       "bytes":  96239,
+                       "order":  136
+                   },
+                   {
+                       "id":  "shared-137",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/137.jpg",
+                       "source_name":  "backgrounds/137.jpg",
+                       "sha256":  "f111fe73fdc38a752ae292e4035af29b130cdbe79d77aa2a94d44035cedfb1b7",
+                       "bytes":  151038,
+                       "order":  137
+                   },
+                   {
+                       "id":  "shared-138",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/138.jpg",
+                       "source_name":  "backgrounds/138.jpg",
+                       "sha256":  "da9c74baf8fb4b359db8037f7d45f5abee79fd84250cb68d9f78aa470b37efd7",
+                       "bytes":  200970,
+                       "order":  138
+                   },
+                   {
+                       "id":  "shared-139",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/139.jpg",
+                       "source_name":  "backgrounds/139.jpg",
+                       "sha256":  "e56efc186f11c474174b5ba3409239e2ed8c059012ab5ad35f605eefe63d7a8f",
+                       "bytes":  63881,
+                       "order":  139
+                   },
+                   {
+                       "id":  "shared-140",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/140.jpg",
+                       "source_name":  "backgrounds/140.jpg",
+                       "sha256":  "47bb69ee61673f4f97ab31907b93cc5186674ab2be11b576e14798394857606f",
+                       "bytes":  261357,
+                       "order":  140
+                   },
+                   {
+                       "id":  "shared-141",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/141.jpg",
+                       "source_name":  "backgrounds/141.jpg",
+                       "sha256":  "632039e4e084498f7bdcabcf520006e206566f4808ee10d219732beced8a0e82",
+                       "bytes":  178581,
+                       "order":  141
+                   },
+                   {
+                       "id":  "shared-142",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/142.jpg",
+                       "source_name":  "backgrounds/142.jpg",
+                       "sha256":  "ffb3a0b32ebc6162148a0fe43965a5dec92ee38e0c727351dbd69460a14a6cf4",
+                       "bytes":  47780,
+                       "order":  142
+                   },
+                   {
+                       "id":  "shared-143",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/143.jpg",
+                       "source_name":  "backgrounds/143.jpg",
+                       "sha256":  "2651b8c7d30f46a0c1d4add05f037b268c95cbe38497b7dcc5d1cd6373835ab0",
+                       "bytes":  365361,
+                       "order":  143
+                   },
+                   {
+                       "id":  "shared-144",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/144.jpg",
+                       "source_name":  "backgrounds/144.jpg",
+                       "sha256":  "9587d77e2aca8d75dbb6f89f935a8605f345e9ca9392a84b326fc70420880306",
+                       "bytes":  141315,
+                       "order":  144
+                   },
+                   {
+                       "id":  "shared-145",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/145.jpg",
+                       "source_name":  "backgrounds/145.jpg",
+                       "sha256":  "079478e4246d0338b7af73bf165ebb05ecc6ae75b1cec1742e2a71c6b77929f5",
+                       "bytes":  171361,
+                       "order":  145
+                   },
+                   {
+                       "id":  "shared-146",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/146.jpg",
+                       "source_name":  "backgrounds/146.jpg",
+                       "sha256":  "e0eebbb7c03e865482db1e4dfad2e5c85efa2af328787e20911446d7a2882d32",
+                       "bytes":  253245,
+                       "order":  146
+                   },
+                   {
+                       "id":  "shared-147",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/147.jpg",
+                       "source_name":  "backgrounds/147.jpg",
+                       "sha256":  "f585747811e0d7abf3723c2e865ed5ed7c8a5ce98120a10a9aaa682cc1da86c6",
+                       "bytes":  216823,
+                       "order":  147
+                   },
+                   {
+                       "id":  "shared-148",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/148.jpg",
+                       "source_name":  "backgrounds/148.jpg",
+                       "sha256":  "05af3259b0ae3a0456aa29f44d4ba35c1084493b74f51234403f21eba01dc0a7",
+                       "bytes":  71530,
+                       "order":  148
+                   },
+                   {
+                       "id":  "shared-149",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/149.jpg",
+                       "source_name":  "backgrounds/149.jpg",
+                       "sha256":  "dfaa404b272add7162d2bd5e33c51c9052bce3d60c144673eb83de626c0ce24c",
+                       "bytes":  234258,
+                       "order":  149
+                   },
+                   {
+                       "id":  "shared-150",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/150.jpg",
+                       "source_name":  "backgrounds/150.jpg",
+                       "sha256":  "79f5b09b243a43b1dcfa1d1a51f71d0509e1ebdcbfcbd672eb25bc66004df254",
+                       "bytes":  208978,
+                       "order":  150
+                   },
+                   {
+                       "id":  "shared-151",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/151.jpg",
+                       "source_name":  "backgrounds/151.jpg",
+                       "sha256":  "bbef5491e9a9e1d5e5201f953314d7ddce6baeaf9d7e2274e64e7810e9979f63",
+                       "bytes":  64906,
+                       "order":  151
+                   },
+                   {
+                       "id":  "shared-152",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/152.jpg",
+                       "source_name":  "backgrounds/152.jpg",
+                       "sha256":  "ee02db136354de9b7cb13b61a5356c4fea6a5fd20198ae193b13ba2aa4d72f0a",
+                       "bytes":  71129,
+                       "order":  152
+                   },
+                   {
+                       "id":  "shared-153",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/153.jpg",
+                       "source_name":  "backgrounds/153.jpg",
+                       "sha256":  "4c639e3ea2564548b31f3e5860a23bef3087ebd5d91f362633136ebdcc5659ca",
+                       "bytes":  97833,
+                       "order":  153
+                   },
+                   {
+                       "id":  "shared-154",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/154.jpg",
+                       "source_name":  "backgrounds/154.jpg",
+                       "sha256":  "7c4b2b55aa9a0ac69faa5bd39d498eae2f6b75ef346a159925607a427d08143e",
+                       "bytes":  269081,
+                       "order":  154
+                   },
+                   {
+                       "id":  "shared-155",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/155.jpg",
+                       "source_name":  "backgrounds/155.jpg",
+                       "sha256":  "d2a54aae3d9afbb85c0e704e3e4c0dd54fdeb9f737e03a9da186da2ef6006e3f",
+                       "bytes":  265743,
+                       "order":  155
+                   },
+                   {
+                       "id":  "shared-156",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/156.jpg",
+                       "source_name":  "backgrounds/156.jpg",
+                       "sha256":  "a7a0570197a8119f5db268c6e354b3f6281ce13cf919951785a84a3219a3687b",
+                       "bytes":  44281,
+                       "order":  156
+                   },
+                   {
+                       "id":  "shared-157",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/157.jpg",
+                       "source_name":  "backgrounds/157.jpg",
+                       "sha256":  "920c7e3705dd146ceaebbdac7004dd28e9c80e04ac260e9c87a31360e1634d43",
+                       "bytes":  162955,
+                       "order":  157
+                   },
+                   {
+                       "id":  "shared-158",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/158.jpg",
+                       "source_name":  "backgrounds/158.jpg",
+                       "sha256":  "3279caaf5dfc431cf696cbe5e1df9bb6dc4d189204287109782dc1e77871b942",
+                       "bytes":  528451,
+                       "order":  158
+                   },
+                   {
+                       "id":  "shared-159",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/159.jpg",
+                       "source_name":  "backgrounds/159.jpg",
+                       "sha256":  "ebfc6aa81894216201426a9ce9be01c3ee58bd4c11775bd6eda44b3bbcdf19a7",
+                       "bytes":  231209,
+                       "order":  159
+                   },
+                   {
+                       "id":  "shared-160",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/160.jpg",
+                       "source_name":  "backgrounds/160.jpg",
+                       "sha256":  "a232f74eba8881337098d6edf1e393234992a4846053d2337f4d66ce720a84e2",
+                       "bytes":  147215,
+                       "order":  160
+                   },
+                   {
+                       "id":  "shared-161",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/161.jpg",
+                       "source_name":  "backgrounds/161.jpg",
+                       "sha256":  "ec08779c198f4e8fe2f4e3a3dfdf127596ad322e0250781e464dd8ad63da9cfe",
+                       "bytes":  524675,
+                       "order":  161
+                   },
+                   {
+                       "id":  "shared-162",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/162.jpg",
+                       "source_name":  "backgrounds/162.jpg",
+                       "sha256":  "cf28b61c281c4d2419bf8a416a2ba481cc797834eabe89a1557a7bfae330b6d9",
+                       "bytes":  54292,
+                       "order":  162
+                   },
+                   {
+                       "id":  "shared-163",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/163.jpg",
+                       "source_name":  "backgrounds/163.jpg",
+                       "sha256":  "d2b7cfe367a6e4b36df7434be19c2933ce4f11c8a24b326925b1915ddf939a4f",
+                       "bytes":  128867,
+                       "order":  163
+                   },
+                   {
+                       "id":  "shared-164",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/164.jpg",
+                       "source_name":  "backgrounds/164.jpg",
+                       "sha256":  "06789320940baade8d193da4fb96792b0102081b95b03aaa3b6273fbfe112d23",
+                       "bytes":  150375,
+                       "order":  164
+                   },
+                   {
+                       "id":  "shared-165",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/165.jpg",
+                       "source_name":  "backgrounds/165.jpg",
+                       "sha256":  "a7a0570197a8119f5db268c6e354b3f6281ce13cf919951785a84a3219a3687b",
+                       "bytes":  44281,
+                       "order":  165
+                   },
+                   {
+                       "id":  "shared-166",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/166.jpg",
+                       "source_name":  "backgrounds/166.jpg",
+                       "sha256":  "b27dc2a1065aa05544b4862086447da776c8e83de6a203de3d8eae89a3349fab",
+                       "bytes":  201609,
+                       "order":  166
+                   },
+                   {
+                       "id":  "shared-167",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/167.jpg",
+                       "source_name":  "backgrounds/167.jpg",
+                       "sha256":  "2ec4277463e2ee4670284b4bcd9f42f77e3b6161f62b3349b232fadc51b5aa4e",
+                       "bytes":  150292,
+                       "order":  167
+                   },
+                   {
+                       "id":  "shared-168",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/168.jpg",
+                       "source_name":  "backgrounds/168.jpg",
+                       "sha256":  "ab33bf22e3823690f1c26b632aac4f256beeb36afdee0529c0f9644e6277b86e",
+                       "bytes":  169394,
+                       "order":  168
+                   },
+                   {
+                       "id":  "shared-169",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/169.jpg",
+                       "source_name":  "backgrounds/169.jpg",
+                       "sha256":  "b1c3eef45b040e528c28ceb6e9bf289e2c7b20a254b58e235c8c3488789ae5cd",
+                       "bytes":  228371,
+                       "order":  169
+                   },
+                   {
+                       "id":  "shared-170",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/170.jpg",
+                       "source_name":  "backgrounds/170.jpg",
+                       "sha256":  "6c3cbdf03f9286ea86155ce0ac2cc66acc0ef373c67a32cb5fb1c803e2ce9135",
+                       "bytes":  211700,
+                       "order":  170
+                   },
+                   {
+                       "id":  "shared-171",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/171.jpg",
+                       "source_name":  "backgrounds/171.jpg",
+                       "sha256":  "394c2799cef3b7a0509a4a2d5b6c55901fc356aae7dac61e76701a35fb38ebfd",
+                       "bytes":  174698,
+                       "order":  171
+                   },
+                   {
+                       "id":  "shared-172",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/172.jpg",
+                       "source_name":  "backgrounds/172.jpg",
+                       "sha256":  "ffb3a0b32ebc6162148a0fe43965a5dec92ee38e0c727351dbd69460a14a6cf4",
+                       "bytes":  47780,
+                       "order":  172
+                   },
+                   {
+                       "id":  "shared-173",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/173.jpg",
+                       "source_name":  "backgrounds/173.jpg",
+                       "sha256":  "10d4d7e0a823d5737d8cc9e251f2ec974407ac01557bbfdd610965dba1d297af",
+                       "bytes":  142014,
+                       "order":  173
+                   },
+                   {
+                       "id":  "shared-174",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/174.jpg",
+                       "source_name":  "backgrounds/174.jpg",
+                       "sha256":  "fa43eba94899154d85ddf05475792a12442540220edc0165267708204204c8cf",
+                       "bytes":  138340,
+                       "order":  174
+                   },
+                   {
+                       "id":  "shared-175",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/175.jpg",
+                       "source_name":  "backgrounds/175.jpg",
+                       "sha256":  "05af3259b0ae3a0456aa29f44d4ba35c1084493b74f51234403f21eba01dc0a7",
+                       "bytes":  71530,
+                       "order":  175
+                   },
+                   {
+                       "id":  "shared-176",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/176.jpg",
+                       "source_name":  "backgrounds/176.jpg",
+                       "sha256":  "044f76cf7a4f7735d96bd39231b07c1e938a694abe303a1c542075001a3192fe",
+                       "bytes":  47187,
+                       "order":  176
+                   },
+                   {
+                       "id":  "shared-177",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/177.jpg",
+                       "source_name":  "backgrounds/177.jpg",
+                       "sha256":  "67d7425c6731322e9cfdafbd39a79d16d3846620fc49d7bcd60732f50f37a0d4",
+                       "bytes":  126736,
+                       "order":  177
+                   },
+                   {
+                       "id":  "shared-178",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/178.jpg",
+                       "source_name":  "backgrounds/178.jpg",
+                       "sha256":  "5e99f148f7fca85bb880d9f5ff08b21845cdd9439e13edcdec951e0c704efe32",
+                       "bytes":  260220,
+                       "order":  178
+                   },
+                   {
+                       "id":  "shared-179",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/179.jpg",
+                       "source_name":  "backgrounds/179.jpg",
+                       "sha256":  "50f128e28cb3ef1c5a46b4a0868099451c8598af7c51637519e11664485e81a2",
+                       "bytes":  156462,
+                       "order":  179
+                   },
+                   {
+                       "id":  "shared-180",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/180.jpg",
+                       "source_name":  "backgrounds/180.jpg",
+                       "sha256":  "05af3259b0ae3a0456aa29f44d4ba35c1084493b74f51234403f21eba01dc0a7",
+                       "bytes":  71530,
+                       "order":  180
+                   },
+                   {
+                       "id":  "shared-181",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/181.jpg",
+                       "source_name":  "backgrounds/181.jpg",
+                       "sha256":  "912e344b59c481efe0488684464fe4ac1bd994ace0f5d3aeec07602f95fd8848",
+                       "bytes":  254566,
+                       "order":  181
+                   },
+                   {
+                       "id":  "shared-182",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/182.jpg",
+                       "source_name":  "backgrounds/182.jpg",
+                       "sha256":  "18babc4e354c11a13edc70eb3a4d509d4a51ca02fbe77d5b7ce487da7a9aa818",
+                       "bytes":  114788,
+                       "order":  182
+                   },
+                   {
+                       "id":  "shared-183",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/183.jpg",
+                       "source_name":  "backgrounds/183.jpg",
+                       "sha256":  "1893403ebd9e773cf435f2ba172995b7cb64036eacf4e295afb1d090649c4477",
+                       "bytes":  142075,
+                       "order":  183
+                   },
+                   {
+                       "id":  "shared-184",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/184.jpg",
+                       "source_name":  "backgrounds/184.jpg",
+                       "sha256":  "2b072270fa4d19836d7b56f8f5ae280bdf34b5eff58f9c4e4f5e05cd6a615db3",
+                       "bytes":  300582,
+                       "order":  184
+                   },
+                   {
+                       "id":  "shared-185",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/185.jpg",
+                       "source_name":  "backgrounds/185.jpg",
+                       "sha256":  "6073fa9009c3c6d81bc1ff98aac3d44f34df4dbfcdc038036ea4bd7d8ef0709b",
+                       "bytes":  103675,
+                       "order":  185
+                   },
+                   {
+                       "id":  "shared-186",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/186.jpg",
+                       "source_name":  "backgrounds/186.jpg",
+                       "sha256":  "85cd1f8f9ed3091dc43fafa11fcf8fce3323af1ca09bab5b1b020b428dfb42fd",
+                       "bytes":  293919,
+                       "order":  186
+                   },
+                   {
+                       "id":  "shared-187",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/187.jpg",
+                       "source_name":  "backgrounds/187.jpg",
+                       "sha256":  "6e1e35d8419c0bdc3cdba0414deef4915d72811751844b445d99ee0327cd4937",
+                       "bytes":  205610,
+                       "order":  187
+                   },
+                   {
+                       "id":  "shared-188",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/188.jpg",
+                       "source_name":  "backgrounds/188.jpg",
+                       "sha256":  "5d244f147ff915bc4b544e48c32cb93a78c3e77d701c4f11bdefa16bd1e66b62",
+                       "bytes":  136740,
+                       "order":  188
+                   },
+                   {
+                       "id":  "shared-189",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/189.jpg",
+                       "source_name":  "backgrounds/189.jpg",
+                       "sha256":  "a1fdd9de5e67d2258a2026ca55c7e35da5002b473673ad962274a308002f5f39",
+                       "bytes":  141600,
+                       "order":  189
+                   },
+                   {
+                       "id":  "shared-190",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/190.jpg",
+                       "source_name":  "backgrounds/190.jpg",
+                       "sha256":  "f8b69dd759ddaa5004dbe2b7e476805e828e710ba3b55d17cb6d0d4ca460de5a",
+                       "bytes":  80363,
+                       "order":  190
+                   },
+                   {
+                       "id":  "shared-191",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/191.jpg",
+                       "source_name":  "backgrounds/191.jpg",
+                       "sha256":  "31542096fb83e308b91284516ef87bad7f80ea8cf00ed79b58fee9fd9e1177db",
+                       "bytes":  235716,
+                       "order":  191
+                   },
+                   {
+                       "id":  "shared-192",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/192.jpg",
+                       "source_name":  "backgrounds/192.jpg",
+                       "sha256":  "76e94597f41d5af8497f19a1374d79bd13214dc219c4f37f66dd26af7cb93ff0",
+                       "bytes":  61958,
+                       "order":  192
+                   },
+                   {
+                       "id":  "shared-193",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/193.jpg",
+                       "source_name":  "backgrounds/193.jpg",
+                       "sha256":  "25cf207c55753b83cfc74a5dda70ff3def537e83dc50dacb7151ce77394c78b2",
+                       "bytes":  202778,
+                       "order":  193
+                   },
+                   {
+                       "id":  "shared-194",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/194.jpg",
+                       "source_name":  "backgrounds/194.jpg",
+                       "sha256":  "dfb0b556539d7c68a1d03686fbc1087c11d5d7b652b2ddb9ca168ffafef117cc",
+                       "bytes":  326345,
+                       "order":  194
+                   },
+                   {
+                       "id":  "shared-195",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/195.jpg",
+                       "source_name":  "backgrounds/195.jpg",
+                       "sha256":  "ce1c83c47b3cbb2d9b91e0710baf5436ce4bb374cbe71554153b2f1dc146c07d",
+                       "bytes":  1440532,
+                       "order":  195
+                   },
+                   {
+                       "id":  "shared-196",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/196.jpg",
+                       "source_name":  "backgrounds/196.jpg",
+                       "sha256":  "fe983979fdf5a518a6e3d1d6befb75fcb7120fdb35e7fa7aefdbfb047b656a83",
+                       "bytes":  222945,
+                       "order":  196
+                   },
+                   {
+                       "id":  "shared-197",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/197.jpg",
+                       "source_name":  "backgrounds/197.jpg",
+                       "sha256":  "f0eddc587cab430ec473b96bdb7bf523712b186aec8778adccf5bb0eb0053773",
+                       "bytes":  190859,
+                       "order":  197
+                   },
+                   {
+                       "id":  "shared-198",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/198.jpg",
+                       "source_name":  "backgrounds/198.jpg",
+                       "sha256":  "24250304996f31bc8b9526a6e0c5455bb7ab520a2d3e9c0da4a1a7d2b8e34088",
+                       "bytes":  124291,
+                       "order":  198
+                   },
+                   {
+                       "id":  "shared-199",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/199.jpg",
+                       "source_name":  "backgrounds/199.jpg",
+                       "sha256":  "d73244e0f3eda95b1d20c5e084213bd2c5adb0ad5a4911dd867fa039f47119da",
+                       "bytes":  216917,
+                       "order":  199
+                   },
+                   {
+                       "id":  "shared-200",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/200.jpg",
+                       "source_name":  "backgrounds/200.jpg",
+                       "sha256":  "3b3ed22e587fbb5b74f01155514545d2639ac528385ae27d21caa81530d9be7d",
+                       "bytes":  318819,
+                       "order":  200
+                   },
+                   {
+                       "id":  "shared-201",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/201.jpg",
+                       "source_name":  "backgrounds/201.jpg",
+                       "sha256":  "19ff82663faf7a0dd4d7fd841385fbe5dea1f517236ae8fb119f1b981a6f084e",
+                       "bytes":  202993,
+                       "order":  201
+                   },
+                   {
+                       "id":  "shared-202",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/202.jpg",
+                       "source_name":  "backgrounds/202.jpg",
+                       "sha256":  "5fba4e1969d27112057f035087d55910e57d5f1927316c131b3919217e617342",
+                       "bytes":  251955,
+                       "order":  202
+                   },
+                   {
+                       "id":  "shared-203",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/203.jpg",
+                       "source_name":  "backgrounds/203.jpg",
+                       "sha256":  "fccc86f82891e318936ba656e50d109330a820911db922d56dcb20a1c079407a",
+                       "bytes":  129325,
+                       "order":  203
+                   },
+                   {
+                       "id":  "shared-204",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/204.jpg",
+                       "source_name":  "backgrounds/204.jpg",
+                       "sha256":  "32a2c268d98f29c0f30c478bca3cc0813924d6973ecfb07482e6b72e359c5fc5",
+                       "bytes":  245943,
+                       "order":  204
+                   },
+                   {
+                       "id":  "shared-205",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/205.jpg",
+                       "source_name":  "backgrounds/205.jpg",
+                       "sha256":  "8ce1a6cd6c37a58a6a015c2f2b2fa6156df736948d3e30710ee788345323448a",
+                       "bytes":  116793,
+                       "order":  205
+                   },
+                   {
+                       "id":  "shared-206",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/206.jpg",
+                       "source_name":  "backgrounds/206.jpg",
+                       "sha256":  "8409892d63fc6d8b79dfeaa9155a3aaba876cbac2b5837cb4b244111a0ab8107",
+                       "bytes":  143956,
+                       "order":  206
+                   },
+                   {
+                       "id":  "shared-207",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/207.jpg",
+                       "source_name":  "backgrounds/207.jpg",
+                       "sha256":  "ffb3a0b32ebc6162148a0fe43965a5dec92ee38e0c727351dbd69460a14a6cf4",
+                       "bytes":  47780,
+                       "order":  207
+                   },
+                   {
+                       "id":  "shared-208",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/208.jpg",
+                       "source_name":  "backgrounds/208.jpg",
+                       "sha256":  "ca2c99fc05ea1282e4824b76ade7c35e43608556fc843ae97c2066afe028eb90",
+                       "bytes":  52795,
+                       "order":  208
+                   },
+                   {
+                       "id":  "shared-209",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/209.jpg",
+                       "source_name":  "backgrounds/209.jpg",
+                       "sha256":  "b9f31a4d9c5e9676a8fb33da59971935974f71ddfac77e059a31942fa80c550d",
+                       "bytes":  264207,
+                       "order":  209
+                   },
+                   {
+                       "id":  "shared-210",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/210.jpg",
+                       "source_name":  "backgrounds/210.jpg",
+                       "sha256":  "f82aaefafab334358504123cdaba9b83b09d419b58cc758e8598d93bcea4eeb9",
+                       "bytes":  224696,
+                       "order":  210
+                   },
+                   {
+                       "id":  "shared-211",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/211.jpg",
+                       "source_name":  "backgrounds/211.jpg",
+                       "sha256":  "c271c403df1600546832695b5047c8439f003fad82f086575c46de6e923a40ce",
+                       "bytes":  188109,
+                       "order":  211
+                   },
+                   {
+                       "id":  "shared-212",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/212.jpg",
+                       "source_name":  "backgrounds/212.jpg",
+                       "sha256":  "56504707bf63284f88350eda21747e48cbda078e4ffc275b28329cdcac6b5fc5",
+                       "bytes":  191387,
+                       "order":  212
+                   },
+                   {
+                       "id":  "shared-213",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/213.jpg",
+                       "source_name":  "backgrounds/213.jpg",
+                       "sha256":  "07b8e21fabc3a086f0c06180875fe5c413853972cb9634e2475b82829225dd31",
+                       "bytes":  244403,
+                       "order":  213
+                   },
+                   {
+                       "id":  "shared-214",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/214.jpg",
+                       "source_name":  "backgrounds/214.jpg",
+                       "sha256":  "cd2e479f52d9f92bcc2c6d432478346b0ae84166ab8c29e3e555beb48a7a3a9f",
+                       "bytes":  264663,
+                       "order":  214
+                   },
+                   {
+                       "id":  "shared-215",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/215.jpg",
+                       "source_name":  "backgrounds/215.jpg",
+                       "sha256":  "e4eb31109fa90816c7e008983f7e277ab5fcb1a90a6c7bac180de918e68ac8e9",
+                       "bytes":  57390,
+                       "order":  215
+                   },
+                   {
+                       "id":  "shared-216",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/216.jpg",
+                       "source_name":  "backgrounds/216.jpg",
+                       "sha256":  "27bc790a4c8ff9b910a11eede5931686979f36c82575ae21543b8d91b3e30cf0",
+                       "bytes":  136345,
+                       "order":  216
+                   },
+                   {
+                       "id":  "shared-217",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/217.jpg",
+                       "source_name":  "backgrounds/217.jpg",
+                       "sha256":  "04530e4992765bd004c83c4750f4918f770446f0d1447017a1691475cd72011e",
+                       "bytes":  165862,
+                       "order":  217
+                   },
+                   {
+                       "id":  "shared-218",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/218.jpg",
+                       "source_name":  "backgrounds/218.jpg",
+                       "sha256":  "012bde164dbfced080183c93d8f0ebc87e776609100549660ade458ee4871a20",
+                       "bytes":  145858,
+                       "order":  218
+                   },
+                   {
+                       "id":  "shared-219",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/219.jpg",
+                       "source_name":  "backgrounds/219.jpg",
+                       "sha256":  "302dd6bd819d7f666904d525078ac472ad67c9afaa02f5e08078441276d5562c",
+                       "bytes":  194805,
+                       "order":  219
+                   },
+                   {
+                       "id":  "shared-220",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/220.jpg",
+                       "source_name":  "backgrounds/220.jpg",
+                       "sha256":  "6c39df80000ba7fd28430210c2f0f1c827d39ed3d67422f8ae84252a461a921c",
+                       "bytes":  131615,
+                       "order":  220
+                   },
+                   {
+                       "id":  "shared-221",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/221.jpg",
+                       "source_name":  "backgrounds/221.jpg",
+                       "sha256":  "4a3cd474fbcfeeef334d860555374f3af2d444bc776a213a99f8f35608916393",
+                       "bytes":  172997,
+                       "order":  221
+                   },
+                   {
+                       "id":  "shared-222",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/222.jpg",
+                       "source_name":  "backgrounds/222.jpg",
+                       "sha256":  "c358bd55552510c57f495f1a93c8383ed59013527c11b159ef34d185df3d028a",
+                       "bytes":  177281,
+                       "order":  222
+                   },
+                   {
+                       "id":  "shared-223",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/223.jpg",
+                       "source_name":  "backgrounds/223.jpg",
+                       "sha256":  "a71d3cd7dc70b572932fe536896968dabce37e05ac500f55f2ad55782dbc6ab5",
+                       "bytes":  219253,
+                       "order":  223
+                   },
+                   {
+                       "id":  "shared-224",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/224.jpg",
+                       "source_name":  "backgrounds/224.jpg",
+                       "sha256":  "50b4e76f686c397d160913e4beb02455b16b74f4c69ad3ebbf1f70a2d02ca2ce",
+                       "bytes":  125124,
+                       "order":  224
+                   },
+                   {
+                       "id":  "shared-225",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/225.jpg",
+                       "source_name":  "backgrounds/225.jpg",
+                       "sha256":  "155a00f69b5eec4c45fa74f416efa02d06d76411dc87bdfcfb0c2f9f77dfa6ac",
+                       "bytes":  180212,
+                       "order":  225
+                   },
+                   {
+                       "id":  "shared-226",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/226.jpg",
+                       "source_name":  "backgrounds/226.jpg",
+                       "sha256":  "3d33349fb6ffe85781b0aaab12b43bd6f9ecf42f14d1d0d3a57d21b6dde33d2e",
+                       "bytes":  84494,
+                       "order":  226
+                   },
+                   {
+                       "id":  "shared-227",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/227.jpg",
+                       "source_name":  "backgrounds/227.jpg",
+                       "sha256":  "a9da079bb2bc0182102b33f79ccc9f949b743045f36c9b4f0899497dedd04b48",
+                       "bytes":  184284,
+                       "order":  227
+                   },
+                   {
+                       "id":  "shared-228",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/228.jpg",
+                       "source_name":  "backgrounds/228.jpg",
+                       "sha256":  "0cea9f0b4a98549efe6568a6d6001fd19f655874dc0b060ed53813428b75f203",
+                       "bytes":  134535,
+                       "order":  228
+                   },
+                   {
+                       "id":  "shared-229",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/229.jpg",
+                       "source_name":  "backgrounds/229.jpg",
+                       "sha256":  "76e94597f41d5af8497f19a1374d79bd13214dc219c4f37f66dd26af7cb93ff0",
+                       "bytes":  61958,
+                       "order":  229
+                   },
+                   {
+                       "id":  "shared-230",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/230.jpg",
+                       "source_name":  "backgrounds/230.jpg",
+                       "sha256":  "78713c73bf89efd8b95fbd873938d83649ac6ee0a9e959871f35d1370d3e8a8b",
+                       "bytes":  271153,
+                       "order":  230
+                   },
+                   {
+                       "id":  "shared-231",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/231.jpg",
+                       "source_name":  "backgrounds/231.jpg",
+                       "sha256":  "c271c403df1600546832695b5047c8439f003fad82f086575c46de6e923a40ce",
+                       "bytes":  188109,
+                       "order":  231
+                   },
+                   {
+                       "id":  "shared-232",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/232.jpg",
+                       "source_name":  "backgrounds/232.jpg",
+                       "sha256":  "ab505aefe63b9b2f67799752034c4688d982337c9d900b57c206e99e940e0678",
+                       "bytes":  109487,
+                       "order":  232
+                   },
+                   {
+                       "id":  "shared-233",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/233.jpg",
+                       "source_name":  "backgrounds/233.jpg",
+                       "sha256":  "079e296c60d36af057cc9dbe221ad0c86f667e270745ad99a341312133c7c475",
+                       "bytes":  227848,
+                       "order":  233
+                   },
+                   {
+                       "id":  "shared-234",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/234.jpg",
+                       "source_name":  "backgrounds/234.jpg",
+                       "sha256":  "a9bfdae2b92747666d1a9d19f9d1ed8634a334137f5dca6678beef3cdfe67621",
+                       "bytes":  270589,
+                       "order":  234
+                   },
+                   {
+                       "id":  "shared-235",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/235.jpg",
+                       "source_name":  "backgrounds/235.jpg",
+                       "sha256":  "23cb3ada9dc429814a12d7485124c4a81778f6c3bc0f2de2edcec36e483ed7c3",
+                       "bytes":  216774,
+                       "order":  235
+                   },
+                   {
+                       "id":  "shared-236",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/236.jpg",
+                       "source_name":  "backgrounds/236.jpg",
+                       "sha256":  "9582d680b2729a1313425e8f8c48e3f182419206738923c3852aeae5c7209110",
+                       "bytes":  98864,
+                       "order":  236
+                   },
+                   {
+                       "id":  "shared-237",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/237.jpg",
+                       "source_name":  "backgrounds/237.jpg",
+                       "sha256":  "a82cb30f7f2589c4dfc9cd3c813203a90e1480f56b9b16006b835c578cf92d4d",
+                       "bytes":  187158,
+                       "order":  237
+                   },
+                   {
+                       "id":  "shared-238",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/238.jpg",
+                       "source_name":  "backgrounds/238.jpg",
+                       "sha256":  "ffb3a0b32ebc6162148a0fe43965a5dec92ee38e0c727351dbd69460a14a6cf4",
+                       "bytes":  47780,
+                       "order":  238
+                   },
+                   {
+                       "id":  "shared-239",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/239.jpg",
+                       "source_name":  "backgrounds/239.jpg",
+                       "sha256":  "68a55af7851f7be25ebd8f83137b755815088e61e651164ecbb1f290945f4374",
+                       "bytes":  108281,
+                       "order":  239
+                   },
+                   {
+                       "id":  "shared-240",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/240.jpg",
+                       "source_name":  "backgrounds/240.jpg",
+                       "sha256":  "50d2e85b851315bbf1724e091d5d1055dfe00fe77bf620d31a0cb0f1eb86c337",
+                       "bytes":  91835,
+                       "order":  240
+                   },
+                   {
+                       "id":  "shared-241",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/241.jpg",
+                       "source_name":  "backgrounds/241.jpg",
+                       "sha256":  "589122982068fa718437ad10ed01c44048e040f5fb1fea048543e01e7150db20",
+                       "bytes":  297563,
+                       "order":  241
+                   },
+                   {
+                       "id":  "shared-242",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/242.jpg",
+                       "source_name":  "backgrounds/242.jpg",
+                       "sha256":  "b2c686000816fcbc82981a590419fca95deb0bf721309021fbe7480dcde15546",
+                       "bytes":  97981,
+                       "order":  242
+                   },
+                   {
+                       "id":  "shared-243",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/243.jpg",
+                       "source_name":  "backgrounds/243.jpg",
+                       "sha256":  "b7122cfb8728927192e70436a1e76e87c471ccaf3b1d97e430e3e142820e4464",
+                       "bytes":  115115,
+                       "order":  243
+                   },
+                   {
+                       "id":  "shared-244",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/244.jpg",
+                       "source_name":  "backgrounds/244.jpg",
+                       "sha256":  "c9d3e49d0c39f3064d3d660d87e45c78266bbd2ba6dd9e2c2e86c79ce91092a5",
+                       "bytes":  366086,
+                       "order":  244
+                   },
+                   {
+                       "id":  "shared-245",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/245.jpg",
+                       "source_name":  "backgrounds/245.jpg",
+                       "sha256":  "0c024fb4ac5fcbeb69632915df1c687be5360b81e55d4bf50f5380e573b16fb2",
+                       "bytes":  234742,
+                       "order":  245
+                   },
+                   {
+                       "id":  "shared-246",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/246.jpg",
+                       "source_name":  "backgrounds/246.jpg",
+                       "sha256":  "187fecd4e107328a6f78b355f2a143999162a06d58bbfea6fc775217b4e92963",
+                       "bytes":  98448,
+                       "order":  246
+                   },
+                   {
+                       "id":  "shared-247",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/247.jpg",
+                       "source_name":  "backgrounds/247.jpg",
+                       "sha256":  "d6d031bac08560e9c2da37ed016a791d8fe67ef6ba780092a67edc0c857f7d4b",
+                       "bytes":  253466,
+                       "order":  247
+                   },
+                   {
+                       "id":  "shared-248",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/248.jpg",
+                       "source_name":  "backgrounds/248.jpg",
+                       "sha256":  "115a36e97e320eea7c4a7ffdbc7912c4e5d41e5c39a5138a835cad7e6d44296d",
+                       "bytes":  330856,
+                       "order":  248
+                   },
+                   {
+                       "id":  "shared-249",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/249.jpg",
+                       "source_name":  "backgrounds/249.jpg",
+                       "sha256":  "124bc29685faaf19b7b28fe52af33bfeabc03e3aefc6957a2e8ed7fe68c31fba",
+                       "bytes":  274494,
+                       "order":  249
+                   },
+                   {
+                       "id":  "shared-250",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/250.jpg",
+                       "source_name":  "backgrounds/250.jpg",
+                       "sha256":  "7db6f40a0b256e69c5f8ff3d55dbf8d3baa5156790ba4dc1ee9a20bcf616ec87",
+                       "bytes":  299729,
+                       "order":  250
+                   },
+                   {
+                       "id":  "shared-251",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/251.jpg",
+                       "source_name":  "backgrounds/251.jpg",
+                       "sha256":  "c3b1c2fe887983c7a874fc07f2aea96f66f40888d1cc862b2ea553dd0b063719",
+                       "bytes":  72850,
+                       "order":  251
+                   },
+                   {
+                       "id":  "shared-252",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/252.jpg",
+                       "source_name":  "backgrounds/252.jpg",
+                       "sha256":  "24fc8be4ddb128daaf83638cf5a6fb0957ca8e49eb7af60e89626b1a7395d614",
+                       "bytes":  264015,
+                       "order":  252
+                   },
+                   {
+                       "id":  "shared-253",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/253.jpg",
+                       "source_name":  "backgrounds/253.jpg",
+                       "sha256":  "9ac23a10b9ef476d5a0a3c1901752eda54fedc819544cd5d26f0787757083d75",
+                       "bytes":  166684,
+                       "order":  253
+                   },
+                   {
+                       "id":  "shared-254",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/254.jpg",
+                       "source_name":  "backgrounds/254.jpg",
+                       "sha256":  "97afb04ba79ba79e6eee1fd141a8075fb10e295bfd52840edf4a8733fdcb12ed",
+                       "bytes":  288114,
+                       "order":  254
+                   },
+                   {
+                       "id":  "shared-255",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/255.jpg",
+                       "source_name":  "backgrounds/255.jpg",
+                       "sha256":  "d215037f41e82c7d69ce88a14dc6954dac9d130b12f352a4f32be120affa6b39",
+                       "bytes":  190979,
+                       "order":  255
+                   },
+                   {
+                       "id":  "shared-256",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/256.jpg",
+                       "source_name":  "backgrounds/256.jpg",
+                       "sha256":  "a7a0570197a8119f5db268c6e354b3f6281ce13cf919951785a84a3219a3687b",
+                       "bytes":  44281,
+                       "order":  256
+                   },
+                   {
+                       "id":  "shared-257",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/257.jpg",
+                       "source_name":  "backgrounds/257.jpg",
+                       "sha256":  "af755c2ffcb7143997b8c589b5757451a23a01e7957917bd318744ade15796a6",
+                       "bytes":  168270,
+                       "order":  257
+                   },
+                   {
+                       "id":  "shared-258",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/258.jpg",
+                       "source_name":  "backgrounds/258.jpg",
+                       "sha256":  "7c54b6735aa11754d282617e0f502d0f8f9c33fed6c07b0bdcbfd99391696e04",
+                       "bytes":  136048,
+                       "order":  258
+                   },
+                   {
+                       "id":  "shared-259",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/259.jpg",
+                       "source_name":  "backgrounds/259.jpg",
+                       "sha256":  "54346d275b68a08eeea3ad8dcf4885fc95590f1732fd164ae0bc02e0461db9f2",
+                       "bytes":  190827,
+                       "order":  259
+                   },
+                   {
+                       "id":  "shared-260",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/260.jpg",
+                       "source_name":  "backgrounds/260.jpg",
+                       "sha256":  "5ac652fdb052734b322e199d4dbb06c54c5f61ac723ca99d566dfd90f5d50567",
+                       "bytes":  220855,
+                       "order":  260
+                   },
+                   {
+                       "id":  "shared-261",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/261.jpg",
+                       "source_name":  "backgrounds/261.jpg",
+                       "sha256":  "fd9a0a0544fbe4869533aeb59f8788d525a4c4d2dd597ad226108f2856774aa6",
+                       "bytes":  179879,
+                       "order":  261
+                   },
+                   {
+                       "id":  "shared-262",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/262.jpg",
+                       "source_name":  "backgrounds/262.jpg",
+                       "sha256":  "6f9a928b506bd5b9a9e5f552f0c248b4323651ba8b59b1da1bc2532811bc5563",
+                       "bytes":  319487,
+                       "order":  262
+                   },
+                   {
+                       "id":  "shared-263",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/263.jpg",
+                       "source_name":  "backgrounds/263.jpg",
+                       "sha256":  "9587d77e2aca8d75dbb6f89f935a8605f345e9ca9392a84b326fc70420880306",
+                       "bytes":  141315,
+                       "order":  263
+                   },
+                   {
+                       "id":  "shared-264",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/264.jpg",
+                       "source_name":  "backgrounds/264.jpg",
+                       "sha256":  "bd8f50d59daf292c5878a3b17663d4fb44145f18f6903bd18fb8a97d12077229",
+                       "bytes":  252976,
+                       "order":  264
+                   },
+                   {
+                       "id":  "shared-265",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/265.jpg",
+                       "source_name":  "backgrounds/265.jpg",
+                       "sha256":  "523b4dd4d91e24ee5a3b143978c85f47509763f7cdb54aa45f48d957ca33b93e",
+                       "bytes":  310218,
+                       "order":  265
+                   },
+                   {
+                       "id":  "shared-266",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/266.jpg",
+                       "source_name":  "backgrounds/266.jpg",
+                       "sha256":  "f605d77e01b1496b47202772d9acf3d3eb5615d78f1f1cef9054aa9dc4c9dc0a",
+                       "bytes":  238419,
+                       "order":  266
+                   },
+                   {
+                       "id":  "shared-267",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/267.jpg",
+                       "source_name":  "backgrounds/267.jpg",
+                       "sha256":  "7b4d8d7b01308afd2956be463b8ae81679e9d1d7d87211d0cb73c9ca02321774",
+                       "bytes":  227001,
+                       "order":  267
+                   },
+                   {
+                       "id":  "shared-268",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/268.jpg",
+                       "source_name":  "backgrounds/268.jpg",
+                       "sha256":  "6088e5307bd686eb8bb8a1ea2390933d54d35e07c91e1842602270d97d1357da",
+                       "bytes":  207182,
+                       "order":  268
+                   },
+                   {
+                       "id":  "shared-269",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/269.jpg",
+                       "source_name":  "backgrounds/269.jpg",
+                       "sha256":  "2b8551bb2a202992c5e8604a0f934eff98c24c804cc8f3001ea581e82dbd3772",
+                       "bytes":  141438,
+                       "order":  269
+                   },
+                   {
+                       "id":  "shared-270",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/270.jpg",
+                       "source_name":  "backgrounds/270.jpg",
+                       "sha256":  "89773bcd567b57ac0c4bad7a0a5a25ac2eb42a8e7bbb44d407797a8f242927f6",
+                       "bytes":  259313,
+                       "order":  270
+                   },
+                   {
+                       "id":  "shared-271",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/271.jpg",
+                       "source_name":  "backgrounds/271.jpg",
+                       "sha256":  "5550d11ae810e46e018c64429604fa29cbe4231c411b30ea3dc69f834e71a180",
+                       "bytes":  81879,
+                       "order":  271
+                   },
+                   {
+                       "id":  "shared-272",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/272.jpg",
+                       "source_name":  "backgrounds/272.jpg",
+                       "sha256":  "1082f9eef5ffc2c06ecc3c51f06af1e78c4522c0b3289bf9ec574b4d574e4509",
+                       "bytes":  121438,
+                       "order":  272
+                   },
+                   {
+                       "id":  "shared-273",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/273.jpg",
+                       "source_name":  "backgrounds/273.jpg",
+                       "sha256":  "0498dd669ca5dc1e5cd9decb9260dcba42b84710207191b0096ba35ffd20795d",
+                       "bytes":  152515,
+                       "order":  273
+                   },
+                   {
+                       "id":  "shared-274",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/274.jpg",
+                       "source_name":  "backgrounds/274.jpg",
+                       "sha256":  "920c7e3705dd146ceaebbdac7004dd28e9c80e04ac260e9c87a31360e1634d43",
+                       "bytes":  162955,
+                       "order":  274
+                   },
+                   {
+                       "id":  "shared-275",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/275.jpg",
+                       "source_name":  "backgrounds/275.jpg",
+                       "sha256":  "8ac2a862e02f8ecfce50fa7b427eaac7cf454caecb9412468c5badf0e16eb6f1",
+                       "bytes":  167630,
+                       "order":  275
+                   },
+                   {
+                       "id":  "shared-276",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/276.jpg",
+                       "source_name":  "backgrounds/276.jpg",
+                       "sha256":  "1778a6dc99444d28822e2cc6fcf60deed8ee721a193f846477eb2e44a4f8fd23",
+                       "bytes":  77662,
+                       "order":  276
+                   },
+                   {
+                       "id":  "shared-277",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/277.jpg",
+                       "source_name":  "backgrounds/277.jpg",
+                       "sha256":  "fc2fd3499fb3c46cd0e432b6da11c953ea46f801af51a48fb6fd606ccab412bd",
+                       "bytes":  187036,
+                       "order":  277
+                   },
+                   {
+                       "id":  "shared-278",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/278.jpg",
+                       "source_name":  "backgrounds/278.jpg",
+                       "sha256":  "391f1f908a7e68f777bd09b8b5d29c48d81dcb10a2e0aa4ade2b07915b4d3852",
+                       "bytes":  64876,
+                       "order":  278
+                   },
+                   {
+                       "id":  "shared-279",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/279.jpg",
+                       "source_name":  "backgrounds/279.jpg",
+                       "sha256":  "7a20588fb6b738571ae77555d26d2dda9082784a8455fcb6278df0ea36a96c92",
+                       "bytes":  89832,
+                       "order":  279
+                   },
+                   {
+                       "id":  "shared-280",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/280.jpg",
+                       "source_name":  "backgrounds/280.jpg",
+                       "sha256":  "e0dd7c8d3e61ff3978f380abeb528d5d10c1d8d553374e27873aa4e3d1e16bee",
+                       "bytes":  367076,
+                       "order":  280
+                   },
+                   {
+                       "id":  "shared-281",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/281.jpg",
+                       "source_name":  "backgrounds/281.jpg",
+                       "sha256":  "ccd622100a88e64d2a0faf0d924a0c74c5b27006f98580371098a7fe7ba49712",
+                       "bytes":  102444,
+                       "order":  281
+                   },
+                   {
+                       "id":  "shared-282",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/282.jpg",
+                       "source_name":  "backgrounds/282.jpg",
+                       "sha256":  "c271c403df1600546832695b5047c8439f003fad82f086575c46de6e923a40ce",
+                       "bytes":  188109,
+                       "order":  282
+                   },
+                   {
+                       "id":  "shared-283",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/283.jpg",
+                       "source_name":  "backgrounds/283.jpg",
+                       "sha256":  "eae8a3e12d40ad0eb07108ade81d675f2b9698d466d18f3f5c5d3850591636aa",
+                       "bytes":  136125,
+                       "order":  283
+                   },
+                   {
+                       "id":  "shared-284",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/284.jpg",
+                       "source_name":  "backgrounds/284.jpg",
+                       "sha256":  "d83d593fdddb964edc5744dcc61c0d1e8a5f771559449b13e14cc72288ea5e67",
+                       "bytes":  190417,
+                       "order":  284
+                   },
+                   {
+                       "id":  "shared-285",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/285.jpg",
+                       "source_name":  "backgrounds/285.jpg",
+                       "sha256":  "0fca454733a4f074c16062d3995e4e8674ef79508f6bbaa932b440fbe6f6f0f9",
+                       "bytes":  124826,
+                       "order":  285
+                   },
+                   {
+                       "id":  "shared-286",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/286.jpg",
+                       "source_name":  "backgrounds/286.jpg",
+                       "sha256":  "0390e04291bc638ceb1dbab34293ddb23c505cc77ee6a1f312f14612297ab9ee",
+                       "bytes":  442312,
+                       "order":  286
+                   },
+                   {
+                       "id":  "shared-287",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/287.jpg",
+                       "source_name":  "backgrounds/287.jpg",
+                       "sha256":  "05af3259b0ae3a0456aa29f44d4ba35c1084493b74f51234403f21eba01dc0a7",
+                       "bytes":  71530,
+                       "order":  287
+                   },
+                   {
+                       "id":  "shared-288",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/288.jpg",
+                       "source_name":  "backgrounds/288.jpg",
+                       "sha256":  "de95ba65122c16c728cbc93271871189b80ba47468d41e4218868665c7259108",
+                       "bytes":  124603,
+                       "order":  288
+                   },
+                   {
+                       "id":  "shared-289",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/289.jpg",
+                       "source_name":  "backgrounds/289.jpg",
+                       "sha256":  "22cf845df2414cf6b097033af7faa56abd8465adc161349551fb7af8868a516c",
+                       "bytes":  102595,
+                       "order":  289
+                   },
+                   {
+                       "id":  "shared-290",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/290.jpg",
+                       "source_name":  "backgrounds/290.jpg",
+                       "sha256":  "8e796776054cb49270a375c9aa156cd9c0aa1a61f7ad1aedc8056a581ee6cfb7",
+                       "bytes":  233988,
+                       "order":  290
+                   },
+                   {
+                       "id":  "shared-291",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/291.jpg",
+                       "source_name":  "backgrounds/291.jpg",
+                       "sha256":  "80255e3dc70ced84f14d36940832c5ce75bda51e08b94e5ebf9629d1cd13be98",
+                       "bytes":  368710,
+                       "order":  291
+                   },
+                   {
+                       "id":  "shared-292",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/292.jpg",
+                       "source_name":  "backgrounds/292.jpg",
+                       "sha256":  "a50b358f594fd6448457217c02fce9d347432c81787e7a043be94f41e16fb2d5",
+                       "bytes":  39753,
+                       "order":  292
+                   },
+                   {
+                       "id":  "shared-293",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/293.jpg",
+                       "source_name":  "backgrounds/293.jpg",
+                       "sha256":  "4a3cd474fbcfeeef334d860555374f3af2d444bc776a213a99f8f35608916393",
+                       "bytes":  172997,
+                       "order":  293
+                   },
+                   {
+                       "id":  "shared-294",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/294.jpg",
+                       "source_name":  "backgrounds/294.jpg",
+                       "sha256":  "65fbbc4c8af1001411722bd260f39717eca852b6584d59a33079cb1ddabb3f04",
+                       "bytes":  209746,
+                       "order":  294
+                   },
+                   {
+                       "id":  "shared-295",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/295.jpg",
+                       "source_name":  "backgrounds/295.jpg",
+                       "sha256":  "0cb63752744088d6173c781954277641d8e530d6bc15430c69b694a6a1b53746",
+                       "bytes":  310003,
+                       "order":  295
+                   },
+                   {
+                       "id":  "shared-296",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/296.jpg",
+                       "source_name":  "backgrounds/296.jpg",
+                       "sha256":  "706b883be142aba11c0c24bf8459a59c18021093f10d34b9dcb89484f6e6374c",
+                       "bytes":  239625,
+                       "order":  296
+                   },
+                   {
+                       "id":  "shared-297",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/297.jpg",
+                       "source_name":  "backgrounds/297.jpg",
+                       "sha256":  "0844c6cb3518be3aa089dbdcbbfe7dde1aa09f4243e063c11d23e9176e620c93",
+                       "bytes":  74544,
+                       "order":  297
+                   },
+                   {
+                       "id":  "shared-298",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/298.jpg",
+                       "source_name":  "backgrounds/298.jpg",
+                       "sha256":  "c1268c151726a5f0c60999c0b8cd91a872c5066660fdc4f0015eca660e9c48a8",
+                       "bytes":  157415,
+                       "order":  298
+                   },
+                   {
+                       "id":  "shared-299",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/299.jpg",
+                       "source_name":  "backgrounds/299.jpg",
+                       "sha256":  "55f6fe6a90356e350c545184929901e67b7c9ba1f24ac796f011366bdafcddd6",
+                       "bytes":  167225,
+                       "order":  299
+                   },
+                   {
+                       "id":  "shared-300",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/300.jpg",
+                       "source_name":  "backgrounds/300.jpg",
+                       "sha256":  "6073fa9009c3c6d81bc1ff98aac3d44f34df4dbfcdc038036ea4bd7d8ef0709b",
+                       "bytes":  103675,
+                       "order":  300
+                   },
+                   {
+                       "id":  "shared-301",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/301.jpg",
+                       "source_name":  "backgrounds/301.jpg",
+                       "sha256":  "53357e568f08228954cd1adfe4ff1b97865192adbab7d711e1bd50be0b239e04",
+                       "bytes":  383048,
+                       "order":  301
+                   },
+                   {
+                       "id":  "shared-302",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/302.jpg",
+                       "source_name":  "backgrounds/302.jpg",
+                       "sha256":  "ba60a441972eb7d19e2e2e65f6e51d8c066b0e049874328a5131452c1405a7be",
+                       "bytes":  120422,
+                       "order":  302
+                   },
+                   {
+                       "id":  "shared-303",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/303.jpg",
+                       "source_name":  "backgrounds/303.jpg",
+                       "sha256":  "617a5873b22ab608f26993b285e7c256129df2dc974d815a9eabb891f98d2578",
+                       "bytes":  40134,
+                       "order":  303
+                   },
+                   {
+                       "id":  "shared-304",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/304.jpg",
+                       "source_name":  "backgrounds/304.jpg",
+                       "sha256":  "151243f4017d8819c580b514e7179d7415ee388c265d49f721a5769157bc2e4d",
+                       "bytes":  131153,
+                       "order":  304
+                   },
+                   {
+                       "id":  "shared-305",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/305.jpg",
+                       "source_name":  "backgrounds/305.jpg",
+                       "sha256":  "1cb89beb83d534f2a3c303aa64c6d74382c31a4b8db79ec6796ffc8a77a5a32c",
+                       "bytes":  156664,
+                       "order":  305
+                   },
+                   {
+                       "id":  "shared-306",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/306.jpg",
+                       "source_name":  "backgrounds/306.jpg",
+                       "sha256":  "68748d1085d156c16e850bb12263e24e9b41d176b7381dc4c1589a8116cfc119",
+                       "bytes":  88567,
+                       "order":  306
+                   },
+                   {
+                       "id":  "shared-307",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/307.jpg",
+                       "source_name":  "backgrounds/307.jpg",
+                       "sha256":  "eaeacc16db6864fec4038dc4af6109344c53cb5d24657108ae3201a21f2681ac",
+                       "bytes":  203419,
+                       "order":  307
+                   },
+                   {
+                       "id":  "shared-308",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/308.jpg",
+                       "source_name":  "backgrounds/308.jpg",
+                       "sha256":  "1e84227de83022937eeaee75c9a1c03ea756ecd675d9c76249078211d92c5aad",
+                       "bytes":  65567,
+                       "order":  308
+                   },
+                   {
+                       "id":  "shared-309",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/309.jpg",
+                       "source_name":  "backgrounds/309.jpg",
+                       "sha256":  "58af23ee008c10ae1aafa0b10b32d67464347b3a7dd9618a6362c202434a5695",
+                       "bytes":  172934,
+                       "order":  309
+                   },
+                   {
+                       "id":  "shared-310",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/310.jpg",
+                       "source_name":  "backgrounds/310.jpg",
+                       "sha256":  "c8f685f86d0063b269af350d4fc4d26696d36e986a2f3982261bedf8ee6e5e8e",
+                       "bytes":  224252,
+                       "order":  310
+                   },
+                   {
+                       "id":  "shared-311",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/311.jpg",
+                       "source_name":  "backgrounds/311.jpg",
+                       "sha256":  "05af3259b0ae3a0456aa29f44d4ba35c1084493b74f51234403f21eba01dc0a7",
+                       "bytes":  71530,
+                       "order":  311
+                   },
+                   {
+                       "id":  "shared-312",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/312.jpg",
+                       "source_name":  "backgrounds/312.jpg",
+                       "sha256":  "835a80647b05c5d54815d6f5e6fe2a8fe96cd0a97b1310bbbbdae500afe9f8a3",
+                       "bytes":  277048,
+                       "order":  312
+                   },
+                   {
+                       "id":  "shared-313",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/313.jpg",
+                       "source_name":  "backgrounds/313.jpg",
+                       "sha256":  "5efcf3309eff8d8dc35d35722115c27e55771918cfc20d5d8d2de9218250ebae",
+                       "bytes":  153374,
+                       "order":  313
+                   },
+                   {
+                       "id":  "shared-314",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/314.jpg",
+                       "source_name":  "backgrounds/314.jpg",
+                       "sha256":  "b16f1fb1ec6d9454cfd0e5dba92cda13434dac649d3496cf81b9eeddd89970c3",
+                       "bytes":  67616,
+                       "order":  314
+                   },
+                   {
+                       "id":  "shared-315",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/315.jpg",
+                       "source_name":  "backgrounds/315.jpg",
+                       "sha256":  "d3cfdb75a7939f478ae9289095b6b6da0b546412ce4ed07b5924e1786d96cd09",
+                       "bytes":  190963,
+                       "order":  315
+                   },
+                   {
+                       "id":  "shared-316",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/316.jpg",
+                       "source_name":  "backgrounds/316.jpg",
+                       "sha256":  "4ad111efb80268eaad3e706f5eeca7b03b50148040a14767a9b5221e9483ec3d",
+                       "bytes":  344270,
+                       "order":  316
+                   },
+                   {
+                       "id":  "shared-317",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/317.jpg",
+                       "source_name":  "backgrounds/317.jpg",
+                       "sha256":  "0e5c4cdddf67fbb399ce208a307254393861b70a675a8cd84c509466b39a32ef",
+                       "bytes":  79075,
+                       "order":  317
+                   },
+                   {
+                       "id":  "shared-318",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/318.jpg",
+                       "source_name":  "backgrounds/318.jpg",
+                       "sha256":  "187fecd4e107328a6f78b355f2a143999162a06d58bbfea6fc775217b4e92963",
+                       "bytes":  98448,
+                       "order":  318
+                   },
+                   {
+                       "id":  "shared-319",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/319.jpg",
+                       "source_name":  "backgrounds/319.jpg",
+                       "sha256":  "f9ac6eabf28ff54ee109c725b29a6442163c83b20462ba98c132fb54518d4ceb",
+                       "bytes":  231405,
+                       "order":  319
+                   },
+                   {
+                       "id":  "shared-320",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/320.jpg",
+                       "source_name":  "backgrounds/320.jpg",
+                       "sha256":  "2d444374a3afee33707beb2fb9ffc58c46e33f30e0a992ba7fcfe5244b265a04",
+                       "bytes":  184479,
+                       "order":  320
+                   },
+                   {
+                       "id":  "shared-321",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/321.jpg",
+                       "source_name":  "backgrounds/321.jpg",
+                       "sha256":  "e1aceff96bc9ca1c8c6e48ef94067b08667497c93fb8bb32f3f029a263fcf0bf",
+                       "bytes":  307797,
+                       "order":  321
+                   },
+                   {
+                       "id":  "shared-322",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/322.jpg",
+                       "source_name":  "backgrounds/322.jpg",
+                       "sha256":  "46713505ddf0c3139266b79949f558326307d6ae4a65c1a18527a28f558d8956",
+                       "bytes":  92744,
+                       "order":  322
+                   },
+                   {
+                       "id":  "shared-323",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/323.jpg",
+                       "source_name":  "backgrounds/323.jpg",
+                       "sha256":  "45553df3ee21c0ca3af23c58e59928048da9e0323934296292516428c6548eaa",
+                       "bytes":  92752,
+                       "order":  323
+                   },
+                   {
+                       "id":  "shared-324",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/324.jpg",
+                       "source_name":  "backgrounds/324.jpg",
+                       "sha256":  "dadf2a5dc60a910ba0beb10ce66de5f03fd87e1b433e13404bee7a88f4bd5eb2",
+                       "bytes":  115866,
+                       "order":  324
+                   },
+                   {
+                       "id":  "shared-325",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/325.jpg",
+                       "source_name":  "backgrounds/325.jpg",
+                       "sha256":  "e27bc9c9fd05699dd317f023f5675fbeeccf896dc57e23cb21f0af8862856d0f",
+                       "bytes":  251883,
+                       "order":  325
+                   },
+                   {
+                       "id":  "shared-326",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/326.jpg",
+                       "source_name":  "backgrounds/326.jpg",
+                       "sha256":  "2647ad8023c7442067b4b2c0e65fd8904e416f97cf626177bae5c3ea88de5384",
+                       "bytes":  317798,
+                       "order":  326
+                   },
+                   {
+                       "id":  "shared-327",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/327.jpg",
+                       "source_name":  "backgrounds/327.jpg",
+                       "sha256":  "21b99a6243ff26e6a7bf2931c3f8d2bb4c64128634b71018586a2497c7770837",
+                       "bytes":  334838,
+                       "order":  327
+                   },
+                   {
+                       "id":  "shared-328",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/328.jpg",
+                       "source_name":  "backgrounds/328.jpg",
+                       "sha256":  "cc840e779d2e444afdd74df1d703a189dd8e4532a5ac2f6bf7351d758c46b3c5",
+                       "bytes":  116043,
+                       "order":  328
+                   },
+                   {
+                       "id":  "shared-329",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/329.jpg",
+                       "source_name":  "backgrounds/329.jpg",
+                       "sha256":  "dcffe58808c6e9b1d89f683f0cb1a8fd076d94d8411bbd24ea97c7c62d17c9f1",
+                       "bytes":  123208,
+                       "order":  329
+                   },
+                   {
+                       "id":  "shared-330",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/330.jpg",
+                       "source_name":  "backgrounds/330.jpg",
+                       "sha256":  "3b8ac5eef77c752e1a479ed4cfaa63f017b05cf4f95238a1655c9f5874687478",
+                       "bytes":  187596,
+                       "order":  330
+                   },
+                   {
+                       "id":  "shared-331",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/331.jpg",
+                       "source_name":  "backgrounds/331.jpg",
+                       "sha256":  "60f9f7c1e432b192f4e9111a188b50abfa4476da921d9d9250a72fd7d74f7f2f",
+                       "bytes":  488045,
+                       "order":  331
+                   },
+                   {
+                       "id":  "shared-332",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/332.jpg",
+                       "source_name":  "backgrounds/332.jpg",
+                       "sha256":  "6073fa9009c3c6d81bc1ff98aac3d44f34df4dbfcdc038036ea4bd7d8ef0709b",
+                       "bytes":  103675,
+                       "order":  332
+                   },
+                   {
+                       "id":  "shared-333",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/333.jpg",
+                       "source_name":  "backgrounds/333.jpg",
+                       "sha256":  "f59a332d1e88c1b0d939576f55327ec028439365b8d4e50741d129653220c935",
+                       "bytes":  191164,
+                       "order":  333
+                   },
+                   {
+                       "id":  "shared-334",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/334.jpg",
+                       "source_name":  "backgrounds/334.jpg",
+                       "sha256":  "4a455b3a79e5966a6bc3efaf2828ac061b2eca5d28195d212586764950824f59",
+                       "bytes":  99976,
+                       "order":  334
+                   },
+                   {
+                       "id":  "shared-335",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/335.jpg",
+                       "source_name":  "backgrounds/335.jpg",
+                       "sha256":  "c271c403df1600546832695b5047c8439f003fad82f086575c46de6e923a40ce",
+                       "bytes":  188109,
+                       "order":  335
+                   },
+                   {
+                       "id":  "shared-336",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/336.jpg",
+                       "source_name":  "backgrounds/336.jpg",
+                       "sha256":  "3d1c84e5debb142d180a6f068887e3150403f1fecbf3ac73dec1ee770df811d8",
+                       "bytes":  291421,
+                       "order":  336
+                   },
+                   {
+                       "id":  "shared-337",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/337.jpg",
+                       "source_name":  "backgrounds/337.jpg",
+                       "sha256":  "ff212531efb10574918508d6d43cb88a0df92b13b24b729a5d2884e293b21390",
+                       "bytes":  178004,
+                       "order":  337
+                   },
+                   {
+                       "id":  "shared-338",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/338.jpg",
+                       "source_name":  "backgrounds/338.jpg",
+                       "sha256":  "7ef4789c12e1c9c4183f2429cda6f327fa06b16dd9b1d6a068080c484cff8a17",
+                       "bytes":  181713,
+                       "order":  338
+                   },
+                   {
+                       "id":  "shared-339",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/339.jpg",
+                       "source_name":  "backgrounds/339.jpg",
+                       "sha256":  "7acae836d06c27e286a6e3a127b465ea88217ab0b54624ac1df3b715878b1a48",
+                       "bytes":  247085,
+                       "order":  339
+                   },
+                   {
+                       "id":  "shared-340",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/340.jpg",
+                       "source_name":  "backgrounds/340.jpg",
+                       "sha256":  "6079b3bdb82cc320d4bd426f1b83c70efd9653fd3ad7a08ce4e66483c542efc3",
+                       "bytes":  138899,
+                       "order":  340
+                   },
+                   {
+                       "id":  "shared-341",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/341.jpg",
+                       "source_name":  "backgrounds/341.jpg",
+                       "sha256":  "9650860b80edc67ec9ca371301f8864a55bb92dd89c3969c682366061bb00689",
+                       "bytes":  203693,
+                       "order":  341
+                   },
+                   {
+                       "id":  "shared-342",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/342.jpg",
+                       "source_name":  "backgrounds/342.jpg",
+                       "sha256":  "ffb3a0b32ebc6162148a0fe43965a5dec92ee38e0c727351dbd69460a14a6cf4",
+                       "bytes":  47780,
+                       "order":  342
+                   },
+                   {
+                       "id":  "shared-343",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/343.jpg",
+                       "source_name":  "backgrounds/343.jpg",
+                       "sha256":  "d3f0b11a9a807a6926a884c8b964880241dddc441d9d82f0949b6a9eec3d0011",
+                       "bytes":  182168,
+                       "order":  343
+                   },
+                   {
+                       "id":  "shared-344",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/344.jpg",
+                       "source_name":  "backgrounds/344.jpg",
+                       "sha256":  "835a80647b05c5d54815d6f5e6fe2a8fe96cd0a97b1310bbbbdae500afe9f8a3",
+                       "bytes":  277048,
+                       "order":  344
+                   },
+                   {
+                       "id":  "shared-345",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/345.jpg",
+                       "source_name":  "backgrounds/345.jpg",
+                       "sha256":  "5308679261d10548aeb355496c470e1f6783200d00feb147dc3abe62655aea88",
+                       "bytes":  99122,
+                       "order":  345
+                   },
+                   {
+                       "id":  "shared-346",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/346.jpg",
+                       "source_name":  "backgrounds/346.jpg",
+                       "sha256":  "6bd2cd1d2a6db837bb7f985515bb7d7388ad701e4eceab8bd774123a9f7c3912",
+                       "bytes":  215265,
+                       "order":  346
+                   },
+                   {
+                       "id":  "shared-347",
+                       "file":  "backgrounds/mihrap_screensaver_shared/backgrounds/347.jpg",
+                       "source_name":  "backgrounds/347.jpg",
+                       "sha256":  "c3e965c4a5661cee74bef1e6c686b1de7f1c18b69ab130ddeb5db04334904e34",
+                       "bytes":  119958,
+                       "order":  347
+                   }
+               ]
+}

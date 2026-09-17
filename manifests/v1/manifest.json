@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-27T19:18:56Z",
+  "updated": "2026-09-17T20:13:29.897800+00:00",
   "github_repo": "mihrapnidaapp/tefekkur-assets",
   "download_url_template": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/{tag}/{file}",
   "apk": {
@@ -82,6 +82,12 @@
       "count": 446,
       "manifest": "manifests/packages/screensaver-ar.json",
       "release_tag": "screensaver-ar-v4"
+    },
+    "screensaver-shared": {
+      "revision": 1,
+      "count": 347,
+      "manifest": "manifests/packages/screensaver-shared.json",
+      "release_tag": "screensaver-shared-v1"
     }
   }
 }
