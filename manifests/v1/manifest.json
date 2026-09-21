@@ -84,7 +84,7 @@
       "release_tag": "screensaver-ar-v4"
     },
     "screensaver-shared": {
-      "revision": 1,
+      "revision": 2,
       "count": 347,
       "manifest": "manifests/packages/screensaver-shared.json",
       "release_tag": "screensaver-shared-v1"
