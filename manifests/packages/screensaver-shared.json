@@ -1,14 +1,14 @@
 {
     "package":  "screensaver-shared",
-    "revision":  7,
-    "updated":  "2026-09-22T12:27:03.0207720Z",
+    "revision":  8,
+    "updated":  "2026-09-22T13:28:18.0970419Z",
     "folder":  "backgrounds/mihrap_screensaver_shared",
     "count":  347,
     "archive":  {
                     "url":  "https://raw.githubusercontent.com/mihrapnidaapp/tefekkur-assets/main/packages/shared/mihrap_screensavers_347_v1.zip",
                     "file":  "mihrap_screensavers_347_v1.zip",
-                    "bytes":  63883995,
-                    "sha256":  "0b24aa73d13f15fa72a14a440232f900d7d6a3387fc8d4840a8566cd34d92c5c"
+                    "bytes":  67315490,
+                    "sha256":  "1d543977967cf401567aff5d5efd2ac3a26edc940c3dfba67b8f97aa36c6afb7"
                 },
     "slides":  [
                    {
