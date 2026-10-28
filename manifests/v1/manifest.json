@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "updated": "2026-10-27T20:35:01.455997+00:00",
+  "updated": "2026-10-28T09:35:53.398357+00:00",
   "github_repo": "mihrapnidaapp/tefekkur-assets",
   "download_url_template": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/{tag}/{file}",
   "apk": {
-    "versionCode": 212,
-    "versionName": "1.0.13",
+    "versionCode": 213,
+    "versionName": "1.0.14",
     "file": "mihrap.apk",
-    "release_tag": "apk-v1.0.13",
-    "bytes": 32545601
+    "release_tag": "apk-v1.0.14",
+    "bytes": 32545790
   },
   "packages": {
     "azan-turkey": {
