@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "updated": "2026-10-28T10:38:09.353134+00:00",
+  "updated": "2026-11-06T00:04:13.986781+00:00",
   "github_repo": "mihrapnidaapp/tefekkur-assets",
   "download_url_template": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/{tag}/{file}",
   "apk": {
-    "versionCode": 214,
-    "versionName": "1.0.15",
+    "versionCode": 215,
+    "versionName": "1.0.16",
     "file": "mihrap.apk",
-    "release_tag": "apk-v1.0.15",
-    "bytes": 32545627
+    "release_tag": "apk-v1.0.16",
+    "bytes": 32547263
   },
   "packages": {
     "azan-turkey": {
@@ -18,16 +18,16 @@
       "release_tag": "azan-turkey-v6"
     },
     "azan-mecca": {
-      "revision": 2,
+      "revision": 3,
       "count": 7,
       "manifest": "manifests/packages/azan-mecca.json",
-      "release_tag": "azan-mecca-v2"
+      "release_tag": "azan-mecca-v3"
     },
     "azan-egypt": {
-      "revision": 2,
+      "revision": 3,
       "count": 10,
       "manifest": "manifests/packages/azan-egypt.json",
-      "release_tag": "azan-egypt-v2"
+      "release_tag": "azan-egypt-v3"
     },
     "azan-turkey2": {
       "revision": 1,
