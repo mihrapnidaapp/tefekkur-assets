@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "updated": "2026-11-22T21:49:22.890878+00:00",
+  "updated": "2026-11-24T14:20:40.866344+00:00",
   "github_repo": "mihrapnidaapp/tefekkur-assets",
   "download_url_template": "https://github.com/mihrapnidaapp/tefekkur-assets/releases/download/{tag}/{file}",
   "apk": {
-    "versionCode": 217,
-    "versionName": "1.0.18",
+    "versionCode": 218,
+    "versionName": "1.0.19",
     "file": "mihrap.apk",
-    "release_tag": "apk-v1.0.18",
-    "bytes": 32560082
+    "release_tag": "apk-v1.0.19",
+    "bytes": 32561594
   },
   "packages": {
     "azan-turkey": {
@@ -42,10 +42,10 @@
       "release_tag": "audio-extras-v4"
     },
     "adhan-visuals": {
-      "revision": 6,
-      "count": 33,
+      "revision": 7,
+      "count": 40,
       "manifest": "manifests/packages/adhan-visuals.json",
-      "release_tag": "adhan-visuals-v6"
+      "release_tag": "adhan-visuals-v7"
     },
     "screensaver-shared": {
       "revision": 3,
